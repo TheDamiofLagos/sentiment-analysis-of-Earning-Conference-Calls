@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="12652270" lastUpdate="Tuesday, August 27, 2019 at 11:11:13am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="12652270.F" expirationDate="Thursday, August 1, 2019 at 9:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of NTAP earnings conference call or presentation 1-Aug-19 9:00pm GMT]]></Headline>
+    <Body><![CDATA[Preliminary Q1 2020 NetApp Inc Earnings Call
+
+SUNNYVALE Aug 27, 2019 (Thomson StreetEvents) -- Edited Transcript of NetApp Inc earnings conference call or presentation Thursday, August 1, 2019 at 9:00:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  George Kurian
+      NetApp, Inc. - CEO, President &amp; Director
+   *  Kris Newton
+      NetApp, Inc. - VP of Corporate Communications &amp; IR
+   *  Ronald J. Pasek
+      NetApp, Inc. - Executive VP &amp; CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Aaron Christopher Rakers
+      Wells Fargo Securities, LLC, Research Division - MD of IT Hardware &amp; Networking Equipment and Senior Analyst
+   *  Amit Jawaharlaz Daryanani
+      Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst
+   *  Ananda Prosad Baruah
+      Loop Capital Markets LLC, Research Division - MD
+   *  Asiya Merchant
+      Citigroup Inc, Research Division - Research Analyst
+   *  Elizabeth Mary Elliott
+      Morgan Stanley, Research Division - Research Associate
+   *  Eric Martinuzzi
+      Lake Street Capital Markets, LLC, Research Division - Head of Research &amp; Senior Research Analyst
+   *  George Michael Iwanyc
+      Oppenheimer &amp; Co. Inc., Research Division - Associate
+   *  Karl Fredrick Ackerman
+      Cowen and Company, LLC, Research Division - Director &amp; Senior Research Analyst
+   *  Nehal Sushil Chokshi
+      Maxim Group LLC, Research Division - MD
+   *  Roderick B. Hall
+      Goldman Sachs Group Inc., Research Division - MD
+   *  Simon Matthew Leopold
+      Raymond James &amp; Associates, Inc., Research Division - Research Analyst
+   *  Steven Bryant Fox
+      Cross Research LLC - MD
+   *  Wamsi Mohan
+      BofA Merrill Lynch, Research Division - Director
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+  Good day, ladies and gentlemen, and welcome to the NetApp Reports Preliminary First Quarter Fiscal Year 2020 Results. (Operator Instructions) I would now like to introduce your host for today's conference, Ms. Kris Newton. You may begin.
+--------------------------------------------------------------------------------
+ Kris Newton,  NetApp, Inc. - VP of Corporate Communications &amp; IR   [2]
+--------------------------------------------------------------------------------
+  Thank you for joining us. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com.
+ During today's call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects such as our revised guidance for the first quarter and full fiscal year 2020, our expectations regarding future revenue, profitability, shareholder return and our ability to improve execution, gain share and reallocate resources, all of which involve risk and uncertainty. We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially for a variety of reasons, including macroeconomic and market conditions, the IT capital spending environment and our ability to expand our total available market, acquire new accounts, expand in existing accounts, capitalize on our Data Fabric strategy, consistently execute and continue our capital allocation strategy.
+ Please also refer to the documents we file from time to time with the SEC available on our website, specifically our most recent Form 10-K for fiscal year 2019, including the Management's Discussion and Analysis of Financial Conditions and Results of Operations and Risk Factors sections, and our current reports on Form 8-K. During the call, all financial measures presented will be non-GAAP, unless otherwise indicated. Reconciliations of GAAP to non-GAAP estimates are posted on our website.
+ I'll now turn the call over to Ron.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [3]
+--------------------------------------------------------------------------------
+  Thank you, Kris, and thank you to everyone for joining us on such short notice. We are clearly disappointed by the preliminary revenue and EPS shortfall outlined in today's press release. During this call, we will discuss the primary factors we believe impacted our business this quarter and our plan to address the challenges we face.
+ I'll now walk through our preliminary results and updated revenue guidance for fiscal 2020. Our first quarter preliminary revenues are expected to be between $1.22 billion and $1.23 billion, down approximately 17% from the first quarter of last year. As a reminder, the Q1 '19 compare includes $90 million in ELA revenues, which did not repeat this quarter. Adjusting for ELA, Q1 preliminary revenues would have been down approximately 12%.
+ Our preliminary Q1 non-GAAP gross margin is expected to be above our guidance range of 65%, due primarily to the mix shift toward higher-margin maintenance revenue as a result of the weakness in product sales.
+ We expect first quarter non-GAAP earnings per share to range between $0.55 and $0.60. It is our view that the IT capital spending environment clearly worsened during the quarter. As a result of the magnitude of our Q1 revenue shortfall as well as the worsening macro environment, we feel it's prudent to update our revenue guidance for the full year.
+ For fiscal 2020, we expect revenues to be down between 5% and 10% year-over-year. The revenue decline will clearly have an impact on our fiscal 2020 EPS outlook, which we plan to update on our August 14 call.
+ From a business model perspective, the gross margin and cost structure improvement we've made over the last 2 to 3 years provide support for our free cash flow generation despite the muted macro environment. As such, we remain committed to our capital allocation policy of returning cash to shareholders through share buybacks and our recently increased quarterly dividend.
+ We will provide our full Q1 results on our August 14 conference call, including cash flow and balance sheet metrics. We'll also provide guidance for our Q2 fiscal 2020 quarter at that time.
+ At this point, I will turn the call over to George to share his perspective on the business and how we plan to address the challenges we faced this quarter. George?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [4]
+--------------------------------------------------------------------------------
+  Thanks, Ron. We are clearly disappointed with the results of our first quarter. I want to address what happened, why we didn't see this coming when we provided our prior Q1 guidance and what we are doing moving forward.
+ I'll begin with what happened. We saw a softening of the IT hardware spending environment in the back half of the quarter. However, the slowdown was not across the board. Our APAC, Europe and U.S. public sector geographies were mostly on track.
+ Let me characterize the areas of weakness. First, our largest global enterprise accounts have taken a decidedly more cautious view of the macroeconomic environment. These large accounts are spending considerably less in total CapEx this year compared to calendar year '18. In the past several years, we've had a focus on growing in our top global customers. We've made great progress in some, but need to do more to expand our share in a broader set of these customers. Because of our reliance on some of these very large accounts, we may be more susceptible to the slowdown in spending related to the macro.
+ Second, in addition, in the Americas, we continue to experience execution issues in acquiring new accounts and selling private cloud and cloud data services offerings. We know we need to be in more transactions and more customers, selling our full portfolio to achieve our desired growth rate. Additionally, this weakness was contained to our storage business. Both private Cloud and cloud data services grew year-over-year in Q1, but they're still a small part of our business and not yet able to offset the slowdown in storage.
+ Based on discussions with many of our large global accounts, we absolutely do not believe that the shortfall was related to a change in the competitive environment. We did not see a decline in win rates, and our product gross margins remained strong.
+ Now let me talk about why we didn't see this coming. We were largely on track to meet our guidance until the second half of the quarter. We then saw a deterioration in our close rates against the pipeline with deals getting both pushed out or downsized, especially in our largest global customers and the Americas. While we believe it is taking longer than anticipated for our largest customers to absorb capacity buys from last year, it's also increasingly clear that the macro outlook at enterprises geared to the global economy has taken a negative turn.
+ Finally, I'll address our go-forward plan. As I've noted, we believe that the majority of our miss is related to a meaningful deceleration in overall IT hardware spending due to growing macro uncertainties. That said, we need to improve our execution to gain share by selling the value of our portfolio and more aggressively attacking the private cloud and cloud data services opportunities. We also need to continue to focus our attention on new account acquisition and wallet expansion at existing customers. We remain confident that we have the right strategy and technologies to gain share even in a down market. We consistently hear from customers and partners that our hybrid multicloud portfolio is the right one. And we are seeing good results by those teams who are acquiring new customers and are selling our full portfolio. These facts reinforce our belief that we can return to growth over time. In order to do so and as we discussed on our Q4 call, we are investing in increased sales coverage by adding dedicated reps to acquire new accounts without increasing the total operating expense envelope of the business. We will continue to make investment trade-offs to reallocate resources towards those activities with high returns, like increasing sales coverage and accelerating our private cloud and cloud data services businesses.
+ In summary, our shortfall was primarily due to lower IT hardware spending related to macro concerns at our largest customers and, to a lesser extent, execution issues in the Americas. However, we believe we can gain share by increasing sales coverage and accelerating our participation in the growing private cloud and cloud data services markets. We have a strong business model from the gross margin and cost structure improvements that we've made over the last several years. We will continue to be disciplined in managing our expenses while adding the sales capacity needed to return the business to growth and to achieve our long-term top line goals. And we remain committed to our capital allocation policy of returning cash to shareholders through share buyback and a quarterly dividend. We will provide more information when we report our full first quarter results and the outlook for Q2 and the year.
+--------------------------------------------------------------------------------
+ Kris Newton,  NetApp, Inc. - VP of Corporate Communications &amp; IR   [5]
+--------------------------------------------------------------------------------
+  Thank you, George. We'll now open the call for questions. (Operator Instructions) Skyler, can you please open the line?
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+  (Operator Instructions) Our first question comes from Rod Hall with Goldman Sachs.
+--------------------------------------------------------------------------------
+ Roderick B. Hall,  Goldman Sachs Group Inc., Research Division - MD   [2]
+--------------------------------------------------------------------------------
+  So I guess I wanted to start, George, and see if we could dig into the trajectory of spending, maybe some of the conversations you've been having. We get the macro is weak. It seems to have exited April, May pretty weak due to the trade stuff. I'm just wondering are people telling you that they're resetting budgets down? Or do you think people still hold their budgets relatively constant, hoping things get better? I mean what kind of conversations are you having? And then I have a follow-up.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [3]
+--------------------------------------------------------------------------------
+  I think it depends on the specific customer. I think when we look at what happened from the start of this year till now, we have seen a steady deceleration in the macro outlook at our largest customers that has impacted their capital expenditures, but that data is available in the public domain. What we have seen through the course of the quarter, is we entered the quarter with adequate pipeline and our close rate against that pipeline through the first part of the quarter was actually on track. As the quarter progressed, the close rate started to deteriorate substantially as deals were pushed out or downsized. So far, we have seen a small percentage of the deals get canceled, which is a reflection of budgets potentially getting downsized, but we've also seen deals getting pushed out quite substantially, which is why we have been more cautious in our perspective for the full year.
+--------------------------------------------------------------------------------
+ Roderick B. Hall,  Goldman Sachs Group Inc., Research Division - MD   [4]
+--------------------------------------------------------------------------------
+  Okay. And then on the follow-up, I just wanted to see, could you give us any idea how customers are -- if they're prioritizing by product types? Are you seeing more weakness in hybrid? Are you seeing more weakness in AFAs? How are people -- when they decide to reduce spending, how are they doing it?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [5]
+--------------------------------------------------------------------------------
+  I think the 3 things that we have seen is cloud data services and public cloud spending projects, which are transformational, continue apace. We saw continued growth in private cloud, meaning object storage, converged or hyper-converged infrastructures. And then in the storage environment, it's really focused on a case-by-case basis. Typically, customers are prioritizing their most business-critical applications, which are higher-performance ones or analytics environments, where they're building big data lakes. Sort of a traditional midrange application, we did not see the typical sort of hardware refresh cycle that we saw probably last year.
+--------------------------------------------------------------------------------
+Operator   [6]
+--------------------------------------------------------------------------------
+  Our next question comes from Karl Ackerman with Cowen.
+--------------------------------------------------------------------------------
+ Karl Fredrick Ackerman,  Cowen and Company, LLC, Research Division - Director &amp; Senior Research Analyst   [7]
+--------------------------------------------------------------------------------
+  I guess perhaps my first question, if I may, is, what's the impetus to announce this today? And I guess as you address that question, is there any fundamental change in a way how you think about your capital allocation policy between shareholder return and M&amp;A?
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [8]
+--------------------------------------------------------------------------------
+  Karl, we felt that the magnitude of the miss in revenue and EPS warranted a preannouncement. And candidly, we view the full year previous expectation as probably not achievable anymore, so we felt that we needed to tell people right away. And to the second part of your question, none of this changes how we think about share repurchase and dividend.
+--------------------------------------------------------------------------------
+ Karl Fredrick Ackerman,  Cowen and Company, LLC, Research Division - Director &amp; Senior Research Analyst   [9]
+--------------------------------------------------------------------------------
+  Understood. If I may ask a follow-on, how do we reconcile your growth outlook, I guess, in the context of your Cloud Volumes ONTAP business as well as what appears to be early signs of enterprise spend on servers that perhaps may bode well for on-prem storage over the next few quarters?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [10]
+--------------------------------------------------------------------------------
+  I would say that our -- it's premature to tell you about the specifics of our cloud business. We know that it has been up year-on-year, and we're pleased with the progress. As I said in my prepared remarks, the majority of the miss was in the storage business. What I can tell you about our outlook is really determined on the discussions that we have with our largest global accounts. I think if you looked at other players in the IT hardware segment that reported, like Intel, for example, or IBM, they had pretty tough comments about the spending landscape. So the comments we made were based on our detailed and ongoing discussions with our largest global accounts.
+--------------------------------------------------------------------------------
+Operator   [11]
+--------------------------------------------------------------------------------
+  Our next question comes from Amit Daryanani with Evercore.
+--------------------------------------------------------------------------------
+ Amit Jawaharlaz Daryanani,  Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst   [12]
+--------------------------------------------------------------------------------
+  I guess 2 for me as well. I guess first one, George, can you just talk about -- I understand the softness, the macro issues you're talking about, but one of the second order derivative of this tends to be, historically, pricing gets very aggressive in the industry, everyone tries to pick up some market share. So are you seeing signs of that happen? Has pricing become an issue at all for you guys right now?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [13]
+--------------------------------------------------------------------------------
+  I think if you looked at our preliminary product gross margin, it was very strong in the quarter. I don't think -- we do not believe that pricing provides elasticity in an environment where there's macro uncertainty, and so we remain disciplined about being structured about our pricing approach to customers. I think where we need to do more of and where, clearly, there was some work that needed to be done better in the Americas was to compete in more transactions. I think that, that is a place where I feel we can gain share by competing in more transactions. We have a really competitive portfolio. Our product gross margins are strong. And I don't think pricing provides elasticity in an uncertain environment.
+--------------------------------------------------------------------------------
+ Amit Jawaharlaz Daryanani,  Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst   [14]
+--------------------------------------------------------------------------------
+  Got it. That's really helpful. If I could just follow up, Q1, you guys are going to be down 12% year-over-year, if I take the ELA dynamic out. For the full year, I think the guide now says it will be down 7.5% at the midpoint. What do you think is going to drive the improvement in the year-over-year decline for the rest of the year when issues like tariff that have happened today are probably incremental negative from a macro perspective versus not? So just what helps you get from negative 12% in Q1 to down 7% for the full year would be really helpful.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [15]
+--------------------------------------------------------------------------------
+  So I think if you look at our growth last year, Q1 was about 12% year-over-year and then Q2 was about 7%, and the compares get a little easier in our second half. And that's really all that we're seeing. That's why you see a little less in a full year than you do in a quarter.
+--------------------------------------------------------------------------------
+Operator   [16]
+--------------------------------------------------------------------------------
+  Our next question comes from Wamsi Mohan with Bank of America.
+--------------------------------------------------------------------------------
+ Wamsi Mohan,  BofA Merrill Lynch, Research Division - Director   [17]
+--------------------------------------------------------------------------------
+  Ron, maybe can you talk a little bit if you're still expecting 2% of revenues in ELA in the annual guide? Is that still contemplated as part of your guidance? And are you still expecting to achieve -- I mean from George's comments, sounded like you're still very comfortable with CDS spending. So are you still on track to the $400 million to $600 million in CDS? And I have a quick follow-up.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [18]
+--------------------------------------------------------------------------------
+  So the 2% of revenue for ELA is absolutely still part of our forecast. Yes, I committed to that last year, and that's our full intention.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [19]
+--------------------------------------------------------------------------------
+  On the CDS, we'll give you more details of our -- about our performance when we do the full earnings call on August 14. I will just say that we achieved 2 important milestones in Q1: Microsoft Azure NetApp Files reaching general availability and our work with Google reaching beta. So we are focused on all of the right things, and we have a strong value proposition. There's more work to be done, and we're doing that work.
+--------------------------------------------------------------------------------
+ Wamsi Mohan,  BofA Merrill Lynch, Research Division - Director   [20]
+--------------------------------------------------------------------------------
+  I have a follow-up. You mentioned that you need to be in more transactions with more customers multiple times. And it also sounded like you are comfortable with maintaining this OpEx envelope relatively flat. In this declining sort of revenue guide, do you think that, that is where strategically you ought to be? And can you maintain that flat even when you're targeting sort of the primary growth resurgence has to come from being at more accounts and targeting more customers?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [21]
+--------------------------------------------------------------------------------
+  Let me start by just talking about the rationale for why we would target more accounts. I think when we look at the pattern of the last few quarters, we have seen teams, districts, countries, segments substantially outperform, and those have been -- there's a predictable pattern to them. They sell more of the portfolio, they target multiple buyers and accounts, and they pursue transactions in both our installed base as well as net new accounts, right? So we are following a pattern that we have seen over multiple quarters that describe success. And we think that where we are opportunity-constrained is really to focus on the enterprise account segment in the large -- largest countries in the world. We have been disciplined about our coverage model, where we have prioritized our resources against the biggest accounts in the market and have worked with our channels to cover the market more efficiently in the commercial segment.
+ With regard to the expense envelope, I'll have Ron comment about that.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [22]
+--------------------------------------------------------------------------------
+  Yes. I think what you see here is this is really a top line issue. It has not hurt our ability to continue to make investments. We've been making some very strategic choices and have done so constantly for the last 3 years. I think as George said in his prepared remarks, we are going to add sales capacity without increasing OpEx. More of that trade-off we talked about. So I don't think it really is an investment issue. It hasn't been. And we're still thinking that's the right approach.
+--------------------------------------------------------------------------------
+Operator   [23]
+--------------------------------------------------------------------------------
+  Our next question comes from Katy Huberty with Morgan Stanley.
+--------------------------------------------------------------------------------
+ Elizabeth Mary Elliott,  Morgan Stanley, Research Division - Research Associate   [24]
+--------------------------------------------------------------------------------
+  This is Elizabeth Elliott on for Katy. I wanted to know what is -- what are some of the execution issues in the Americas and whether maintenance came in as planned? And then I have a follow-up.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [25]
+--------------------------------------------------------------------------------
+  Let me take the execution issues. As I've said, we have inconsistent performance in the Americas, where there are certain teams and districts that have done really well in terms of growing our overall business by acquiring new accounts, expanding wallet share within existing accounts and selling the full portfolio of our traditional storage portfolio, our cloud data services and our private cloud solutions. Conversely, the gap between the best teams and the average in the Americas was, frankly, too high. And so it is the inconsistent performance in our ability to capture new accounts that is the fundamental issue that we've seen in the Americas. We did see, of course, some impact of the macro as well in the Americas. But I said like there was more of an opportunity to expand our account base in the Americas given the number of customers we could potentially serve.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [26]
+--------------------------------------------------------------------------------
+  Elizabeth, on your question on maintenance. I'd like you to wait for the August 14 call. We still don't have final numbers yet. So I don't have that level of details.
+--------------------------------------------------------------------------------
+ Elizabeth Mary Elliott,  Morgan Stanley, Research Division - Research Associate   [27]
+--------------------------------------------------------------------------------
+  Understood. And then for my follow-up, does guidance imply -- I wanted to know whether guidance implies flat growth by the April quarter ex the ELA based on normal seasonality? What drives that degree of improvement in your guidance?
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [28]
+--------------------------------------------------------------------------------
+  Similar to the question I had a little earlier, it's just a little easier compare as you get later in the year.
+--------------------------------------------------------------------------------
+Operator   [29]
+--------------------------------------------------------------------------------
+  Next question comes from Jim Suva with Citigroup.
+--------------------------------------------------------------------------------
+ Asiya Merchant,  Citigroup Inc, Research Division - Research Analyst   [30]
+--------------------------------------------------------------------------------
+  This is actually Asiya for Jim. Just a clarification, if I heard correctly, that you did not believe that there was any deterioration in the competitive market share position. If I heard that correctly and sort of what -- what factors did you consider -- what factors did you consider when making that comment?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [31]
+--------------------------------------------------------------------------------
+  We said that we did not see a substantial change in the competitive dynamic or in our win rate. It is based on a lot of analysis of our pipeline conversion rates and discussions with our largest customers. We do think we lost share in the Americas. And that is the result of inconsistent execution and the inability to broaden our customer base. I think conversely, in other geographies, we either maintained share or probably grew share.
+--------------------------------------------------------------------------------
+Operator   [32]
+--------------------------------------------------------------------------------
+  Our next question comes from Steven Fox with Cross Research.
+--------------------------------------------------------------------------------
+ Steven Bryant Fox,  Cross Research LLC - MD   [33]
+--------------------------------------------------------------------------------
+  Two questions, please. Ron, if we're looking at a lower sales guidance and you have to continue to invest in the channel, should we assume some extra negative leverage as we sort of adjust your models for the full year?
+ And then as a follow-up, George, I think you mentioned sort of slowing product refresh cycles at the midrange. So given that probably means slower all-flash array sales from HDDs, what would be the catalyst for sort of the next refresh cycle or pickup in healthier sales?
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [34]
+--------------------------------------------------------------------------------
+  Steven, if I understand your question, we are not going to freeze OpEx. We're probably just going to slow hiring. But as we indicated, we're going to prioritize certain types of sales hiring at this time. Nothing drastic. Again, this is not a business model issue. This is a top line issue.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [35]
+--------------------------------------------------------------------------------
+  And as Ron said, I think we have confidence based on what we see in certain parts of the world and in certain territories within the Americas that we can gain share even in a down macro environment. I think with regard to the question you had about -- can you just rephrase your second question to me?
+--------------------------------------------------------------------------------
+ Steven Bryant Fox,  Cross Research LLC - MD   [36]
+--------------------------------------------------------------------------------
+  Yes. So if I understood correctly...
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [37]
+--------------------------------------------------------------------------------
+  The next catalyst for growth, I think, ultimately, to improve the overall capital spending environment, we need to see certainty, certainty on trade policy, certainty on the economic outlook. That has caused a spending pause in some of the largest global accounts that are most exposed to it. We may see a slightly different pattern in terms of the impact to our business because we really have large footprints in states and relationships with these global customers. But if you want to see us return to growth, in aggregate, that's the catalyst, at least that's what we hear from customers about what makes them more confident to make further capital investments.
+ Our plan is to gain share by executing better and by making investments to grow the number of sales reps that can cover more accounts and get us into more transactions, and we believe we can do that even in down environment while being prudent on OpEx. And then that positions us well when and if the macro turns.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+  Our next question comes from George Iwanyc with Oppenheimer.
+--------------------------------------------------------------------------------
+ George Michael Iwanyc,  Oppenheimer &amp; Co. Inc., Research Division - Associate   [39]
+--------------------------------------------------------------------------------
+  George, so you mentioned that APAC and Europe were relatively in line with your expectation. Is that -- is there macro headwinds there as well, and you're offsetting that with share gains? And how much are you building into the outlook for those 2 regions?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [40]
+--------------------------------------------------------------------------------
+  I think there may be certainly some amount of macro impact even in those countries. I don't think that they were as exposed from a primary first order derivative to the trade dispute between the U.S. and China, but there certainly are second order derivatives for businesses headquartered there. I think our execution has been better in terms of being able to capture share in some of those markets. I don't want to, at this point, break out kind of a geographic breakout. We'll give you all of the details on the 14th call. What I will tell you is we have been fairly prudent about what we see as the overall outlook, and we don't think that this is just an Americas issue over the course of the year. So we have been fairly prudent about our guidance for the full year.
+--------------------------------------------------------------------------------
+ George Michael Iwanyc,  Oppenheimer &amp; Co. Inc., Research Division - Associate   [41]
+--------------------------------------------------------------------------------
+  All right. And on the sales hiring, can you just give us a sense of -- are you able to attract the people that you're targeting? And are you seeing the acceptance rate in line with your expectations?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [42]
+--------------------------------------------------------------------------------
+  Absolutely. We have a good portfolio. We have a really strong business model, and so we are seeing some of the smaller competitors lose people to us, which is a good thing. And we're going to just continue to execute. We need to focus on doing a better job at getting people on board, enabling them and deploying them to execute in the market. And you'll see us giving even more attention to that over the next few months.
+--------------------------------------------------------------------------------
+Operator   [43]
+--------------------------------------------------------------------------------
+  Next question comes from Ananda Baruah with Loop Capital.
+--------------------------------------------------------------------------------
+ Ananda Prosad Baruah,  Loop Capital Markets LLC, Research Division - MD   [44]
+--------------------------------------------------------------------------------
+  George and Ron, just a little more context on the worldwide enterprise dynamic large accounts that you're seeing. Are there any geos for which you're seeing sort of the sales cycle elongation or in the budget reductions more prominent? And then just real quick, on ELA. Do you think this makes it less attractive for folks who take on the ELAs in this environment? And those are all for me.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [45]
+--------------------------------------------------------------------------------
+  In terms of what we saw, the dynamic we saw was in our largest global customers, right? These are primarily North American-based, but there was a good chunk of European customers in that mix, too. And they have really large complex negotiations across all of their global business with us. I will give you an example. Two of our largest customers that were impacted by the China dispute shrank their capital spending by 30% year-on-year, and that has meaningful consequences even to IT hardware spending, right? So I think the deceleration was most pronounced there in terms of its impact on our business. I think when we looked at the performance across a broader range of customers, the sort of national accounts or the small, medium enterprise accounts have less impact. And frankly, there's more of them, so you can diversify your portfolio. The national accounts, meaning the enterprise accounts had a medium impact, and the largest global ones have the biggest impact.
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [46]
+--------------------------------------------------------------------------------
+  With respect to ELAs, remember there are capacity license agreement typically over 3 years. It doesn't seem like customers are reluctant to sign up for those. We're not obligating them through a volume purchase for this current year. It's over a broad period of time. But generally, we're seeing people still very receptive of that.
+--------------------------------------------------------------------------------
+Operator   [47]
+--------------------------------------------------------------------------------
+  Next question comes from Eric Martinuzzi with Lake Street.
+--------------------------------------------------------------------------------
+ Eric Martinuzzi,  Lake Street Capital Markets, LLC, Research Division - Head of Research &amp; Senior Research Analyst   [48]
+--------------------------------------------------------------------------------
+  Yes. I wanted to revisit the underperformance in Q4. On the Q4 shortfall, you talked about sales execution, you talked about soft renewals, and you talked about OEM weakness. You've addressed the sales execution issue here as part of a repeat downside in Q1. And the soft renewals, you're going to address that on August 14 as to what that was after you kind of come up for air. What was the -- do you have any insight on OEM, whether that was an issue in Q1?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [49]
+--------------------------------------------------------------------------------
+  It was -- if I'm correct, it was modestly down. It was not a materially large impact to our Q1, but it was down year-on-year.
+--------------------------------------------------------------------------------
+ Eric Martinuzzi,  Lake Street Capital Markets, LLC, Research Division - Head of Research &amp; Senior Research Analyst   [50]
+--------------------------------------------------------------------------------
+  Percentage-wise?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [51]
+--------------------------------------------------------------------------------
+  I couldn't tell you where -- we can tell you more on that on the earnings call.
+--------------------------------------------------------------------------------
+Operator   [52]
+--------------------------------------------------------------------------------
+  Our next question comes from Aaron Rakers with Wells Fargo.
+--------------------------------------------------------------------------------
+ Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware &amp; Networking Equipment and Senior Analyst   [53]
+--------------------------------------------------------------------------------
+  Two questions, if I can, as well. I want to go back to the sales hiring discussions. Can you help us understand or appreciate as you look out through the course of this fiscal year, your targeted plans as far as how much you expect to expand your sales capacity relative to maybe where you were at in fiscal 2019? And just remind us again, you bring on a new sales hire, what do we typically think about in terms of the ramp towards kind of the productivity levels for that sales hire to really start to contribute to the revenue growth?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [54]
+--------------------------------------------------------------------------------
+  I'd tell you that we will give you more specific color on our plans on that in -- at the August 14 call. What I will tell you is that it typically takes 3 to 4 quarters for a sales rep to be on board and fully productive. We have been hiring some amount of reps even in Q1, right? So it's not like we've done nothing over the last quarter, quarter and a half, but I think that we will need to do more to offset the deterioration in spend in a particular set of accounts. And so we will give you more color on that on the earnings call. I appreciate your patience.
+--------------------------------------------------------------------------------
+ Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware &amp; Networking Equipment and Senior Analyst   [55]
+--------------------------------------------------------------------------------
+  Okay. And then as a real quick follow-up to an earlier question, you said that the overall competitive win rates have remained stable. You haven't really seen any change. But you did allude to some kind of market share loss in the Americas. One of your larger competitors obviously has a large midrange refresh that's kind of planned for later this year. I'm just -- what are you seeing from a customer perspective? Has that at all kind of impacted competitive dynamics? And what's your view of that competitive positioning of Dell/EMC on a midrange refresh later this year?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [56]
+--------------------------------------------------------------------------------
+  I think what we see from Dell and EMC is that their storage portfolio is still weak. And we have plenty of opportunity to take share from them. I think what they have done effectively is grow their VxRail business, and we have beaten VxRail in a bunch of transactions, but we haven't competed in as many transactions as we need to, and that is where the emphasis on better execution and better coverage of the market with some folks who know how to sell our private cloud is something that's a focus for us.
+--------------------------------------------------------------------------------
+Operator   [57]
+--------------------------------------------------------------------------------
+  Our next question comes from Nehal Chokshi with Maxim Group.
+--------------------------------------------------------------------------------
+ Nehal Sushil Chokshi,  Maxim Group LLC, Research Division - MD   [58]
+--------------------------------------------------------------------------------
+  Yes. George, you mentioned that preliminary production was quite strong, and it seems like it was actually published [for its own sake]. Could you just tell us what it was?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [59]
+--------------------------------------------------------------------------------
+  We don't have those numbers yet. We'll give you product gross margin -- we'll give you the full P&amp;L once we have it on the earnings call. I appreciate your patience.
+--------------------------------------------------------------------------------
+ Nehal Sushil Chokshi,  Maxim Group LLC, Research Division - MD   [60]
+--------------------------------------------------------------------------------
+  Okay. And then can you parse the miss between pushouts and downsizing of deals?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [61]
+--------------------------------------------------------------------------------
+  It's hard for me to give you a specific breakdown. I think in terms of -- if I were to cast it overall, I think that the macro was about 2/3 of the miss. Factors that we could have controlled is probably 1/3 of the miss. I don't have the data. We can go back and look at exactly what happened between -- in the 2/3, whether it was all about downsizing versus pushouts. I think there was a healthy combination of both, to be honest. Our teams worked real hard to bring in the business that they could. And then certainly, in many cases, they just weren't deals to be had that got pushed out.
+ The percentage of cancellations has not been massive, right? So I think where people are is still waiting to see what will happen, but I think that there was clearly a step down in terms of their readiness to spend this quarter compared even to last quarter, at least in our accounts.
+--------------------------------------------------------------------------------
+ Nehal Sushil Chokshi,  Maxim Group LLC, Research Division - MD   [62]
+--------------------------------------------------------------------------------
+  Okay. And then if I may, it seems like if it was multinational weakness largely to speak for, then the weakness should have been largely into higher-end SKUs for your FAS product. Is that a correct assertion?
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [63]
+--------------------------------------------------------------------------------
+  No, we sell to these large accounts. We sell pretty much everything in our portfolio, right? These are very, very large customers, and they have a broad range of deployment environments, both large data centers as well as regional offices and small offices. So I wouldn't characterize it as a single product.
+--------------------------------------------------------------------------------
+Operator   [64]
+--------------------------------------------------------------------------------
+  (Operator Instructions) Our next question comes from Simon Leopold with Raymond James.
+--------------------------------------------------------------------------------
+ Simon Matthew Leopold,  Raymond James &amp; Associates, Inc., Research Division - Research Analyst   [65]
+--------------------------------------------------------------------------------
+  Sorry, I joined a bit late. So hopefully, not redundant, but wanted to see if you could shed some light on maybe market verticals. It sounds like you're pointing to larger multinationals. And part of what I'm getting at is we've heard that government spending has been good for a number of networking IT-exposed suppliers. Just wondering if you can offer a little bit color around maybe the vertical trends that you experienced in the quarter.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [66]
+--------------------------------------------------------------------------------
+  We are trying to parse that out. I would tell you our public sector geography performed according to plan. And with regard to the large account business, I would just say that what we noticed was those that have got -- there were sort of a couple of patterns we noticed. Those that have fundamental digital transformation initiatives, some of them are moving from capital expenditure purchases to our cloud data services. So they will grow their cloud data service business with us over time. Those that were affected with large businesses in China were particularly careful with their capital spending. And I think that those are reflected in the public market commentary. We have done well in some of those verticals because we have gained share, right? And so we'll give you a more detailed breakout of sort of a little bit more color of what we saw on the earnings call. We don't see our business as a vertical-oriented business. We are a horizontal technology provider. And so to the extent that there are vertical nuances, it is because of kind of macro issues in the vertical market as opposed to specific implementations of our technology.
+--------------------------------------------------------------------------------
+ Simon Matthew Leopold,  Raymond James &amp; Associates, Inc., Research Division - Research Analyst   [67]
+--------------------------------------------------------------------------------
+  Okay. And then just one other follow-up. I know you're not prepared to give specifics. But historically, there's been a gap in terms of -- when you had slowness between what your maintenance does on a year-over-year basis versus products. Is there kind of a rule of thumb of how we should think about kind of normalized trending of maintenance, which I assume tends to be much more resilient even in a weak period? And any guidance you can offer on how to think about that?
+--------------------------------------------------------------------------------
+ Ronald J. Pasek,  NetApp, Inc. - Executive VP &amp; CFO   [68]
+--------------------------------------------------------------------------------
+  We really don't guide those 2 discreetly. We give a full revenue guide. I did talk about it a little in the last call. We had made progress through most of the year in growing maintenance revenues. That's still our intent. But I'm not going to go into it in this call. Maybe a little more on the 14th.
+--------------------------------------------------------------------------------
+Operator   [69]
+--------------------------------------------------------------------------------
+  At this time, I'm showing no further questions. I'd like to turn the call back over to George for any closing remarks.
+--------------------------------------------------------------------------------
+ George Kurian,  NetApp, Inc. - CEO, President &amp; Director   [70]
+--------------------------------------------------------------------------------
+  Thank you again for joining us on such short notice today. We look forward to speaking with you again on August 14, and we will have more data for you, then. Thank you.
+--------------------------------------------------------------------------------
+Operator   [71]
+--------------------------------------------------------------------------------
+  Ladies and gentlemen, thank you for your participation in today's conference. This does conclude the program. You may now disconnect. Everyone, have a great day.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Preliminary Q1 2020 NetApp Inc Earnings Call]]></eventTitle>
+  <city>SUNNYVALE</city>
+  <companyName>NetApp Inc</companyName>
+  <companyTicker>NTAP</companyTicker>
+  <startDate>1-Aug-19 9:00pm GMT</startDate>
+  <companyId>86064</companyId>
+  <CUSIP>64110D104</CUSIP>
+  <SEDOL>2630643</SEDOL>
+  <ISIN>US64110D1046</ISIN>
+</Event>

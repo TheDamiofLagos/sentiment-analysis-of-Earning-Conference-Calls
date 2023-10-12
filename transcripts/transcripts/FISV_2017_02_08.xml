@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="7518489" lastUpdate="Thursday, February 9, 2017 at 7:28:38am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="7518489.F" expirationDate="Wednesday, February 8, 2017 at 10:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of FISV earnings conference call or presentation 8-Feb-17 10:00pm GMT]]></Headline>
+    <Body><![CDATA[Q4 2016 Fiserv Inc Earnings Call
+
+BROOKFIELD Feb 9, 2017 (Thomson StreetEvents) -- Edited Transcript of Fiserv Inc earnings conference call or presentation Wednesday, February 8, 2017 at 10:00:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Stephanie Gregor
+      Fiserv, Inc. - VP, IR
+   *  Jeff Yabuki
+      Fiserv, Inc. - CEO
+   *  Bob Hau
+      Fiserv, Inc. - CFO
+   *  Mark Ernst
+      Fiserv, Inc. - COO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Dave Koning
+      Robert W. Baird &amp; Company, Inc. - Analyst
+   *  Andrew Jeffrey
+      SunTrust Robinson Humphrey - Analyst
+   *  Rayna Kumar
+      Evercore ISI - Analyst
+   *  Christen Chen
+      Jefferies LLC - Analyst
+   *  James Schneider
+      Goldman Sachs - Analyst
+   *  Ashwin Shirvaikar
+      Citigroup - Analyst
+   *  Kartik Mehta
+      Northcoast Research - Analyst
+   *  Chris Shutler
+      William Blair &amp; Company - Analyst
+   *  Mike Reid
+      Cantor Fitzgerald - Analyst
+   *  Tien-tsin Huang
+      JPMorgan - Analyst
+   *  Paul Condra
+      Credit Suisse - Analyst
+   *  Brett Huff
+      Stephens Inc. - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Welcome to the Fiserv 2016 fourth-quarter earnings conference call. All participants will be in a listen only mode until the question and answer session begins, following the presentation. As a reminder, today's call is being recorded. At this time I'll turn the call over to Stephanie Gregor, Vice President of Investor Relations at Fiserv. You may begin. Thank you.
+--------------------------------------------------------------------------------
+ Stephanie Gregor,  Fiserv, Inc. - VP, IR   [2]
+--------------------------------------------------------------------------------
+ Thank you, and good afternoon. With me today are Jeff Yabuki, our Chief Executive Officer; Bob Hau, our Chief Financial Officer, and Mark Ernst, our Chief Operating Officer. Please note that our earnings release and supplemental presentation for the quarter are available on the Investor Relations section of www.Fiserv.com.
+ Our remarks today will include forward-looking statements about -among other matters, expected operating and financial results, anticipated benefits related to acquisitions and our strategic initiatives. Forward-looking statements may differ materially from actual results and are subject to a number of risks and uncertainties. Please refer to our earnings release for a discussion of these risk factors.
+ You should also refer to our materials for today's call for an explanation of the non GAAP financial measures discussed in this conference call along with the reconciliation of those measures to the nearest applicable GAAP measures. These non GAAP measures are indicators that management uses to provide additional meaningful comparisons between current results, and prior reported results, and as a basis for planning and forecasting for future periods. Unless stated otherwise, performance comparisons made throughout this call are year-over-year metrics.
+ Also, please note that we will hold our Investor Day on June 20 in New York City. Please watch your inbox for additional information. With that, I will turn the call over to Jeff.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [3]
+--------------------------------------------------------------------------------
+ Thanks, Stephanie and good afternoon. We punctuated 2016 with 16% adjusted earnings per share growth in the fourth quarter. Internal revenue growth in the quarter was 4%, lead by our domestic businesses which performed in line with our expectations, offset by a revenue miss in our international operations. Adjusted operating margin, free cash flow, and sales results were all strong in the quarter.
+ We extended our double digit adjusted earnings per share growth to 31 consecutive years by registering 14% growth for the full year. Internal revenue growth was 4% for the year, lead by strong performance in our payment segment. Adjusted operating margin for the year was up 50 basis points to 32.2%, which is even more impressive when considering the margin headwind from acquisitions during the year. We achieved record free cash flow in 2016 of $1.1 billion, which translated to a 14% per share increase to $4.84. Sales performance was also a major highlight, increasing 21% over the prior year.
+ Let me summarize our progress for each of you against our 2016 key shareholder priorities. Which were, first, continue to build high quality revenue while meeting our earnings commitments. Second, build and enhance client relationships with an emphasis on digital and payment solutions. And third, to deliver innovation and integration, which enables differentiated value for our clients. We continued to add high quality revenue to our book of business, even as our 4% internal revenue growth was below our initial guidance. Our 2016 performance was lead by payment segment internal revenue growth of 6%, which included strong results across a number of our businesses.
+ As we noted in Q3's call, full year results would be impacted by the timing of revenue, primarily from implementation and product delays, which as I mentioned was further compounded by a Q4 revenue shortfall in our international business. We believe our strong sales for the year combined with the benefit of client and product implementations coming online support a step up in our internal revenue growth rate in 2017.
+ Companywide adjusted operating margin expanded for the fourth consecutive year. The combination of gains in high quality recurring revenue, combined with our strong operational effectiveness performance, lead to a 50 basis point increase in adjusted operating margin for the year. Importantly, this increased performance has been achieved organically, as our recent acquisitions have actually been margin dilutive, which we expect will improve as we integrate and scale these new solutions. Our 14% growth this year in both adjusted earnings and free cash flow per share clearly demonstrates value creation at the intersection of the hallmarks of Fiserv: a strong business model, operational discipline, and consistent capital allocation.
+ Our second priority was to build and enhance client relationships, with an emphasis on digital and payment solutions. During the quarter, Salem Five Cents Savings Bank, a $4.2 billion institution, selected D&amp;A in a competitive process, along with a full suite of digital solutions from Fiserv including Corillian, Mobiliti, CheckFree RXP, and debit processing.
+ Salem Five has also decided to adopt our newest solution, Messenger Center, for both large commercial and small businesses from Online Banking Solutions, or OBS, which we acquired in December. Messenger Center is an award winning sophisticated cash management solution differentiating on a mix of digital experience and leading functionality which fits the size and complexity of the customer. We are pleased to have been selected by Salem Five as a partner on their go forward vision of next generation technology and expanded commercial capabilities.
+ We were very pleased to have a more than 20% increase in D&amp;A signings as compared to 2015 and importantly, we implemented 20 new D&amp;A clients during the year, including seven institutions with assets greater than $1 billion. We signed more than 220 clients to our mobility ASP solution in 2016 while growing subscribers over 30% to 5.5 million. While we are pleased with our growth, the current subscriber base still represents less than 15% of the underlying deposit accounts served with our ASP product.
+ Mobiliti business also continued to prosper, more than doubling the number of live clients on the platform this year and nearly 4 times the number of end-users. We remain very bullish on the size, scale, and importance of the digital opportunities.
+ Our third priority was to deliver innovation and integration which enables differentiated value for our clients. A huge priority in 2016 was to meaningfully enhance our upper end commercial solutions to better enable clients to serve their most important customers.
+ Early in the year we bolstered our commercial services portfolio through our partnership with AFS to integrate their sophisticated commercial lending services with our account processing platforms. And as I mentioned earlier, we recently announced the acquisition of Online Banking Solutions, which meaningfully extends our sophisticated cash management, digital business banking, and secure browser capabilities for large commercial and small business clients. Today, OBS serves 13 of the top 100 banks, which is strong evidence of the quality of their suite of services. These cash management and digital banking services are already integrated with several of our account processing solutions and we are excited about the enhanced value we can deliver to our commercially focused clients.
+ We continue to see very strong client interest in Architect, our integrated online and mobile banking solution that serves both retail and business customers on a single platform. We have more than 150 clients live today and have grown the sales pipeline to 6 times the level it was when we acquired the solution nearly a year ago. We handily beat our first year sales expectations and integration is progressing as expected.
+ Last January, we acquired an innovative billing and payments platform that now serves as the basis of our next generation solution dubbed BillMatrix Next. This platform is being extended to include the best of our current biller platform, providing flexible multi-channel billing and payment solutions for all sized businesses, along with enhanced functionality for our large billers and all with much faster implementation times.
+ We are also making these market leading services available to our account processing clients to help them better serve their customers. As an early proof point, Bank of the Ozarks, a $19 billion asset institution, chose BillMatrix Next in the quarter and was able to go live in less than 30 days, versus the historical process which could have easily taken six months or longer. We are excited about this new opportunity to serve the biller market more broadly and faster than ever before.
+ Towards the end of 2016 we also went live with Notifi, which empowers our clients through a highly customizable alerts engine that allows realtime communication with their customers. So far, over 50 clients have selected this differentiated product and are beginning to go live. Notifi is already integrated into several of our account processing platforms, online banking platforms, and Mobiliti.
+ These are just a few examples of the new innovation we are bringing to market to better enable our clients to win in the markets they serve. We expect our new solutions will scale over time and make meaningful contributions to internal revenue growth acceleration over the next several years. With that, let me turn the call over to Bob to provide additional detail on our financial results.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [4]
+--------------------------------------------------------------------------------
+ Thanks, Jeff, and good afternoon, everyone. Adjusted revenue for the quarter increased 5% to $1.4 billion and adjusted earnings per share increased 16% to $1.16. Internal revenue growth of 5% was lead by strong performance in our payment segment. Overall, the revenue growth in the quarter was generally in line with expectations, with the exception of international business, where revenue growth was negatively impacted by slower sales and some deal slippage. These deals were concentrated in licensed revenue, which created a rather large impact revenue hit for the international business in the quarter.
+ Adjusted operating margin was up 140 basis points to 32.1% in the quarter due primarily to an easier prior year compare, as we mentioned during the Q3 earnings call. We marked the 31st consecutive year of double digit adjusted earnings per share growth by achieving 14% for the full year. Full year operating margin was up 50 basis points to 32.2% driven primarily by payment segment performance and a continued focus on operational effectiveness. As Jeff mentioned, this performance is even better when considering the 30 basis points of dilutive margin impact from acquisitions.
+ Our payment segment continued to produce strong internal revenue growth of 6% for both the quarter and the year. Performance in the quarter was lead by card services, output solutions, and our risk management businesses. Adjusted revenue, which includes the results from acquired businesses, grew 9% in the quarter to $728 million and 10% for the full year to $2.8 billion. Debit transaction volume growth remained in the high single-digits and for the year, was accompanied by a 10% increase in new client signings to more than 160 institutions. P2P transactions grew more than 30% for the full year, aided by a meaningful increase in Popmoney instant transactions which were up a stellar 375% over the prior year.
+ We further expanded our digital footprint, adding more than 220 Mobiliti clients and more than 350 bill payment clients during the year. Mobiliti ASP users were up 30% to 5.5 million subscribers for the year and they were up nearly 90% over the last two years. And as Jeff mentioned, we're still in the early stages of helping our clients capture the unique opportunities presented by digital transformation.
+ Payment segment adjusted operating income increased 8% in the quarter to $241 million and for the year was up a very strong 13% to $946 million. Adjusted operating margin was down 50 basis points in the quarter to 33.1%, due primarily to the dilutive impact of acquisitions. For the full year, adjusted operating margin increased 80 basis points to a new high watermark of 33.8% driven primarily by strong revenue growth in scale businesses and operational efficiency, which more than offset the 60 basis point negative segment impact from acquisitions.
+ Adjusted financial segment revenue was $644 million in the quarter and $2.5 billion for the full year, which translated to 2% internal revenue growth in both periods. We saw solid contributions from our lending and account processing businesses in the quarter, offset by the weaker performance, including FX, in our international businesses mentioned earlier. Although the Q4 international results were disappointing, a portion of the operational shortfall is timing based and should improve the results in 2017.
+ Adjusted operating income for the financial segment was $217 million in the quarter and $823 million for the year. Adjusted operating margin in the quarter was 33.7%, up slightly sequentially, and our strongest margin performance for the year. As a reminder, we mentioned on our last call that the Q4 2015 operating margin was unusually low, resulting in a comparative benefit primarily from business mix and timing of some of the larger expenses last year. Full year adjusted operating margin for this segment was 33.2% declining 60 basis points, primarily from the very strong prior year performance comparison, the international shortfall, and incremental investments in some of our newer innovation-based solutions such as Agiliti and Notifi.
+ In the past few years, we've increased investments in the financial segment and still the financial segment adjusted operating margin has increased 60 basis points over the last two years. Corporate and other results were in line with expectations and generally consistent with the comparable prior year's results. Our adjusted effective tax rate was 35.6% in the quarter, up a full point over the prior year and the full year rate of 34.5% was essentially flat to the prior year.
+ We adopted the new rules on accounting for excess tax benefits for share based compensation on January 1. As a result, we estimate our adjusted effective tax rate for 2017 to be slightly below 33%, and while the actual adjusted tax rate will vary each year on the basis of excess benefits realized, we anticipate our tax rate to remain generally at this level for the foreseeable future.
+ Our strong business model generated a record $1.1 billion of free cash flow in 2017, excuse me, 2016. Free cash flow per share increased 14% to $4.84, 9% higher than adjusted EPS of $4.43 and $0.14 higher than our minimum free cash flow expectation for the year.
+ We received a $10 million cash distribution from our StoneRiver joint venture in the fourth quarter and $150 million for the year, both of which are excluded from our earnings and free cash flow results. Over the life of the investment, StoneRiver has produced more than $1 billion of cash distributions.
+ Total debt outstanding at year-end was $4.6 billion or 2.3 times trailing 12 month adjusted EBITDA, well within our targeted leverage ratio. We repurchased 2.6 million shares of stock in the quarter for $265 million and for the year, we repurchased 11.9 million shares, returning $1.2 billion to our shareholders. There were 215.5 million shares outstanding at year-end and including a 15 million share repurchase authorization announced in the fourth quarter, had 20.5 million remaining shares authorized for repurchase.
+ Finally, earlier this week, we jointly announced an agreement to sell our small Australian item processing business to Genpact. This business is part of our international operations included in our financial segment and represents less than one half of 1% of our annual revenue. Given the end market and the standalone nature of this business, we felt another party could be better suited to run this business. The financial impact of this business is de minimis and is incorporated in our 2017 guidance. With that, let me turn the call back over to Jeff.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [5]
+--------------------------------------------------------------------------------
+ Thanks, Bob. Sales bounced back strongly in 2016, allowing us to print a record sales year. Sales attainment was 108% in the quarter, and increased 22% over the prior year. Sales were up 21% for the full year, achieving 103% of quota.
+ Q4 sales were lead by our account processing of output solutions businesses and domestically were generally strong across-the-board. We saw a healthy increase in the number of new, large deals signed for the year and most important, even after a record sales year, our pipeline is very solid entering 2017. Integrated sales were excellent in the quarter, increasing 17% to $105 million and up 14% for the full year to $292 million.
+ We continue to see solid demand in areas such as card services, bill payment, custom statements, and digital solutions. We realized operational effectiveness savings of $64 million, meaningfully exceeding our $40 million target for the year. Savings were lead primarily by procurement and workforce optimization. We also made very good progress on our data center consolidation combining 18 locations during the year. Our operational effectiveness target for 2017 is $60 million.
+ There's palpable optimism in the banking market on the heels of the election, with increased conviction and a rising rate environment coupled with regulatory reform. While it's hard to translate this positive sentiment to near term results, we do believe that it could bias favorably for technology spend over the mid to long term. For 2017 we expect clients to focus their spend on a broad combination of digital services, risk management and in particular, cyber, along with a return to investing in a more revenue centric technologies such as cash management and all forms of lending.
+ Lastly, we remain optimistic about bank focus and commitment on P2P through the Zelle consortium. We are excited to play a leading role in the ultimate system wide adoption of this important initiative.
+ With that, let's move to 2017. At the start of each year, we provide context to help shareholders assess our overall performance. For 2017 our three shareholder priorities are: first, to continue to build high quality revenue while meeting our earnings commitments; next, to enhance client relationships with an emphasis on digital and payments solutions; and third, deliver innovation and integration which enables differentiated value for our clients.
+ Financially, for 2017, we expect our internal revenue growth rate to expand and be within a range of 4 to 5%, which as you may recall, includes any anticipated impact of foreign exchange. We expect our internal revenue growth acceleration to come from a combination of sources such as: the positive impact of higher sales, the recovery of the delayed implementations we talked about in Q3, less EMV deferral and stronger organic transaction growth in some of our payments businesses such as biller solutions.
+ Given the natural ramp of new revenue and the number of larger sales transactions we recorded in 2016, we expect Q1 to be the low revenue growth point of the year and that the overall 2017 internal revenue growth rate will be higher in the second half of the year. We anticipate adjusted earnings per share to grow in a range of 14 to 17% or $5.03 to $5.17 for the year, and that the growth pacing through the year will generally near the revenue growth trend. We also anticipate adjusted operating margin will expand by at least 50 basis points for the year. Lastly, we expect 2017 free cash flow per share will be at least $5.45 or minimum growth of 13% per share over last year.
+ We exit 2016 with another year of strong financial results, even as revenue was light of our expectations. We delivered our 31st consecutive year of double digit adjusted earnings per share growth, expanded operating margin, and achieved record free cash flow in sales. Our business model continues to deliver high quality results and we expect revenue growth expansion to be back on track for 2017. We thank our more than 23,000 associates around the world who work tirelessly, with passion and commitment, to deliver differentiated value for clients and shareholders alike.
+ Finally, we've named Paul Siemens to lead our Investor Relations team as of February 28. Paul has been at Fiserv for 10 years in a variety of financial oriented positions and is well suited for this new role. I want to thank Stephanie Gregor for her dedication in IR over the last three years and wish her the very best as she [leaves] our financial planning and analysis organization. With that, let's open the line for questions.
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Thank you.
+ (Operator Instructions)
+ Our first question is from Dave Koning of Robert W. Baird.
+--------------------------------------------------------------------------------
+ Dave Koning,  Robert W. Baird &amp; Company, Inc. - Analyst   [2]
+--------------------------------------------------------------------------------
+ Yes, hi guys, great job again.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [3]
+--------------------------------------------------------------------------------
+ Thanks, Dave.
+--------------------------------------------------------------------------------
+ Dave Koning,  Robert W. Baird &amp; Company, Inc. - Analyst   [4]
+--------------------------------------------------------------------------------
+ And I guess first of all, you mentioned the sale to Genpact. I was just wondering about the acquisition in January, any metrics around your rough size of revenue and if there's some margin pressure expected from that acquisition in 2017?
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [5]
+--------------------------------------------------------------------------------
+ Yes, Dave it's Bob. Overall we're excited about the product and the solution that that brings to us, but from an impact to both revenue and EPS, it's a relatively small acquisition and so you won't see a real impact. And of course it is fully anticipated in our guidance for 2017.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [6]
+--------------------------------------------------------------------------------
+ And Dave it's really -- substantially a product acquisition. They have a nice footprint of clients and we expect that to be both sold, continue to be sold directly, but also, and the most important element of it in our current value proposition is to integrate it into other platforms to make our commercial services proposition substantially more robust.
+--------------------------------------------------------------------------------
+ Dave Koning,  Robert W. Baird &amp; Company, Inc. - Analyst   [7]
+--------------------------------------------------------------------------------
+ Got you, okay. And then your business is so steady and like every quarter is good basically, so maybe if I just think long term about margins, they keep going up. Is that mostly a function of where the most growth is coming from is just the highest incremental margin and maybe some of the lower growth products that you have might just be lower margin? Is that the main thing? Or is it just that you're cutting costs in certain areas and allowing margins to go up that way and maybe how sustainable is this over time, because its been so good?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [8]
+--------------------------------------------------------------------------------
+ So that's a great question, Dave, and we'll probably tag team this a bit. We have the very good fortune of having a business which has any number of scaled businesses, whether it be an account processing platform like Premier, or our debit processing business, or bill pay, we've got a number of towers of businesses where we've put lots and lots of money into the infrastructure. And as we invest, we can move those investments over large blocks of clients and large numbers of transactions, and because they are large processing engines, they tend to have higher incremental margins on the way in, so that's number one.
+ Number two, as you know, we have had -- we are in our third phase now of operational effectiveness and we've done a pretty good job. I think we've got around $64 million in 2016 in terms of taking costs out of our infrastructure. Some of that drops through to the bottom line, but a lot of that goes back into product and allows us to invest into product in a more substitution way or pattern, instead of it just being incremental. So we've got that as well.
+ And then the other thing is several years ago, you may remember we were investing in some technologies like mobile, where we were having to invest in front of the curve. Because we tend to buy these, I'm sorry, we tend to build these larger technology stacks and infrastructures, we have to build them before the revenue comes on that compresses our margin and when the revenue starts to come on, we make it up here.
+ It's one of the reasons why, in Bob's prepared remarks, he mentioned that we are now starting to put more money into the financial segment and so we would expect to see financial segment, which has really grown rapidly over the last several years, maybe start to moderate a bit because we're putting these big investments in or putting the investments in there, some of them are larger, and then over time that will scale back up. But we've said for a long time that we believe that we have a lot of room to continue to grow margin over time, even in the face of competitive pressure because of the proactivity we have frankly in managing our cost base and some of the towers of scale technologies.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [9]
+--------------------------------------------------------------------------------
+ The only thing I'd add to that is things like data center consolidation, this is something Jeff commented on or Bob maybe did in the prepared remarks, but we are really in year two of a five year process. There's a lot of opportunity remains in something like that. There are any number of these things where we know we can become much more efficient and it actually enhances the delivery that we have for our clients because of the efficiency that we're able to put into our operations. So I would agree, we've got a lot of room to run yet.
+--------------------------------------------------------------------------------
+ Dave Koning,  Robert W. Baird &amp; Company, Inc. - Analyst   [10]
+--------------------------------------------------------------------------------
+ All right, great, well thank you, nice job.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [11]
+--------------------------------------------------------------------------------
+ Thanks, Dave.
+--------------------------------------------------------------------------------
+Operator   [12]
+--------------------------------------------------------------------------------
+ Thank you, our next question is from Andrew Jeffrey of SunTrust.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [13]
+--------------------------------------------------------------------------------
+ Hi guys. Thank you very much for taking the question.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [14]
+--------------------------------------------------------------------------------
+ Sure.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [15]
+--------------------------------------------------------------------------------
+ Jeff, I'm just wondering if you can comment a little bit in the US, I'm thinking particularly about the credit union market, but generally on the competitive environment and whether you've seen a change there. You've obviously done very well with DNA, so maybe you can discuss takeaways and pricing perhaps on those wins. I'm trying to get a general sense of what you're seeing out there.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [16]
+--------------------------------------------------------------------------------
+ Sure, and when you say credit union, Andrew, I assume you mean the core account processing piece of that?
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [17]
+--------------------------------------------------------------------------------
+ Exactly, right.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [18]
+--------------------------------------------------------------------------------
+ And I would say that across credit union and bank and frankly, everywhere, the market is competitive and it continues to be competitive. And as we've talked about on several different occasions, there's a dynamic in the market where there are more competitors chasing less financial institutions and that's a pretty good formula for intensity, and so we continue to see that.
+ It is one of the reasons why we have been investing the way we have in some products such as Architect, as we mentioned earlier, and in fact, even financial messenger by OBS will also -- or Messenger Center by OBS will also allow some of the larger credit unions to provide commercial services to their clients. So I think that we are looking to build a broader formula for differentiation around our account processing core value proposition.
+ Frankly, we think that DNA is the strongest, is the strongest -- what's the right way to say it? Is the strongest account processing engine facing off to the credit union market today because of the modern elements of the platform and workflows et cetera, et cetera. And frankly, we're going head-to-head with competitors that I'm sure you can imagine on a regular basis. As far as takeaways, we typically don't give those numbers but we're winning over our fair share of the beauty pageants that we're invited to participate in, so we feel good about where we're going in that space.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [19]
+--------------------------------------------------------------------------------
+ Don't let anybody ever say you're not good looking, right? Would you characterize the environment competitively as, I know you said consistently it's competitive, has it gotten more so in your view in the last 12 months?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [20]
+--------------------------------------------------------------------------------
+ So again, one of the problems is because all of us, all of the core competitors have both core and other products, it depends on what you're talking about. If we're talking about digital, everything digital is very competitive in terms of you've got some competitors that you know about, you've got seven kids in a garage building new technologies and it's pretty easy to put stuff out there. So the fringes of the core processing platforms or the value, some of the interesting value elements of the core processing platforms are more competitive.
+ And even in the credit union space, there are companies such as Corelation that weren't in the mix a couple of years ago, you've got some folks coming in from outside. So I would say the processes are more competitive. I frankly don't see a lot of different movement in the market as we sit here today, but it is incumbent upon companies like us, and I can only speak to us strategically, that we're building value propositions that will allow us to continue to prosper over the mid to long term.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [21]
+--------------------------------------------------------------------------------
+ That's helpful, and one quick one, Bob. Could you perhaps quantify the benefits in your EPS guidance from the excess tax benefits from [SBC]?
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [22]
+--------------------------------------------------------------------------------
+ I think the way to think about it is the slightly less than 33% tax rate is, call it, 1.5 below what we've seen over the last couple of years. So 34.5% in 2016, 34.5% in 2015. That equates to an order magnitude of about $0.13 or $0.14 benefit in 2017. And again as we mentioned in the opening comments, that is something that we expect to see for the foreseeable future. So this is a step down and then holds for that for a period of time.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [23]
+--------------------------------------------------------------------------------
+ That's the non GAAP tax rate?
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [24]
+--------------------------------------------------------------------------------
+ It's an adjusted tax rate, that's correct, but this change in accounting is GAAP driven.
+--------------------------------------------------------------------------------
+ Andrew Jeffrey,  SunTrust Robinson Humphrey - Analyst   [25]
+--------------------------------------------------------------------------------
+ Understood. Thank you very much.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [26]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ Our next question is from David Togut of Evercore ISI.
+--------------------------------------------------------------------------------
+ Rayna Kumar,  Evercore ISI - Analyst   [28]
+--------------------------------------------------------------------------------
+ Good evening, this is Rayna Kumar for David Togut. For 2017 could you please quantify expected organic revenue growth and margin expansion between payments and financial segments and maybe just call out the drivers?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [29]
+--------------------------------------------------------------------------------
+ From the standpoint of 2016, we actually don't break that out -- since 2017, we don't break that out between the two segments in our 4% to 5% guidance for the internal rate of growth, you can certainly expect, like we've seen for the last several years, our payment segment will grow faster than our financial segment, but we don't give specific guidance between the two segments.
+--------------------------------------------------------------------------------
+ Rayna Kumar,  Evercore ISI - Analyst   [30]
+--------------------------------------------------------------------------------
+ Got it. What percent of your customers have completed the EMV card reissuance and maybe if you can just tell us what that break down is between credit and debit?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [31]
+--------------------------------------------------------------------------------
+ So you'll remember that we're substantially a debit provider and most people know that debit was kind of in the back seat relative to credit issuance because of the differentials and potential fraud risk. We would say we're in the middle innings of the reissue and we expect to continue to see benefits this year and next year. We also mentioned earlier in the year that we had our first major institution go to [contact less] and we expect that will also start to create a little bit of momentum in the market going towards the end of 2017, but certainly in 2018 and 2019.
+--------------------------------------------------------------------------------
+ Rayna Kumar,  Evercore ISI - Analyst   [32]
+--------------------------------------------------------------------------------
+ Okay and one last one for me, if you can just call out term fees in the fourth quarter and how that compares to last year and your expectations for 2017?
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [33]
+--------------------------------------------------------------------------------
+ So for term fees in the fourth quarter, as expected, we did see growth year-over-year for the quarter but on a full year basis, as we described in our Q3 earnings call, we did see term fees down year-over-year, overall license in term and aggregate was up, call it, about $10 million on a full year basis. For 2017, again, we don't give that specific guidance. But [certainly] incorporated in our overall internal rate of growth of 4% to 5%.
+--------------------------------------------------------------------------------
+ Rayna Kumar,  Evercore ISI - Analyst   [34]
+--------------------------------------------------------------------------------
+ Got it, thank you.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [35]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [36]
+--------------------------------------------------------------------------------
+ Our next question is from Ramsey El-Assal of Jefferies.
+--------------------------------------------------------------------------------
+ Christen Chen,  Jefferies LLC - Analyst   [37]
+--------------------------------------------------------------------------------
+ Hi, good evening, this is Christen Chen in for Ramsey. I guess maybe piggybacking off of Dave's question, just on the 2017 guide, aside from operating leverage and the operational cost initiatives, are there any other items to call out in terms of impacts on margins? Potentially the acquisitions you all made in 2016 that was dilutive, could make some contributions or are there any other items that we should be thinking about? And then also, does your guidance assume any share buybacks?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [38]
+--------------------------------------------------------------------------------
+ So on the margin question specifically, our guidance for the year is at least 50 basis points. We would expect that as we grow the acquisitions that we brought into the family that they would probably have some fairly de minimis impact on margin this year, because you have to sell and then it has to convert to revenue. There could be something small but the majority, the substantial, substantial majority of the margin is coming from a combination of revenue growth against scaled solutions and our efforts against operational effectiveness.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [39]
+--------------------------------------------------------------------------------
+ And share repurchase?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [40]
+--------------------------------------------------------------------------------
+ All of the uses of capital that we contemplate during the year would be included in our guidance.
+--------------------------------------------------------------------------------
+ Christen Chen,  Jefferies LLC - Analyst   [41]
+--------------------------------------------------------------------------------
+ Okay. And then just switching gears a little bit, we've seen some of the PIN debit networks get more aggressive in terms of rolling out PINless debit and authentication solutions that are relevant to signature. How far along are you all with that kind of process in terms of being able to handle signature transactions and how do you guys see that debit market evolving now that Visa's backed off some of their EMV related routing strategies?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [42]
+--------------------------------------------------------------------------------
+ That's a really good question. We have been working on this technology for a couple of years in preparation for a day when the market could be more open and so we're well prepared to take advantage of those opportunities where they exist and we're excited about how the market is moving.
+--------------------------------------------------------------------------------
+ Christen Chen,  Jefferies LLC - Analyst   [43]
+--------------------------------------------------------------------------------
+ Great, that's all for me, thank you very much.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [44]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [45]
+--------------------------------------------------------------------------------
+ Thank you our next question is from James Schneider of Goldman Sachs.
+--------------------------------------------------------------------------------
+ James Schneider,  Goldman Sachs - Analyst   [46]
+--------------------------------------------------------------------------------
+ Apologies can you hear me?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [47]
+--------------------------------------------------------------------------------
+ Yes, hi Jim.
+--------------------------------------------------------------------------------
+ James Schneider,  Goldman Sachs - Analyst   [48]
+--------------------------------------------------------------------------------
+ Sorry, apologies if this was already answered. Can you maybe talk about the outlook you see for bank consolidation this year and whether it's any kind of factor in terms of your outlook for this year and maybe the impact further on out?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [49]
+--------------------------------------------------------------------------------
+ So we don't anticipate bank consolidation to be any, in any way meaningfully different than we saw in 2016, although there's certainly significantly more optimism at this stage of the year than there was last year. The banking business is still tough and there will continue to be winners and losers in the acquisition and merger wars, and we'll continue to win and take hopefully our fair share of those.
+ So we haven't accounted for it specifically, we don't sit here and say oh, there's going to be a significant change in both termination fees or anything else. And specifically with regard to 2017, because of the timing on deconversions, typically we have a good idea already of what that's going to look like and so we would have factored a lot of that into our numbers already.
+--------------------------------------------------------------------------------
+ James Schneider,  Goldman Sachs - Analyst   [50]
+--------------------------------------------------------------------------------
+ That's helpful color, thanks. And then not sure if I missed it or you mentioned it, but can you maybe talk about the DNA wins that you achieved in 2016 and whether you expect 2017 to be better or worse than that?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [51]
+--------------------------------------------------------------------------------
+ So wins in 2016 were roughly 20%, a little bit more than 20%, greater than they were in 2015 in terms of number of institutions. 20 institutions went live, of those institutions that went live seven of them had assets greater then a $1 billion. We did sign our largest DNA client ever in 2017 -- 2016, I'm sorry, in terms of asset size, so we're quite excited about that installation. It actually opens up a new segment of the market that we're focused on right now. Momentum in DNA is very strong and the combination of DNA coupled with the steps that we've taken to enhance our commercial services capabilities, we think is a winning combination. So we expect to have pretty good pipeline building during the year and hopefully a few more wins. But over time, we expect that to be a very powerful combination, the pairing up of realtime straight through processing commercial capabilities that already links up to our, what we would say, is best in the market retail proposition.
+--------------------------------------------------------------------------------
+ James Schneider,  Goldman Sachs - Analyst   [52]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [53]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [54]
+--------------------------------------------------------------------------------
+ Thank you our next question is from Ashwin Shirvaikar of Citigroup.
+--------------------------------------------------------------------------------
+ Ashwin Shirvaikar,  Citigroup - Analyst   [55]
+--------------------------------------------------------------------------------
+ Thank you. Hi, Jeff, hi, Bob. I guess my first question is with regards to CapEx and what are the top two key areas of investment that you're doing? I'm specifically asking this question because Jeff, you highlighted innovation, so that's where I want to go with that.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [56]
+--------------------------------------------------------------------------------
+ Yes, I would say Ashwin, probably the largest by a good amount right now is the data center work that we've got going on, both in terms of the consolidation as well as improving the overall efficiency of those data centers. And we're actually preparing to lower cost in the short-term as well as gain scale in the long term as we consolidate that. Those operations we build in best of class capability as well as scalability, so we see long term benefits of that investment. That'd definitely the highest one we've got right now for 2016 and 2017 for that matter.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [57]
+--------------------------------------------------------------------------------
+ And Ashwin, we are making a lot of different investments in innovation, make no mistake about that. But for better or worse, almost all of the investments that we make in innovation tend to be around people, and we have a pretty conservative posture that we take on cap software and therefore, it's running through the P&amp;L. So that's one of the reasons why we highlighted the margin, the change in shift from the payment segment to starting to move some incremental investments over to financial, because we don't capitalize the majority of them and they run through the P&amp;L, that's where they are going to be seen.
+--------------------------------------------------------------------------------
+ Ashwin Shirvaikar,  Citigroup - Analyst   [58]
+--------------------------------------------------------------------------------
+ Understood. And then going back to the topic of competition and appreciate the answer you gave a short while ago, but when core deals come up for renewal nowadays, do you still expect a percent won by incumbents would stay relatively consistent? There are, at least the way I look at it, really the top two, three players tend to win most of the stuff that comes up and that's how its been and is that going to change? I'm kind of wondering why you brought up the topic of competition, heightened competition and if Fiserv had done the same?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [59]
+--------------------------------------------------------------------------------
+ I only brought it up because someone asked a question. Ashwin, I would say again, it depends on the market. If you were talking about mobile banking, there could easily be 30 or 40 competitors for mobile banking where, frankly, six years ago there were probably the account processors, the core processors and digital insight. And now it's a much broader space and that has spread to the some of the payments capabilities and everything else that gets dragged along. There is more competition on the credit union side of the house, certainly around core processing. And we have some non US competitors in the larger end of the market that we were not seeing before who are in the market trying to take share.
+ Conversely what I would say is, at least our data would say that less clients are switching nowadays. And so the incumbents do have a, they do have a strong position in that people are saying, I'd rather not switch my core because there's all of these other things that I need to do whether it's put in a new commercial cash management system or a new mobile experience or whatever the case may be, that's tending to take more priority than swapping core.
+--------------------------------------------------------------------------------
+ Ashwin Shirvaikar,  Citigroup - Analyst   [60]
+--------------------------------------------------------------------------------
+ Understood. My last question is with regards to, in your prepared remarks you talked about how banks are beginning to look at some, I think the term you used was revenue centric demand, which is a great term. I guess the question there becomes as your clients invest in this demand, is it more advantageous to potentially lead with some sort of consulting or people-based capability, do they look for that kind of thing? Being focused more on revenue growth? Is it any kind of benefit on pricing? Can you answer those sorts of questions, perhaps?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [61]
+--------------------------------------------------------------------------------
+ Sure. So I'll give you my perspective and others may want to add as well. It really depends a little bit on the size of the institution and what's their DNA? There are some larger institutions that do everything through -- or make a lot of their bigger decisions using a people-based consulting services to help them get to a place where they can make a technology decision. And sometimes, those consultants will have an impact or a bearing on the actual technology that's ultimately selected. But for the majority, the substantial majority of the market these decisions are not made via kind of the people-based services that you're talking about.
+ Sometimes there are independent third parties who are helping the institutions to intermediate the buying decisions. They are running processes, buying processes and things like that. Or for the most part, on the kinds of products that we're talking about here whether they be new commercial cash management or commercial lending or some of the consumer lending types of products, the solutions that are going to drive real tangible revenue could also be digital account opening those types of capabilities. We're not seeing a lot of intermediation there. Mark?
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [62]
+--------------------------------------------------------------------------------
+ I think that's exactly right. We just don't see that going on very much in the market. Certainly, there's anecdotal situations where that occurs, but it's far more the exception when we see it than it is any kind of a trend. And as a result, we don't feel compelled to have solved that problem.
+--------------------------------------------------------------------------------
+ Ashwin Shirvaikar,  Citigroup - Analyst   [63]
+--------------------------------------------------------------------------------
+ Got it. Thank you, guys.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [64]
+--------------------------------------------------------------------------------
+ Thanks, Ashwin.
+--------------------------------------------------------------------------------
+Operator   [65]
+--------------------------------------------------------------------------------
+ Our next question is from Kartik Mehta of Northcoast Research.
+--------------------------------------------------------------------------------
+ Kartik Mehta,  Northcoast Research - Analyst   [66]
+--------------------------------------------------------------------------------
+ Hi, how are you Jeff, Bob and Mark.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [67]
+--------------------------------------------------------------------------------
+ Hi Kartik.
+--------------------------------------------------------------------------------
+ Kartik Mehta,  Northcoast Research - Analyst   [68]
+--------------------------------------------------------------------------------
+ Jeff, you talked about at the beginning of the call banks feeling better obviously with interest rates improving and also them hoping for regulatory relief. Has that yet resulted in better spending or is it that the banks just are anticipating this and when it happens you'll see the spending?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [69]
+--------------------------------------------------------------------------------
+ It would be more the latter than the former. It is right now manifesting in conversations. So for example, I've had a couple of conversations this year with CEOs that I haven't had in a while and the conversation went something like this. So why don't you tell me what you have that could help us build our business? That's a different conversation than, why don't you tell us what you can do to help us save some money on our technology spend.
+ And that I'm using that only as an example to say that is the feeling in the market right now, but as we said in the remarks as well, I see this to be much more of a mid to long term benefit because first of all, something is going to have to happen. Opinions are changing but something is going to have to happen that has people say all right, I'm going to be able to lock in some benefit and now I can do something different with it.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [70]
+--------------------------------------------------------------------------------
+ At this point, this is a 60 day phenomenon. And we think it's going to continue because of where rates are going and because of the prospect of regulatory easing, but there's a long way between there and spending.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [71]
+--------------------------------------------------------------------------------
+ And I would say that right now as we sit here today, our guidance clearly does not contemplate any kind of meaningful change in buying behaviors in the market.
+--------------------------------------------------------------------------------
+ Kartik Mehta,  Northcoast Research - Analyst   [72]
+--------------------------------------------------------------------------------
+ And Jeff, if you look at the momentum behind the organic growth improvement for you in 2017 compared to 2016, is that the result of innovation, is it the result of that the banks needed to spend on things that you're offering? And to take it one step further, what would change that momentum into 2018?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [73]
+--------------------------------------------------------------------------------
+ So the big drivers going from 2016 to 2017, probably the most important item is sales. We had a pretty weak 2015. We had a weak Q1 and we had a very strong Q2, Q3 and Q4 and we have a fairly strong pipeline entering 2017.
+ And so a 20% increase in sales, which obviously will have to get implemented over time, much of those sales get implemented over time. We feel like that is something that is on the shelf and now it's a matter of us getting implemented and making sure the clients and the way we partner with clients gets that done. And we talked about that in Q3, how that actually had a little bit of a negative effect on us because we got delayed but that's point one.
+ Point two is we have some products that we talked about today, Notifi being one of them, but Notifi and Instant Issue, CardValet, IPS and products we expected would have bigger benefits in 2016 and we're seeing some continuing aggregate demand there and we expect that that will now start to come on line and help us. For better or worse coming off of a lower compare in 2016 than we originally anticipated.
+ We also, as we mentioned, are having good traction in products like BillMatrix Next and Architect, which were previously not treated as organic revenue growing products because they were in the first year of acquisition and so we'll get some tail wind from that. Little bit more EMV, Mobiliti will continue to grow and then probably the last thing I would say is Zelle. Right?
+ Zelle is predicted to go live in June and if it goes live we'll get benefit, but the beauty there is it has everyone looking at their retail payment strategies and how they fit. And some of our technologies like our IPS experience which is a single landing idea for account to account transfers, bill pay and P2P. We expect things like technologies like that to have an impact. If you talk about Popmoney instant transactions I think being up nearly 400% for the year.
+ I think those are the areas that give us some comfort going into 2017 and frankly, the thing that could derail us is if something happens in the market where clients freeze up and they aren't implementing or they aren't moving forward, that is where I see the big risk in our numbers this year.
+--------------------------------------------------------------------------------
+ Kartik Mehta,  Northcoast Research - Analyst   [74]
+--------------------------------------------------------------------------------
+ Okay thank you very much. I really appreciate it, Jeff.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [75]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [76]
+--------------------------------------------------------------------------------
+ Our next question is from Chris Shutler of William Blair.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [77]
+--------------------------------------------------------------------------------
+ Hi guys, good afternoon.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [78]
+--------------------------------------------------------------------------------
+ Hi, Chris.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [79]
+--------------------------------------------------------------------------------
+ Hi, Chris.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [80]
+--------------------------------------------------------------------------------
+ I guess first, wondering what happened in the quarter in international, maybe a little bit more detail there. I'm assuming it was around Agiliti but maybe just quantify what happened in terms of the shortfall, how much was timing versus something else, thanks.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [81]
+--------------------------------------------------------------------------------
+ It wasn't Agiliti at all. In fact Agiliti, we had a couple of go lives in Q4 which actually went pretty well. And Agiliti is longer tailed revenue so an issue with Agiliti we would have known. It was all really license oriented revenue so high amounts of sales converting to impact revenue. But the majority of those got pushed into 2017 and so we'll look for that to lay in in 2017. All things being equal.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [82]
+--------------------------------------------------------------------------------
+ Okay, great. And then on DNA, would you mind running through those numbers again and I'm curious how many of the DNA signings and implementations have been new clients versus existing ones?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [83]
+--------------------------------------------------------------------------------
+ So sales in 2017 were up 22% -- institutions in 2016, sorry, were up 20% versus 2015, and implementations were at 20, and 7 of those implementations were assets, institutions with assets greater than $1 billion. On the credit union side, you have a little bit more migration of existing platforms to new but definitely we have new and on the bank sides it's almost all new.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [84]
+--------------------------------------------------------------------------------
+ Okay, got you. And then lastly, Jeff, when you talk about sales, sales were up I think 22% in the quarter, so strong number. Is that sales number measuring TCV sold in the quarter or is that kind of an annualized revenue from sales, I'm just trying to understand that.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [85]
+--------------------------------------------------------------------------------
+ It's TCV.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [86]
+--------------------------------------------------------------------------------
+ Okay, could you give us some sense of the annualized revenue growth? I ask because I know in the market there have been a lot more sales that have been longer and longer time frames.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [87]
+--------------------------------------------------------------------------------
+ Yes, we don't provide that information. I will say that the best way to think about it is the implementation cycles for the things that were sold, there were a couple of big sales we mentioned in Q2 that we thought were going to have shorter cycles, and lo and behold they are going to end up being 12 to18 month cycles. So I would say for the most part, the tracking of the implementation cycles is about on par with where it has been historically.
+--------------------------------------------------------------------------------
+ Chris Shutler,  William Blair &amp; Company - Analyst   [88]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [89]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [90]
+--------------------------------------------------------------------------------
+ Our next question is from Joseph Foresi of Cantor Fitzgerald.
+--------------------------------------------------------------------------------
+ Mike Reid,  Cantor Fitzgerald - Analyst   [91]
+--------------------------------------------------------------------------------
+ Hi guys, this is Mike Reid on for Joe. Thanks for taking the question. I was wondering if you could give us maybe some color on some of the new initiatives, CheckFree, DNA, Mobiliti, Popmoney and some of the newer ones. Does one of those have opportunity to move the needle this year maybe more than some of the others?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [92]
+--------------------------------------------------------------------------------
+ We're all sitting here thinking, we're contemplating the question. I think in the aggregate, they will move the needle. The ability for any one of -- I mean the beauty of our model is it's a recurring revenue model and it builds in transactions over time. The difficulty in our model is it's a recurring revenue model which builds in transactions over time. And so from our perspective, we care a lot more about how well are we doing at building the products and putting them into the market and having them drive value so they are going to be adopted and drive revenues.
+ So yes, in the aggregate they are going to move the needle a bit in 2017, but when you think about 2018 and 2019, that's where it's going to matter and I would use Mobiliti as an example. I think Bob mentioned in his prepared remarks that Mobiliti users have grown 90% over the last two years and that to 5.5 million.
+ To the extent that some of these products have the ability to do that and they do, in fact products like Notifi are much broader based than something like Mobiliti. They can have meaningful impacts on the Company for a long period of time in terms of driving growth. But more importantly, they create differentiated advantages for our clients, for us and therefore our clients and that's why these solutions are so important.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [93]
+--------------------------------------------------------------------------------
+ But the net effect of that is almost nothing can kind of pop in a given year and move the needle.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [94]
+--------------------------------------------------------------------------------
+ In those kinds of solutions.
+--------------------------------------------------------------------------------
+ Mike Reid,  Cantor Fitzgerald - Analyst   [95]
+--------------------------------------------------------------------------------
+ Okay, individually.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [96]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Mike Reid,  Cantor Fitzgerald - Analyst   [97]
+--------------------------------------------------------------------------------
+ And then keeping it on 2018 then, you think that could be an acceleration year if the momentum continues and what would be an early indication of that taking hold?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [98]
+--------------------------------------------------------------------------------
+ The answer to the first part of the question was yes and the answer to the second part is I think that's a better discussion at Investor Day.
+--------------------------------------------------------------------------------
+ Mike Reid,  Cantor Fitzgerald - Analyst   [99]
+--------------------------------------------------------------------------------
+ Okay, thanks guys.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [100]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [101]
+--------------------------------------------------------------------------------
+ Our next question is from Tien-tsin Huang of JP Morgan.
+--------------------------------------------------------------------------------
+ Tien-tsin Huang,  JPMorgan - Analyst   [102]
+--------------------------------------------------------------------------------
+ Hi good afternoon, good to catch up. I jumped on a little bit late but Jeff, following up on your comment around the potential for freezing of client spending, that makes sense, which reminded me to ask is compliance revenue -- how big of a contribution has that been in terms of new sales in the last couple of years and how big is it in terms of revenue now? I'm curious if that's an area where you could see some delays or deferrals?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [103]
+--------------------------------------------------------------------------------
+ So while compliance was at the top of everyone's list, I was frustrated that we weren't moving fast enough to put products into the market against that demand. So now, now when we think maybe compliance products will be a little bit more out of vogue, I'm not too concerned about the impact on our revenue.
+--------------------------------------------------------------------------------
+ Tien-tsin Huang,  JPMorgan - Analyst   [104]
+--------------------------------------------------------------------------------
+ Good. And then just overall, big picture, thinking about visibility, I know you've gotten a lot of questions around it, but just thinking about visibility in this environment today versus 12 months ago, how would you characterize that?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [105]
+--------------------------------------------------------------------------------
+ Revenue visibility?
+--------------------------------------------------------------------------------
+ Tien-tsin Huang,  JPMorgan - Analyst   [106]
+--------------------------------------------------------------------------------
+ Yes, I'm sorry. Revenue visibility, earnings visibility, however you want to handle that.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [107]
+--------------------------------------------------------------------------------
+ Pretty high. We are blessed with a business model that, as you know, has a pretty high degree of recurring revenue and for the most part, we can see what's coming. The beauty of any number of the products and services that we've been building is we're selling them fairly early, they are getting queued. The biggest issue that we will have is if clients make decisions that delays implementations, especially large ones. And to the extent that some of these products are dependent upon consumer adoption, obviously you've got an issue because of the intermediary role that the institutions play, but on balance I think we're in reasonable shape.
+--------------------------------------------------------------------------------
+ Tien-tsin Huang,  JPMorgan - Analyst   [108]
+--------------------------------------------------------------------------------
+ Good. Thanks as always for the update.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [109]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [110]
+--------------------------------------------------------------------------------
+ Thank you, our next question is from Paul Condra of Credit Suisse.
+--------------------------------------------------------------------------------
+ Paul Condra,  Credit Suisse - Analyst   [111]
+--------------------------------------------------------------------------------
+ Hi everybody, thank you. Just a couple quick ones, you didn't size that impact on the international kind of timing issue in the financial segment?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [112]
+--------------------------------------------------------------------------------
+ No.
+--------------------------------------------------------------------------------
+ Paul Condra,  Credit Suisse - Analyst   [113]
+--------------------------------------------------------------------------------
+ Okay and then you mentioned dilution from the acquisition. Could you quantify that on the margin impact? I'm just curious how much you out grew that.
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [114]
+--------------------------------------------------------------------------------
+ Yes, so we talked about it in terms of the full year impact in 2016, had we not had that dilution, the margins for the overall Company would have been up by about 30 basis points for our payment segment alone, so about 60 points.
+--------------------------------------------------------------------------------
+ Paul Condra,  Credit Suisse - Analyst   [115]
+--------------------------------------------------------------------------------
+ Okay, great and should we think of that 50 bps as continuing into 2018, the way to think about continued margin expansion?
+--------------------------------------------------------------------------------
+ Bob Hau,  Fiserv, Inc. - CFO   [116]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [117]
+--------------------------------------------------------------------------------
+ And what we have said, Paul, is that we believe as part of our long term guidance that we have the ability to increase our adjusted operating margin by generally at least 50 basis points per year on average.
+--------------------------------------------------------------------------------
+ Paul Condra,  Credit Suisse - Analyst   [118]
+--------------------------------------------------------------------------------
+ Perfect, okay, great. And one broader question, I mean a lot of focus on H1B Visas and I'm curious if you have any kind of -- like your mix of employees that work with those Visas and how you're thinking about changes to that program and any impact you might have.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [119]
+--------------------------------------------------------------------------------
+ I think at this stage we're paying attention to what's going on and we'll likely see how it all settles out.
+--------------------------------------------------------------------------------
+ Paul Condra,  Credit Suisse - Analyst   [120]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [121]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [122]
+--------------------------------------------------------------------------------
+ Thank you. Our last question is from Brett Huff of Stephens Incorporated.
+--------------------------------------------------------------------------------
+ Brett Huff,  Stephens Inc. - Analyst   [123]
+--------------------------------------------------------------------------------
+ Good afternoon guys, thanks for taking the question, I'll be quick.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [124]
+--------------------------------------------------------------------------------
+ Sure.
+--------------------------------------------------------------------------------
+ Brett Huff,  Stephens Inc. - Analyst   [125]
+--------------------------------------------------------------------------------
+ Can you talk a little bit about the commercial cash management or treasury management, however you want to talk about it? All of a sudden it seems like there's a lot of focus on that. Jack Henry is starting to build their own, you guys bought a nice asset, what's the driver for that? Is it just sort of time or is it that banks are refocusing on that or have we under invested in it? What's changing in the market that's driving that, do you think?
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [126]
+--------------------------------------------------------------------------------
+ Yes, so Brett, I would say that it's a combination of factors. If you look at surveys right now of bank executives who are making technology decisions or maybe business technologies that are enabled by technology, near the top of the list you're going to see commercial cash management and commercial lending. And so those capabilities, because they are serving the most important clients in the bank, have always been important, but they are becoming more important. And they are becoming more important because the retail profitability of the banks is getting compressed and therefore, banks are going to the places that they know and that's serving their commercial clients. And the further up you want to move in the size of the institutions, so as you break through $1 billion or $3 billion or $5 billion or $10 billion, the commercial capability is the most important part of the -- often the most important part of the analysis, the buyer analysis. And so that's why I believe you're hearing people talk about it.
+ For us, we made a decision that said we have been looking at building and we have built out our product meaningfully over the last three or four years, but our decision was it was time to leap frog the market. And the solution that we bought is a solution that the guys who did the business had been -- actually was the original Magnet guy, Dan Myers and this has been his life and they know how to build cash management. It has gotten fantastic reviews. We kept hearing about it from clients and it was a little bit of, if you can't beat them join them. And instead of having to wait three, four, five years to build something and get into the market because you really -- this is an area where you need to have deep, deep, deep functional expertise and we thought this was by far the most prudent way to go and we are thrilled with the responses that we've gotten from our clients and prospects as it relates to this acquisition.
+--------------------------------------------------------------------------------
+ Brett Huff,  Stephens Inc. - Analyst   [127]
+--------------------------------------------------------------------------------
+ That's helpful and last one on P2P. I know its been discussed a little bit. Any updates on your view on the game between bank driven versus non-bank driven peer to peer, with Paypal starting to work more together with banks, I think the distinction maybe got a little bit murkier. Any additional data or any additional thoughts you have on this peer to peer as it evolves, number one. And then number two, monetization of peer to peer other than express payments or is this more of a relationship, we want to make sure our customers stay within our digital footprint.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [128]
+--------------------------------------------------------------------------------
+ So Brett, I would say and Mark may want to add-on to this, I would say that its been our belief that if you give a consumer a choice, would you rather move your money through a regulated financial institution or a company that is a merchant acquirer, they probably won't know what a merchant acquirer is and they will likely go with the regulated financial institution. Now it's a little tongue and cheek because Venmo has done well and those folks have done a nice job with it, no question about that.
+ We are very aligned with watts going on with Zelle. And we are optimistic that through Zelle and Popmoney and any number of others that banks will end up being the primary place in which payments move from one person to another. Our revenue model is based on transactions and so while there may be no consumer based transaction as is the case in many other examples, we are providing a very safe and very secure product that allows that money to move with complete confidence to the consumer and we've invested lots of money to make sure that we have the leading product in the market and we do and we're excited about that. So we do see monetization there on top of the realtime instant opportunity that we talked about.
+--------------------------------------------------------------------------------
+ Mark Ernst,  Fiserv, Inc. - COO   [129]
+--------------------------------------------------------------------------------
+ Yes, the only thing I'd add is we do a lot of research and we are tracking the market and consumer attitudes around this whole space pretty regularly. We have not seen any change in the fact that consumers, by a large margin, prefer their financial institution, their existing bank or credit union to be the provider of the service. And they are looking for a common network or a common brand through which to do that. And that's why we are so excited about the prospect of the Zelle capability coming online.
+--------------------------------------------------------------------------------
+ Brett Huff,  Stephens Inc. - Analyst   [130]
+--------------------------------------------------------------------------------
+ Great, that's what I needed. Thanks again guys.
+--------------------------------------------------------------------------------
+ Jeff Yabuki,  Fiserv, Inc. - CEO   [131]
+--------------------------------------------------------------------------------
+ Thanks, Brett. Thanks everyone for joining us this afternoon. If you have any further questions, don't hesitate to give us a call. We also look forward to seeing you at our Investor Day later on in the year. Have a good night, everyone.
+--------------------------------------------------------------------------------
+Operator   [132]
+--------------------------------------------------------------------------------
+ Thank you, that concludes today's conference. Thank you for participating, you may now disconnect.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q4 2016 Fiserv Inc Earnings Call]]></eventTitle>
+  <city>BROOKFIELD</city>
+  <companyName>Fiserv Inc</companyName>
+  <companyTicker>FISV</companyTicker>
+  <startDate>8-Feb-17 10:00pm GMT</startDate>
+  <companyId>62229</companyId>
+  <CUSIP>337738108</CUSIP>
+  <SEDOL>2342034</SEDOL>
+  <ISIN>US3377381088</ISIN>
+</Event>

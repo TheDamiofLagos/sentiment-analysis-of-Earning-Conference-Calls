@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="5338024" lastUpdate="Thursday, May 1, 2014 at 5:42:28am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="5338024.F" expirationDate="Wednesday, April 30, 2014 at 9:30:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of EQIX earnings conference call or presentation 30-Apr-14 9:30pm GMT]]></Headline>
+    <Body><![CDATA[Q1 2014 Equinix Earnings Conference Call
+
+REDWOOD CITY May 1, 2014 (Thomson StreetEvents) -- Edited Transcript of Equinix Inc earnings conference call or presentation Wednesday, April 30, 2014 at 9:30:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Katrina Rymill
+      Equinix Inc - VP of IR
+   *  Steve Smith
+      Equinix Inc. - CEO and President
+   *  Keith Taylor
+      Equinix Inc - CFO
+   *  Charles Meyers
+      Equinix Inc - COO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Michael Rollins
+      Citigroup - Analyst
+   *  Jonathan Schildkraut
+      Evercore Partners - Analyst
+   *  Colby Synesael
+      Cowen and Company - Analyst
+   *  David Barden
+      BofA Merrill Lynch - Analyst
+   *  Gray Powell
+      Wells Fargo Securities, LLC - Analyst
+   *  Frank Louthan
+      Raymond James &amp; Associates - Analyst
+   *  Ken Horan
+      Oppenheimer &amp; Co. - Analyst
+   *  Jonathan Atkin
+      RBC Capital Markets - Analyst
+   *  Simon Flannery
+      Morgan Stanley - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good afternoon, and welcome to the Equinix conference call. All lines will be able to listen only until we open for questions. Also today's conference is being recorded. If anyone has objections, please disconnect at this time.
+ I would like now to turn the call over to Katrina Rymill, Vice President of Investor Relations. Ma'am, you may begin.
+--------------------------------------------------------------------------------
+ Katrina Rymill,  Equinix Inc - VP of IR   [2]
+--------------------------------------------------------------------------------
+ Good afternoon and welcome to today's conference call. Before we get started, I'd like to remind everyone that some of the statements that we will be making today are forward-looking in nature and involve risks and uncertainties.
+ Actual results may vary significantly from those statements and may be affected by the risks we identified in today's press release and those identified in our filings with the SEC, including our most recent Form 10-K filed on February 28, 2014. Equinix assumes no obligation and does not intend to update or comment on forward-looking statements made on this call.
+ In addition, the light of regulation Fair Disclosure it is Equinix's policy not to comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. In addition, we will provide non-GAAP measures on today's conference call.
+ We provide a reconciliation of those measures to the most directly comparable GAAP measures and a list of the reasons why the Company uses these measures in today's press release on the Equinix Investor Relations page at www.equinix.com. We would also like to remind you that we post important information about Equinix on the investor relations page of our website. We encourage you to check our website regularly for the most current available information.
+ With us today are Steve Smith, Equinix's CEO and President; Keith Taylor, Chief Financial Officer; and Charles Meyers, Chief Operating Officer. Following our prepared remarks we will be taking questions from sell-side analysts. In the interest of wrapping this call up in an hour, we would like to ask these analysts to limit any follow-on questions to just one. At this time, I'll turn the call over to Steve.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [3]
+--------------------------------------------------------------------------------
+ Thank you, Katrina. Good afternoon and welcome to our first-quarter earnings call. We are off to a strong start in 2014, delivering both revenue and adjusted EBITDA above the top end of our guidance ranges.
+ As depicted on slide 3 in our presentation, revenues were $580 million, up 3% quarter over quarter and 12% over the same quarter last year. Adjusted EBITDA was $260 million for the quarter, up 8% over the same quarter last year.
+ We delivered solid results across the regions and our metrics, including MRR per cabinet, churn, and cross connect adds reflect continued health of the business and a competitive edge from Platform Equinix. We continue to be differentiated in the market as the only global interconnection platform, which positions us as the partner of choice for businesses with significant global requirements.
+ Today 65% of recurring revenues come from customers deployed across multiple regions, and that is up from 60% last year. And 80% of recurring revenues comes from customers deployed across multiple metros, up from 78% last year.
+ Looking at our top 100 customers, 86 are deployed in more than one region across an average of 10 metros. The metric that demonstrates the value of Platform Equinix reflects a very diverse revenue base and correlates with high levels of customer retention. As our customers distribute their infrastructure to improve performance and reduce costs, we remain focused on delivering a consistent experience on how we design, build, and operate our IBXs, as well as how we market, sell and support Platform Equinix.
+ We continue to experience momentum across our industry verticals and associated ecosystems. The network vertical delivered consistent growth, with new bookings from service providers who are expanding their portfolio of cloud services and simultaneously upgrading their infrastructure to 100 gig in support of explosive bandwidth demand.
+ Content also delivered strong bookings this quarter, driven by global expansions from large players and continued growth of the Advertising Exchange, or the Ad-IX ecosystem. Ad-IX wins include expansions from BrightRoll and MediaMath, as well as new wins including SpotXchange, a video advertising platform.
+ In Financial Services, our win with BATS, who is consolidating infrastructure in our Secaucus campus, is generating continued momentum in our financial ecosystem. This ecosystem remains one of our most diverse, with over 800 customers across a variety of asset classes, market participants and information providers. We are also seeing positive signs in enterprise sub-verticals, including energy, oil and gas, professional services and insurance, as well as new ecosystems taking shape in hybrid cloud deployments, which I'll cover in more detail shortly.
+ At the heart of our success is the value we deliver to customers through interconnection. From our earliest days, Equinix has focused on building communities among companies who gain business benefits from connecting with each other in a private, secure and high through-put manner.
+ As shown on slide 4, we have evolved our interconnection portfolio in response to customer demands, and now offer the industry's most comprehensive suite of interconnection solutions. Cross-connects, our point-to-point fiber connections that deliver secure high-performance connectivity between customers and represent the core of our interconnection business, generating 85% of interconnection revenue. Today we have approximately 132,000 cross-connects, and these connections to continue to grow as IP traffic increases, which is indicative of the power of interconnection and a sign of the strength of our ecosystems.
+ Operating in tandem with cross-connects and also fueled by IP traffic growth are the various exchanges we run in over 20 markets around the world. These exchanges enable one to many connections, and like any exchange the value to an individual customer is driven by the number and quality of participants on that exchange.
+ Companies continue to select Equinix as the most efficient and effective place to exchange traffic. Our exchanges drive over 2.5 terabits of traffic across 2,200 ports, which is twice as many as our closest competitor.
+ Traffic in our exchanges continues to grow over 20% yearly, as network, content and cloud customers take advantage of the rich ecosystems across Platform Equinix. The combination of large-scale exchanges available via both IP and ethernet protocols and extensive private interconnection inside our IBXs has established Equinix as the global interconnection leader. And interconnection remains at the heart of our strategy going forward.
+ Let me shift gears now and cover the cloud market and the Equinix opportunity. Cloud adoption continues to ramp, creating massive disruptions in how businesses consume IT services and creating a significant opportunity for Equinix. We are experiencing a dramatic increase in traffic within the data center as enterprises leverage virtualized infrastructures and move data and applications into hybrid cloud architectures.
+ Platform Equinix is the home of the inter-connected cloud, delivering a critical cloud hubbing function where customers seek to achieve rapid time-to-market, reduced capital and lower costs associated with directly accessing public cloud services, while simultaneously enabling access to their private cloud. In fact, Cisco's global cloud index report projects that cloud traffic within data centers will triple over the next four years.
+ Enterprises are eager to realize the benefits of the cloud but have significant concerns about relying on the open Internet for business-critical applications and data. With the need for higher performance, security and control, Equinix is seeing customers move critical data and applications off the public internet, taking advantage of the ability to directly connect to major cloud service providers, such as AWS, where they can achieve significant throughput performance gains. As depicted on slide 5, the tremendous choice of networks and cloud service providers available on Platform Equinix has uniquely positioned us to deliver to enterprises the flexibility they need to confidently extend their networks and take full advantage of hybrid cloud.
+ As shown on slide 6, the proximity advantages of Platform Equinix allow companies to move beyond early adopter use cases, like test and development, and empower forward thinking CIOs to leverage the cloud for mission-critical workloads. These CIOs understand that latency is critical to application performance and many enterprises are reconfiguring their infrastructure to deploy hybrid cloud, allowing them to retain control over critical data and enhancing application performance.
+ In fact, at Equinix, we ourselves have deployed a cloud optimized architecture globally to support our own enterprise by connecting to over 40 cloud services. Planning them with their on-premise applications to create a hybrid cloud architecture optimized to run our business.
+ While still early in the adoption curve, we are seeing more and more businesses adopt this next-generation IT architecture, and leverage our performance hub offer to extend their enterprise WAN to increase performance and lower costs. Enterprise wins this quarter include Lego, GDF Suez and a leading aerospace and defense contractor.
+ Cloud and IT services remains our fastest-growing vertical, delivering 15% year-over-year revenue growth. We continue to win business from magnet cloud and network customers, including a global deployment with Verizon in 15 markets and Microsoft offering its express route services in 16 Equinix markets.
+ Today we are extending our leadership with the announcement of the Equinix Cloud Exchange, an advanced interconnection solution optimized to support today's cloud workloads. With Cloud Exchange, Equinix is building upon its interconnection heritage to bring together cloud providers and cloud consumers in a new way to realize the benefits of cloud computing.
+ Turning to slide 7, the Equinix Cloud Exchange extends the investment in and functionality of our ethernet exchange to enable private, secure connections between enterprises, networks and cloud service providers. With this solution, enterprises can access multiple cloud and network vendors through a single port interface, allowing them to quickly and efficiently deploy hybrid cloud infrastructure.
+ The Equinix Cloud Exchange enables IT workloads to be virtually provisioned in an automated fashion over a single physical port between multiple parties, simplifying and improving integration, security, and performance of cloud services. The Cloud Exchange is supported by a portal which allows CIOs and their infrastructure teams to interact with the exchange in a variety of ways, including querying the list of cloud service provider locations by metro and region, and self-provisioning virtual circuits to participating providers such as AWS and Microsoft. Available globally in 13 markets today, the Equinix Cloud Exchange is expected to be available in 19 markets by the end of the year.
+ As we continue to focus on solutions for enterprise customers building hybrid cloud environments, we expanded our alliance with Microsoft to offer Azure ExpressRoute via the Equinix Cloud Exchange in 16 markets spanning four continents. This removes many of the complexities and capacity limitations associated with setting up network connections to Azure cloud services, and enables enterprise customers to take full advantage of the cloud. We're very excited about the benefits that Equinix Cloud Exchange offers our customers and its potential to strengthen an already robust ecosystem of cloud and network service providers delivering services to enterprises.
+ We believe our position as the world's leading interconnection Company, underpinned by our strong ecosystem of 975 networks, 450 cloud service providers across more than 100 IBXs, makes us uniquely qualified to be the home of the interconnected cloud. Let me stop here and turn it over to Keith to cover the results for the quarter.
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [4]
+--------------------------------------------------------------------------------
+ Thanks, Steve, and good afternoon to everyone. Let me get right into it today, starting with our bookings. We had a strong gross and net bookings quarter in each of our regions, better than our expectations. And the Americas delivered its highest export bookings activity on record, reflecting the importance of our global platform.
+ Also, we delivered against both our revenue and EBITDA objectives. More specifically, interconnection revenues continue to outpace overall revenue growth, increasing by 15% over the prior year, with very healthy gross additions for both our cross-connect and exchange port offerings.
+ Of particular note, exchange ports added in the quarter doubled across each of our three regions, driven by network, content and social media customers. We continue to expect MRR per cabinet yields to remain steady, allowing us to meet our targeted operating objectives and financial returns.
+ Now looking at slide 8 from our presentation posted today. Global Q1 revenues increased to $580.1 million, a 3% increase over the prior quarter and up 12% over the same quarter last year.
+ Our Q1 revenue performance reflects a $2.5 million negative currency effect when compared to the average rate used in Q4, and a $400,000 negative currency effect when compared to our FX guidance rates. It's important to note that our FX hedges that we set against the euro, pound and Swiss franc exposure offset the positive FX rate that you may have seen this past quarter by $1.1 million.
+ Nonrecurring revenues increased 14% quarter over quarter, as we continue to provide custom sales orders and installation activities for our customers, slightly greater than our expectations. We expect the custom sales order and installation activity to remain at a high level for the rest of the year. Global cash cost of revenues were consistent with our expectations and cash SG&amp;A expenses increased to $135.4 million for the quarter, including approximately $10 million of REIT-related cash costs.
+ Global adjusted EBITDA was $260.4 million, above the top end of our guidance range, although down 1% over the prior quarter, primarily due to fluctuations in salaries and benefits and anticipated higher REIT conversion costs. Our adjusted EBITDA margin was 45%. Our Q1 adjusted EBITDA performance reflects a negative $1.6 million currency hit when compared to the average rates used in Q4, and a $700,000 negative impact when compared to our FX guidance rates.
+ MRR churn was consistent with our expectations, at 2.3%. As we noted last quarter, we expect our Q2 MRR churn to increase. Our current estimate for the quarter is approximately 3%. This increase is solely attributed to the LinkedIn churn, as they bifurcate a portion of their infrastructure at the end of Q2. Given the LinkedIn churn will occur at the end of Q2, the MRR churn will be recognized in Q2, but the revenue impact will be felt in Q3.
+ As mentioned last quarter, this MRR churn had been fully contemplated in our 2014 guidance. For the full year of 2014 we expect MRR churn to average approximately 2.5% per quarter. Therefore we expect lower churn in the second half of the year.
+ Now moving on to our comments on REIT. We continue to progress with our plans to convert to a REIT on January 1, 2015. And while we're still awaiting a response from the IRS on our PLR request, we do not expect a delay to this timeframe.
+ On slide 9 we summarize the various expected REIT-related cash costs and taxes. In the second quarter we expect to incur approximately $11 million in REIT-related cash costs. For the year, our estimated cash tax liability is now expected to range between $145 million and $200 million.
+ Turning to slide 10, I would like to start reviewing our regional results, beginning with the Americas. The Americas region delivered solid regional gross bookings and exported a record level of activity to the other two regions, a testament to the success of our global footprint and service offering. Consistent with our expectation, the Americas revenues increased 2% over the prior quarter and up 9% over the same quarter last year on a constant-currency basis.
+ Moving to the Americas adjusted EBITDA, but first a reminder. The Americas region continues to be fully burdened with the corporate functions, including the corporate projects such as REIT conversion and Equinix Customer One. Given this, Americas' adjusted EBITDA on a constant-currency basis was down 6% over the prior quarter and up 5% year over year.
+ Americas' adjusted EBITDA margin was 45% for the quarter. The sequential decline in adjusted EBITDA was primarily due to the partial reversal of our 2013 corporate bonus accrual in Q4, and the FICA reset in Q1, as well as higher than typical utilities expense due to the harsh winter across many parts of the US. We expect the Americas' adjusted EBITDA margin to trend back to our Q4 2013 level, effectively 49%, as we progress through the year.
+ Americas' net billing cabinets decreased by 100 in the quarter, simply due to timing of customer installation and cabinet churn. A similar phenomena to what we experienced a year ago, while the MRR per cabinet remained steady at very attractive levels.
+ Americas added 800 net cross-connections in the quarter, slightly lower due to a suite migration in our New York 9 asset located in 111 Eighth Avenue. Absent the one-time event in the quarter, Americas' cross-connect adds were above the four prior-quarter trend.
+ Equally important we added 106 exchange ports in the quarter, which is more than we added in all of 2013, driven by demand from content, network providers reflecting the competitive differentiation we have with our Equinix exchanges. Interconnection revenues, as a percent of the region's recurring revenues, increased over 20%.
+ Now looking at EMEA, please turn to slide 11. EMEA revenues on a normalized and constant-currency basis were up 3% quarter over quarter and up 19% year over year, and reflect strong performance, particularly in the UK and Netherlands, as large multi- and cross-regional deals continue to benefit the region.
+ Adjusted EBITDA on a normalized and constant-currency basis was up 4% over the prior quarter and up 24% over the same quarter last year. Adjusted EBITDA margin increased to 42%, despite a number of one-off adjustments booked in the quarter. Absent these adjustments, EMEA adjusted EBITDA would have been 44%.
+ EMEA interconnection revenues increased 9% over the prior quarter and up 36% over the same quarter last year, largely driven by the UK market whereby they saw a large increase in exchange port and fixed antenna service offerings. We added 1,300 net cross-connects in the quarter and net cabinets billing increased by approximately 800.
+ We're continuing to expand in Europe, progressing with our next phase in Amsterdam 3. Located in Science Park, Amsterdam 3 is one of the world's most network-dense locations and designed to new standards and sustainability.
+ And now looking at Asia-Pacific, please refer to slide 12. Asia-Pacific revenues were $98.6 million. Revenues on a constant-currency basis increased 7% over the prior quarter and up 15% over the same quarter last year, driven by strength in our content, cloud and network segments.
+ Adjusted EBITDA on a constant-currency basis was up 10% over the last quarter and up 6% over the same quarter last year. MRR per cabinet on a constant-currency basis remained strong and cabinets billing increased by 900 compared to the prior quarter. We added a record 1,500 net cross-connects in the quarter and interconnection revenues remained at 12% of the region's recurring revenues.
+ In 2014 we are expanding across all seven Asia-Pacific metros, which include the recently-opened phases in Tokyo and Sydney. For new builds we're proceeding with the second phase of our new IBX in Osaka, driven by strong interest from the cloud and content customers, as well as expanding in Singapore with additional phase in Singapore 2.
+ And now looking at the balance sheet, please refer to slide 13. We ended the quarter with over $1 billion of unrestricted cash and investments on our balance sheet. Our current liquidity position continues to remain healthy.
+ Our net debt leverage ratio increased slightly to 3.1 times our Q1 annualized adjusted EBITDA. We also repurchased 732,000 shares, or $127 million, of Equinix stock through last Friday. Our stock repurchase program has offset, at least in part, the shares attributed to the convertible debt exchange agreement we entered into last week.
+ Now switching to slide 14. Q1 operating cash flow increased over the prior quarter to $171.7 million, even though our DSOs increased to 33 days in the quarter, a trend we expect to reverse in Q2. For 2014 we continue to expect adjusted discretionary free cash flow, excluding the REIT-related cash cost and taxes to range between $620 million and $650 million, and adjusted cash free cash flow to be greater than $200 million.
+ Now looking at capital expenditures, please refer to slide 15. For the quarter, capital expenditures were $105.9 million, including ongoing CapEx of $44.9 million, below our prior guidance due to timing of cash payments. We opened four new IBX phases in the first quarter, including Dallas 6, which is a new build in the Dallas Infomart. We now currently have 12 announced expansion projects underway across the globe, of which 10 are campus builds or incremental phase builds.
+ At this point, let me turn the call back to Steve.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [5]
+--------------------------------------------------------------------------------
+ Okay, thanks, Keith. Let me now shift gears and cover our outlook for 2014 on slide 16. For the second quarter of 2014 we expect revenues to be in the range of $594 million to $598 million. Cash gross margins are expected to approximate 68% to 69%.
+ Cash SG&amp;A expenses are expected to range between $135 million and $139 million. Adjusted EBITDA is expected to be between $267 million and $273 million, which includes $11 million in costs related to the REIT conversion. Capital expenditures are expected to be $165 million to $175 million, including $60 million of ongoing capital expenditures.
+ For the full year of 2014 we are raising revenue to be greater than $2.395 billion, or greater than 11% year-over-year growth, which includes $7 million of positive foreign currency benefit compared to our Q1 guidance rates. Total year cash gross margins are expected to be 69%. Cash SG&amp;A expenses are expected to range between $530 million and $550 million.
+ Adjusted EBITDA is expected be greater than $1.105 billion, which includes $3 million of positive foreign currency benefit compared to our Q1 guidance rates and also includes $37 million in costs related to our REIT conversion efforts. We expect 2014 capital expenditures to range between $550 million and $650 million, including approximately $200 million of ongoing capital expenditures.
+ In closing, we are off to a strong start in 2014, and are well-positioned to deliver profitable growth while continuing to invest and innovate to fully realize the benefits our global interconnection platform. We sit at the heart of the rapidly-evolving digital economy, and are the only data center Company that brings together an extensive global footprint and existing relationships with thousands of network, cloud, content and enterprise customers.
+ Hybrid cloud is emerging as the clear IT architecture of choice for service providers and enterprises alike. We see this is a unique opportunity to capitalize on our market leadership. We will continue to invest in this opportunity by building next-generation interconnection solutions and building a robust cloud ecosystem that will meaningfully increase the inherent long-term value of the business.
+ Let me stop here and open it up for questions. Rachel, I'll turn it back over to you.
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Michael Rollins, Citi Investment Research
+--------------------------------------------------------------------------------
+ Michael Rollins,  Citigroup - Analyst   [2]
+--------------------------------------------------------------------------------
+ Two questions. First, if you could go through the sales force, the size and the productivity and the incremental areas of strength? And if there's any sources of weakness within it as well? And then I'll follow-up afterwards with the second question, please.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [3]
+--------------------------------------------------------------------------------
+ Okay, Mike. I'll start out and we can pile on here.
+ Generally speaking, from a sales and bookings productivity standpoint, there's good steady-state productivity. And as you guys know, as we've said in past quarters, the ramps vary by vertical.
+ But we do have a high level of competitiveness going on, particularly we're staying very disciplined in our deal reviews, as you guys see in our MRR per cabinet results. We do still believe there's upside as our reps continue to mature, and we get better at our offerings that we're expanding, as we talked about today, and we become more adept at prosecuting the enterprise and as the cloud unfolds.
+ So I think the team believes there's still more upside for the reps around the world. So overall there's a lot of positive momentum from our exit rate in fourth quarter and certainly the good start we have here in this quarter.
+ We haven't talked a lot about this, but Charles has probably referred to this. We are augmenting our direct sales force, which is around 220, to your specific question, Mike, today, quota-bearing heads in the direct sales engine.
+ We're starting to augment that with an indirect channel that we're starting to sell through and with platform partners and resellers, as well as working with some referral partners to help generate new leads. There's a lot of activity going on on both the direct and indirect front.
+ That total headcount on quota-bearing heads will probably go towards 240, maybe up to 250, as you think about full year end of the year. So as Keith mentioned in his script, we had very good results first quarter across three regions. Actually in Americas they had the highest gross bookings since Q4 of 2012, and as he said, they had very good export bookings.
+ Actually in the other two regions, we exceeded both our gross and net bookings plan. So really good result in the quarter. Pipeline is healthy, coverage ratios look good, conversion rates are up. Generally speaking, the sales engine is doing very well.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [4]
+--------------------------------------------------------------------------------
+ Mike, Charles. I'd just add to your question about performance across verticals. Good consistent performance, again, both regionally and vertically.
+ I think particular strength as we've noted in the script, and associated with the cloud opportunity continuing to scale. Enterprise, as we had said in the past, a little longer sales cycle to really seeing some significant lighthouse wins.
+ Continuing to see those and beginning to ramp and implement those in ways that are delivering the benefits of customers, which we now intend to repackage into case studies to push back out through both our direct channel and our partner channels that we think will accelerate that opportunity. It's pretty good solid performance across the verticals and across the regions, and again, really strong performance from a global platform-looking standpoint.
+--------------------------------------------------------------------------------
+ Michael Rollins,  Citigroup - Analyst   [5]
+--------------------------------------------------------------------------------
+ If I could just follow up with a second question. On the REIT side, you said there wasn't an update on the PLR, but have you learned anything new from your advisors or the process? Is there any further details on timing or expectations that you may have that you could share with us this evening?
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [6]
+--------------------------------------------------------------------------------
+ Well, not a lot, Mike. As Keith said in his script, we are full speed ahead with all the system and process work to drive us towards that conversion date of January 1, 2015.
+ But as all of you probably saw over the last couple of weeks, it was good news with Lamarr and CBS Outdoors getting broken out of the logjam, so with PLRs starting to be issued, that obviously is good to see that logjam being broken.
+ But we don't have any specific update, other than the IRS has informed us that it's actively working our PLR request, and will respond in due course. So we don't expect, as mentioned in the script, any delay in the ruling on our PLR and we're full speed ahead towards 1/1/15.
+--------------------------------------------------------------------------------
+ Michael Rollins,  Citigroup - Analyst   [7]
+--------------------------------------------------------------------------------
+ Thanks very much.
+--------------------------------------------------------------------------------
+Operator   [8]
+--------------------------------------------------------------------------------
+ Jonathan Schildkraut.
+--------------------------------------------------------------------------------
+ Jonathan Schildkraut,  Evercore Partners - Analyst   [9]
+--------------------------------------------------------------------------------
+ Thank you. Thanks for taking the question.
+ Steve, I thought you did a great job of laying out the density of the cloud platform that you're pulling together, and how it could attract the enterprises. We are hearing more and more about the similar types of approaches from other folks, and it seems like everyday somebody announces a connection to the Azure platform or a connection to AWS.
+ And so I was wondering if you could give us a little bit more perspective in terms of why somebody would be drawn to your platform versus some of the others?
+ Then in terms of how you go and get to the customers, is this an outgoing call or is this a responsive call in terms of putting out the offering to customers?
+ And then I did have one detail question, to make sure I understand the LinkedIn churn. It looks like it's about to bump churn by 50 bps relative to MRR or the recurring revenue basis. What, it's $2.5 million or $3 million worth of impact in the third quarter? Thanks.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [10]
+--------------------------------------------------------------------------------
+ Charles, why don't you take the first piece.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [11]
+--------------------------------------------------------------------------------
+ Yes, I'll start with the first part relative to the cloud opportunity.
+ Agreed, there is a lot of energy in the market. I think that people are -- a lot of enterprises looking to capture the benefits of the cloud. I think that a lot of people are chasing after that.
+ But what is very clear is that hybrid cloud has emerged as the IT architecture of choice. I think specifically, to your question as to how what we do is differentiated, the reality is, is that in order to capture those benefits the geographical reach of our platform, the network density of the platform, the cloud density that already exists inside our centers with 1200-plus cloud and IT service providers and 450-plus pure-play cloud providers, represent a very unique value proposition in terms of being able to access that cloud density. To be able to get to the right network providers across the globe that are needed to generate the global reach that these customers need to reach their end-users. So I think it's a very differentiated opportunity.
+ In terms of the go-to-market, there are probably a number of ways we will go to market today. Strong focus on continuing to direct basis, go after the lighthouse accounts that we think are going to be the thought leaders in the industry, and are really going to draw through incremental demand from others who are looking to follow their lead. So that's happening on a direct basis.
+ And we do that both direct from an outside and an inside perspective, so that there is calling activity that we marry up with our field force for an inside-outside type approach, which is pretty common in this type of go-to-market design. And then we're beginning to ramp the channel and there are a lot of companies out there that have extensive reach into the enterprise.
+ And as we make these offers like network performance hub and a cloud exchange, more channel ready, we will push those into those partners. There's simply no way that we are going to achieve the market penetration that we want in terms of reaching enterprises with 230-odd quota-bearing heads across the globe. Ramping that channel and putting the offers into the hands of partners is going to be critical.
+ So that's the first part, and I what Steve of Keith take the LinkedIn.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [12]
+--------------------------------------------------------------------------------
+ I'd add, Jonathan, to the question to which Charles said. I think he hit it dead on.
+ But I'd add that one of the differentiators is the fact that we have an exchange platform deployed in almost 20 markets today. So when other people are talking about building something, we are extending and enhancing our current ethernet exchange fabric to address this multi-cloud, multi-network feature requirements that we're starting to see.
+ So we're going to drive to a higher level is interoperability. We're going to have portals. We're going to have self-provisioning. We're going to have API development.
+ There's a lot of development going on underneath the requirements that we're getting from these big announcements that we're making. The Verizon and the AT&amp;Ts and the Microsoft and AWS requirements are driving us to develop a much higher level of capability that just doesn't exist in the market.
+ I would tell you there is real differentiation, because there's real capability out there today that we're enhancing that doesn't exist with many of the other competitors. On LinkedIn, Keith, you want to handle that?
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [13]
+--------------------------------------------------------------------------------
+ Jonathan, on the LinkedIn, to give you perspective, in Q2 is going to add roughly 70 bps to the churn. So absent LinkedIn, our churn would be roughly 2.3%, at least that's our estimate for this quarter.
+ On an average basis for the year it would take the average from 2.5% per quarter, as I said, to roughly 2.3% per quarter. From a revenue perspective --
+--------------------------------------------------------------------------------
+ Jonathan Schildkraut,  Evercore Partners - Analyst   [14]
+--------------------------------------------------------------------------------
+ That's very helpful. Thank you.
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [15]
+--------------------------------------------------------------------------------
+ Okay, good.
+--------------------------------------------------------------------------------
+Operator   [16]
+--------------------------------------------------------------------------------
+ Colby Synesael, Cowen and Company
+--------------------------------------------------------------------------------
+ Colby Synesael,  Cowen and Company - Analyst   [17]
+--------------------------------------------------------------------------------
+ Great. I actually had two somewhat similar questions.
+ As it relates to the cloud exchange, is that technologically different than your Internet or ethernet exchanges or something else there than just a rebranding effort?
+ And then as part of that, are you considering actually connecting your facilities, not just within a region, which I think you already do, but actually from region to region, to potentially have more of a distributed network architecture that some of those enterprises might want?
+ And then as it relates to LinkedIn, Keith, it sounds like you going to say something else and I'd love to hear what that was. But also from a metrics perspective, I was wondering if you can give us a sense how many cabs or cross-connects we should think about so we could properly model this into our models? Thanks.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [18]
+--------------------------------------------------------------------------------
+ Yes, Colby, I'll start and let others jump in. This is Charles.
+ Absolutely, the cloud exchange represents an incremental technology investment on our part, and much more than an extension or a rebranding. As Steve indicated, essentially we are building off of the existing ethernet and Internet exchanges, but beginning to integrate those exchanges and have invested significantly in terms of API development to really allow for interoperability, automated provisioning, circuit provisioning on a real-time basis, et cetera. There's a lot of investment that goes in well beyond what we have in the ethernet exchange platform.
+ So we're excited about that and there are actually future extensions of the technology that we will look forward to sharing at our Analyst Day in June, that will give you a better picture of things. Very exciting and we're getting really great response from our customers already.
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [19]
+--------------------------------------------------------------------------------
+ Colby, on the second part of your question, I was going to mention dealing with the revenue aspect of LinkedIn. So as I said, this really is going to affect us in Q3, not really much in Q2. The impact of losing that piece of the business is roughly $4 million of the quarter, the Q3 quarter.
+ Then on a range as it relates to the cabinets, think of it in the order of magnitude 500 to 600 cabinets. But they were very dense cabinets. When you look at it on a pricing basis, it's a relatively rich MRR per cabinet number over that 500 to 600 cabinets.
+ Now, of those 500 to 600 cabinets, I will tell you that we've already earmarked replacement customers for all those cabinets. They're not billing yet, they've been identified and a lot of capacity. But we have not yet provisioned or sold them outright contractually.
+ But again, those a very high dense cabinets that we had deployed with LinkedIn.
+--------------------------------------------------------------------------------
+ Colby Synesael,  Cowen and Company - Analyst   [20]
+--------------------------------------------------------------------------------
+ And any cross-connect impact on it that we should think about?
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [21]
+--------------------------------------------------------------------------------
+ To be quite open, typically when you see a deployment of that magnitude, it's very typical to see much density from a cross-connect perspective. There's certainly going to be some cross-connects but it would be on the margin. It's not going to move in any direction.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [22]
+--------------------------------------------------------------------------------
+ Yes, that's right. It's powered in but not interconnection dense.
+--------------------------------------------------------------------------------
+ Colby Synesael,  Cowen and Company - Analyst   [23]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [24]
+--------------------------------------------------------------------------------
+ I did miss one piece of your question, Colby, relative to connectivity, inter-region connectivity. All I would say is that I think we actively are looking at how we continue to deliver connectivity between our assets in a way that's responsive to the customer need.
+ Obviously we look at that more so at a metro level first and then within the region. But what we want to be able to do is make sure that as companies deploy with us on a global basis, which by the way the script talked about 86 of our top 100 customers deployed across an average of 10 metros globally.
+ That means that what they want to do is deploy in place that fits best with their needs, but be able to gain access to the services, cloud service providers, networks, et cetera, that they need more globally. So that's going to require us to continue to assess our connectivity and our interconnection portfolio. But our initial focus is more on the metro and within the region.
+--------------------------------------------------------------------------------
+Operator   [25]
+--------------------------------------------------------------------------------
+ David Barden, Bank of America
+--------------------------------------------------------------------------------
+ David Barden,  BofA Merrill Lynch - Analyst   [26]
+--------------------------------------------------------------------------------
+ Keith, my first question is on the guidance, as it typically is.
+ If I look at the midpoint of the second-quarter revenue guidance and I add it to the first quarter, and then I subtract it from the full-year guidance, the implication is that the third and fourth quarters will grow revenue, assuming no currency changes, about $15 million per quarter.
+ Last year you had currency headwinds that were fairly strong, and you grew revenue each quarter, in the second half, $18 million on average. Are there any reasons to believe that your ability to generate revenue in the second half of this year is currency-neutral less than your ability to generate revenue in the second half of last year on a sequential basis?
+ And then the second question, if I could, I know we've touched on this a couple different times. Steve or Keith, generally speaking if I looked for the soft spot in the result, it was North American cross-connect slows down, MRR is flat to down a tiny amount. The billable cabinets went down.
+ It looks like basically North America didn't grow in the first quarter. Can you convince us that it is growing, and that it will grow, and it will support getting to your guidance for the year? Thanks.
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [27]
+--------------------------------------------------------------------------------
+ Sure. Let me take the first part, David, and then I think Charles will step in and talk a little bit about Americas, and we can pile on accordingly.
+ First, it's important to note when you strip away all the one-offs and the currency in Q1, we originally guided to roughly a 2.1% guidance in Q1, 2.1% growth rate coming out of Q1. When you adjust for currency you adjust for the one-off nature of -- we had some custom sales order work in the first quarter. We really grew by about 2.6%.
+ When I take that and I go to the midpoint of the Q2 guidance being $596 million, when I adjust for currency and I take out the impact of the Q1 custom sales orders, recognize we'll get some in Q2. We're going to grow about roughly about 2.7%.
+ So that leaves me then to where we going to go for the rest of the year, and more to your question. Clearly, there's a couple of things.
+ Number one, we increased our guidance and it reflected three things. Number one, our currency was working in our favor to the tune of $7 million, as you know. Secondly, we had some upside in our performance in Q1 and so we took that to the bank.
+ In addition, we added $3 million incremental, or $1 million per quarter for the latter three quarters of our guidance period here. We gave you $15 million of incremental guidance this quarter.
+ I want to note though, we said this was going to be greater than 2395. When I draw the relationship to how we're going to perform this year versus last year, we're deploying the same, if you will, the same strategy that we think we can do better than that.
+ With the one point that I want to make, when you think about the latter half of the year, the second half of year guidance, it is going to be impacted by the LinkedIn churn. It's going to happen once fell swoop.
+ We get the entire Q2 quarter of LinkedIn revenue, but we lose that benefit starting almost we're at the beginning of Q3, and so you feel that impact. Very much like Asia-Pacific did with the large content company that left in Q1 of last year.
+ They suffered through that one a little bit. My general point being is that we feel good about greater than 2395. I think it reflects an opportunity to continue to see some upward growth in the back half of the year, despite what I've just said.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [28]
+--------------------------------------------------------------------------------
+ This is Charles. I'll take the question relative to the North American business.
+ What I would say is that essentially if you look at the metrics in the three you mentioned specifically, our cash billing, cross connect ads and the yield per cabinet. I think you're seeing a confluence of events that impact the metrics in a way that really doesn't reflect, I think, the health and trajectory of the business overall.
+ We're very comfortable it is continuing to grow. Yields continue to be at very attractive levels. Cabinet billing, as you see if you look at the external metrics tracking sheet, it's, we had the same kind of phenomenon a year ago where we had a dip of about an almost identical dip of about 100 cabinets.
+ And as we said then, and I said it a number of times, it's really a matter of the timing of installs and timing of churn that really make that metric a bit more volatile. So it's not something that we believe is a cause for concern.
+ There is probably some effect there associated with some strategic wins that we've had for the end of last year and Q1 that are probably on slightly longer ramps that affects our book to bill a bit. But again, we don't see it as a fundamental degradation of the health and performance and trajectory of the business.
+ Relative to cross-connect adds, also very much a series of one-time events. Some known grooming occurred and then specifically, as we mentioned, us having to move out of a suite in the now Google-owned 111 8, which is a very interconnection-dense facility, and required a lot of migrations of customers to different suites, a process that is ongoing.
+ But if you take out those one-time events, we were actually above the fourth-quarter trend on cross-connects for the Americas, and again, feel very good about that. And you add to that our port volume, which has accelerated extremely well over the last couple of quarters, and we feel like the strength of the business there, particularly on interconnection side, continues to be very good.
+ Bookings were solid for the regional bookings and extremely strong for the exports. So again, we're seeing good overall production from the team. And we expect the Americas business to continue to be highly competitive and perform well.
+--------------------------------------------------------------------------------
+ David Barden,  BofA Merrill Lynch - Analyst   [29]
+--------------------------------------------------------------------------------
+ Great. Thanks, guys. Appreciate it.
+--------------------------------------------------------------------------------
+Operator   [30]
+--------------------------------------------------------------------------------
+ Gray Powell, Wells Fargo
+--------------------------------------------------------------------------------
+ Gray Powell,  Wells Fargo Securities, LLC - Analyst   [31]
+--------------------------------------------------------------------------------
+ Just a couple, if I may.
+ In the past you guys have put up some very good cloud customer case studies, like Foursquare and Box. I'm curious, do you see an increasing pace of demand from companies that grow up on AWS, hit a certain maturity level and then co-locate with Equinix to improve performance?
+ And then without getting too customer specific, how big can a cloud customer's deployment with you be relative to their total infrastructure needs?
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [32]
+--------------------------------------------------------------------------------
+ Why don't I take a first cut at that and you guys can jump in. Absolutely we see a trend towards customers that are attracted early on to variable cost, rapid time-to-market benefit that a public cloud implementation can offer.
+ Typically those that begin to scale rapidly find two things. One, that the economics to public cloud at certain utilization levels begin to become burdensome and substantially less attractive than going with, quote, bare metal and putting their own infrastructure in place.
+ And number two, that they struggle with the customization requirements, or their ability to customize and respond to the evolution of their application in a public cloud environment. As a result, almost inevitably, what they move to is a hybrid cloud environment.
+ They continue to leverage the public cloud, particular for bursty-type workloads, or efforts where they are unsure about the growth or performance of an application. And they often started out in public cloud and then move into a hybrid cloud environment.
+ So that's absolutely something that we see. We expect that that churn will continue.
+ And then relative to the size of a deployment, it is, I would say in fact, we commented that our average size deployment in Equinix is coming down. And that is because people generally are going to one, even within a co-location or an owned infrastructure environment, are moving to multi-tiered architectures.
+ And they would typically put their network nodes and their service nodes, which are where they need the network density application performance, et cetera, inside of Equinix facilities. And then may locate larger footprints, implementations elsewhere where they can get substantially more aggressive rates.
+ And then you'd combine that with moving beyond multi-tiered architectures into true hybrid cloud. And I would say that we're going to see more small to midsize implementations. But we're going to see a couple of factors that go with that.
+ One, they're going to be multi-metro, multi-region. And as we said, that is very frequently 8, 10, 12, 15 locations globally, number one. And number two, they tend to be more interconnection-dense and therefore perform better from a yield per cabinet basis.
+ And so that's really the essence of our strategy. That improves customer retention. It is really the strategy that we believe is going to allow us to continue to mitigate churn, and grow both the top line and bottom line.
+--------------------------------------------------------------------------------
+ Gray Powell,  Wells Fargo Securities, LLC - Analyst   [33]
+--------------------------------------------------------------------------------
+ Got it.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [34]
+--------------------------------------------------------------------------------
+ Yes, (multiple speakers), Charles. Gray, I would add one point. Obviously I can't share with you our top customer activity, but if you just look inside our top 10 customers, half of those customers today are almost pure cloud-type workload deployments.
+ And as Charles just alluded to, it's going to get bigger and bigger and bigger. If you're asking how big can these deployments get, without naming names of customers, some of this workload coming at us today from our biggest customers, is almost pure cloud-related workload. So it is really shifting.
+--------------------------------------------------------------------------------
+ Gray Powell,  Wells Fargo Securities, LLC - Analyst   [35]
+--------------------------------------------------------------------------------
+ Got it. Okay, that's very helpful, thanks. Just a modeling question, if I may.
+ If I look at you footnotes and back out REIT OpEx from 2013 and 2014 EBITDA guidance, margins last year would have been just over 47%. You had the footnote thing that guide for 2014 implies 48%. Should we think about that 48% figure as a starting point when looking out into 2015?
+--------------------------------------------------------------------------------
+ Keith Taylor,  Equinix Inc - CFO   [36]
+--------------------------------------------------------------------------------
+ Yes, Gray, as we said in the last call, actually we see ourselves by the back end of the year we should be getting up to that level of margin. But recognizing, obviously, we've rolled out two major programs by that point, understanding how the costs are going to fall in 2015 is probably a little bit premature.
+ But it certainly gives you a pretty good indication of what we can do entering 2015. And so I feel pretty good about that level of guidance.
+--------------------------------------------------------------------------------
+ Gray Powell,  Wells Fargo Securities, LLC - Analyst   [37]
+--------------------------------------------------------------------------------
+ Okay. Thank you very much.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ Frank Louthan, Raymond James
+--------------------------------------------------------------------------------
+ Frank Louthan,  Raymond James &amp; Associates - Analyst   [39]
+--------------------------------------------------------------------------------
+ Great. Thank you. On the bookings, can you quantify that and give us idea where they have been trending and where the upside was?
+ Then looking at some of the non-recurring revenue, a little bit higher than we were looking for. Does that imply any kind of better growth from installs later in the quarter that we should expect some revenue from? How should we think about that trend?
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [40]
+--------------------------------------------------------------------------------
+ A couple things. One, I think we saw, as I said earlier, our bookings performance was pretty consistent. So it wasn't like we had pockets of weakness in particular. Really, outrageous pockets of strength.
+ We did see a continuation of the trend in terms of strength on the cloud side. We saw solid performance across the regions, as Steve indicated. Again, without giving details we don't normally give, we would just simply say that we delivered against our internal targets, and felt very good about the bookings quarter overall.
+ And from an MRR perspective, yes, we absolutely are seeing an interesting trend, which is we have tried to focus very much on saying, look, how can we meet the install requirements and some of the other custom MRR requirements of our customers, as a way not only to capture that revenue, but as a way to be a more holistic trusted advisor to those customers.
+ And so we see it very much as a win, win. It is incremental revenue, perhaps, at slightly less attractive margin than our normal MRR. But nonetheless, very strong from a contribution perspective, and something that continues to position us, improve our account position with the customers overall.
+ So as we said, it seems to be going very well. And we see that continuing throughout the calendar year.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [41]
+--------------------------------------------------------------------------------
+ If I could just add, I'd say that the two regions that benefited that the most was the Americas, there's $3 million of net benefits for the quarter that we recognized. $1 million of that would have been in the Americas. And to roughly $2 million in Asia-Pacific related to, more specifically, to our Singapore environment.
+ So that's where the $3 million uplift had come. Again, as Charles alluded to, we can get more margins on the type of business. It's a very attractive business to us and that's reflected in our results.
+--------------------------------------------------------------------------------
+ Frank Louthan,  Raymond James &amp; Associates - Analyst   [42]
+--------------------------------------------------------------------------------
+ Okay, thank you.
+--------------------------------------------------------------------------------
+Operator   [43]
+--------------------------------------------------------------------------------
+ Ken Horan, Oppenheimer
+--------------------------------------------------------------------------------
+ Ken Horan,  Oppenheimer &amp; Co. - Analyst   [44]
+--------------------------------------------------------------------------------
+ Two questions from me. Steve, you alluded to the environment's really intense. Is the intensity increasing or do you think it's starting to decline a little bit?
+ What are you seeing from the open Internet exchanges that are coming from Europe at this point? And then I just want to follow up in the cloud.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [45]
+--------------------------------------------------------------------------------
+ Could you repeat the first part of that question?
+--------------------------------------------------------------------------------
+ Ken Horan,  Oppenheimer &amp; Co. - Analyst   [46]
+--------------------------------------------------------------------------------
+ Sorry. Is the competitive intensity increasing or decreasing at this point? Has it peaked? Of do you think the supply of it hitting the market, is that slowing down at this point?
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [47]
+--------------------------------------------------------------------------------
+ Well, it certainly varies by region. We're significantly advantaged, as you heard us talk about today on our global requirement that wants consistency.
+ But the competitive intensity is heavy. It's heavy in Europe, it's heavy in a metro. Certainly there's more capacity that's come onboard the last two, three, four years. And so, yes, we're competing for pretty much everything.
+ Where you see a requirement, required multiple metro, multiple regions type support, we start to find ourselves significantly advantaged. But you have to go market by market to give you the competitive intensity picture. It really varies market by market.
+--------------------------------------------------------------------------------
+ Ken Horan,  Oppenheimer &amp; Co. - Analyst   [48]
+--------------------------------------------------------------------------------
+ So is it worsening or is it fairly stable?
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [49]
+--------------------------------------------------------------------------------
+ Probably stable. I think the big uplift happened in the last couple of years and it was predominantly wholesale. I think we've talked about that extensively over the last several quarters, that around the larger footprints there's much more wholesale capacity out there.
+ But the type of retail network-neutral global capacity that we bring onto the market still puts us in a very good position for the type of workload that needs mission-critical global footprint connectivity-type issues. So I think we're still in a big advantage there.
+--------------------------------------------------------------------------------
+ Ken Horan,  Oppenheimer &amp; Co. - Analyst   [50]
+--------------------------------------------------------------------------------
+ Thanks. And sorry to harp on cloud so much, but it looks a great opportunity. Two questions there.
+ One, do you think there are going to be dozens of different cloud providers that are going to want to connect to this exchange? Everyone talks about the top two or three, but what are you seeing out there from others?
+ And secondly, IEEE and a bunch of others are trying to work on cloud standards, to standardize storage and processing definitions, to make things more inter-operable. Are you going to try to enable more standardization and more interoperability? Is it more focused on the network connectivity? Thanks.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [51]
+--------------------------------------------------------------------------------
+ Charles and I will take a crack at that. On the standards, certainly one of the requirements we're seeing out there is a requirement for common interfaces to drive the interoperability as you referred to it.
+ So there is a clear opportunity for us with our cloud exchange to simplify that interface for customers coming in with very complex requirements, and we will do that, to allude it to the earlier questions that came at us.
+ So yes, there will be standardization driven not much different than we saw 30 years ago. We went from mainframe to mini and then we went to client server and then we went to the desktop.
+ The next shift in the cloud is the paradigm shift. There's going to be standards and common interfaces and methodologies and all kinds of things that are typical with the technology paradigm shift. So yes, and we will help facilitate that.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [52]
+--------------------------------------------------------------------------------
+ I'd like to hit on two other portions of your questions. One, I don't think there will be dozens, I think there will be hundreds of cloud service providers. In fact, they're already, as we said we have 450-plus cloud service providers in our environment today.
+ The number of them that will -- and the evolution of our technology platform, which again was share further in June, is that we are going to integrate them in a way that is going to allow access to all those folks to be able to participate in the exchange. And if you look at even us, as a relatively modest sized enterprise, we already today, access over 40 cloud service providers and use them as part of our overall IT infrastructure via our own hybrid cloud.
+ We have talked to customers, larger enterprise customers, global multi-nationals who literally count the number of cloud service providers they're already using, in the hundreds. We think it's well beyond that, and will be multi-hundreds of providers that are involved, and even a much larger number of participants.
+ And then the other thing that you mentioned briefly is open IX. I talked about that at some length in the last call, answering some of the reasons why we feel very comfortable with our position there.
+ What I would say is, we continue to feel like we're highly differentiated. If you look at the results in terms of the port volumes that we're driving through the platform, I think the results really speak for themselves in terms of the competitiveness of that platform.
+--------------------------------------------------------------------------------
+ Ken Horan,  Oppenheimer &amp; Co. - Analyst   [53]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [54]
+--------------------------------------------------------------------------------
+ Jonathan Atkin, RBC Capital Markets
+--------------------------------------------------------------------------------
+ Jonathan Atkin,  RBC Capital Markets - Analyst   [55]
+--------------------------------------------------------------------------------
+ Thank you.
+ I did want to ask what's driving the growth in exchange ports. Is it customer preferences changing? Is it pricing-driven? Are you repackaging the products?
+ A lot of this predates your cloud exchange announcements from this morning, so I'm just interested in some of the moving parts there, around the mix shift. And then you had some failed leadership transitions in Germany and in China. I wondered if you'd give us an update on what's happening in those markets.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [56]
+--------------------------------------------------------------------------------
+ I'll let Steve take the second piece and I'll talk to the first relative to the open IX -- I'm sorry, to the RI exports and the momentum there. It's a combination of factors, really. I think it's, one, the continued growth of the number of participants on that, and the value proposition that delivers to those customers.
+ As we have said before, we continuously assess the pricing of our products in the market. And so there has been some adjustment to pricing that allows us to continue to be extremely competitive.
+ And I think it's overall those are probably the key factors that have really driven the port volumes. And I think there is some demand-side factors as well, which is some of the evolution of over the top and other things that are driving interconnection and connectivity requirements for folks are actually just increasing the appetite for IP traffic exchange.
+ There's a demand-side phenomenon. We're meeting that up with continued investment in the platform, as well as ensuring that we remain competitive from a price standpoint. And that's really serving us well.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [57]
+--------------------------------------------------------------------------------
+ And on the second question, particularly in Germany, we have a whole new team. We're very stabilized in that market now. We have new leadership, country management level sales operations, and in the finance part of the organization.
+ Jonathan, on that front, I think this leadership team here has high expectations that that business will get back on track, what we have experienced in past years. So we're very stabilized there. Were very impressed with the new leadership team and it's headed in the right direction, they had a very good quarter.
+ And then we did -- you asked about Shanghai. We did put a new leader in Shanghai. He is just getting started, but high hopes and very talented executive that grew up in that market and we're starting to see the M&amp;C activity pick up.
+ And we're actually starting to find some business in the local market there, which was unexpected. I think we have also high expectations that we'll continue to scale that business.
+--------------------------------------------------------------------------------
+ Jonathan Atkin,  RBC Capital Markets - Analyst   [58]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [59]
+--------------------------------------------------------------------------------
+ Simon Flannery, Morgan Stanley
+--------------------------------------------------------------------------------
+ Simon Flannery,  Morgan Stanley - Analyst   [60]
+--------------------------------------------------------------------------------
+ You talked about the about the BATS win again. Can you give us some sense of was that in Q1? Or what's the timing and any sizing around that?
+ And generally, with the headlines around the high-frequency trading, can you drill down on your financial services segment? How much is electronic trading, how much is high-frequency and related? Thanks.
+--------------------------------------------------------------------------------
+ Steve Smith,  Equinix Inc. - CEO and President   [61]
+--------------------------------------------------------------------------------
+ Yes, let me start and Charles maybe may fill in some holes.
+ On the BATS win, Simon, significant win for us, as we mentioned in the comments today. The momentum has picked up around that deployment that's happening in our Secaucus campus.
+ And were starting to see BATS deploy. We're starting to see a lot of activity from customers that are going to connect into that. So it's really picked up the momentum, particularly in the Secaucus campus. So big win for us with that asset.
+ On the high-frequency front, we're in a position, given that we are servicing so may different clients. As you guys know, we're up over 800 financial services clients, of which I think 150 or so are viewed as exchange trading venues.
+ We're significantly advantaged here because of the multiple asset classes and geographies and trading styles that we cover today with all the different client bases. So we're not suspect to any one part of that having regulation put in. So we feel pretty good about that.
+ I think we're going to remain trading style agnostics or we're helping these companies not just take advantage of trading faster, but trading smarter. That approach has definitely been successful, as we are buffering ourselves from any downturn in a specific market instrument, asset class or trading style.
+ So we're in a good position there, the diversity of the client base is an advantage. And quantitatively, it's roughly 1% of our global revenue could be viewed as high-frequency trading-type firm business.
+ Very difficult to have full visibility of all the trading styles. And we don't have any of them in our top 50 customers, so it's very little impact to us at the end of the day. But we're working with all of these companies to try to help them satisfy the requirements, the regulations, as they come down.
+--------------------------------------------------------------------------------
+ Simon Flannery,  Morgan Stanley - Analyst   [62]
+--------------------------------------------------------------------------------
+ That's helpful. Thanks.
+--------------------------------------------------------------------------------
+ Charles Meyers,  Equinix Inc - COO   [63]
+--------------------------------------------------------------------------------
+ A little more color on the timing of BATS. All I would say without giving you more information than folks would be comfortable with. They are consolidating their infrastructure and they've noted that publicly.
+ As a result, I think we're going to see a series of opportunities for momentum, where we can continue to consolidate parties into our ecosystem. We're seeing that now in the first wave, have had some great wins already. Funnel is building nicely. And again, it's one of the factors contributing to our confidence about the remainder of the year, and to the adjustment of our guidance.
+--------------------------------------------------------------------------------
+ Simon Flannery,  Morgan Stanley - Analyst   [64]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+ Katrina Rymill,  Equinix Inc - VP of IR   [65]
+--------------------------------------------------------------------------------
+ Thank you. That concludes our Q1 call. Thank you for joining us.
+--------------------------------------------------------------------------------
+Operator   [66]
+--------------------------------------------------------------------------------
+ That concludes today's conference. Thank you for participating. You may now disconnect.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q1 2014 Equinix Earnings Conference Call]]></eventTitle>
+  <city>REDWOOD CITY</city>
+  <companyName>Equinix Inc</companyName>
+  <companyTicker>EQIX</companyTicker>
+  <startDate>30-Apr-14 9:30pm GMT</startDate>
+  <companyId>122662</companyId>
+  <CUSIP>29444U700</CUSIP>
+  <SEDOL>BVLZX12</SEDOL>
+  <ISIN>US29444U7000</ISIN>
+</Event>

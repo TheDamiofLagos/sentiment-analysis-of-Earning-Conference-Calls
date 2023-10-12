@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="5612839" lastUpdate="Friday, February 20, 2015 at 8:40:25am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="5612839.F" expirationDate="Thursday, February 19, 2015 at 9:45:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of MRVL earnings conference call or presentation 19-Feb-15 9:45pm GMT]]></Headline>
+    <Body><![CDATA[Q4 2015 Marvell Technology Group Ltd Earnings Call
+
+HAMILTON Feb 20, 2015 (Thomson StreetEvents) -- Edited Transcript of Marvell Technology Group Ltd earnings conference call or presentation Thursday, February 19, 2015 at 9:45:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Sukhi Nagesh
+      Marvell Technology Group Ltd. - VP, Finance &amp; IR
+   *  Sehat Sutardja
+      Marvell Technology Group Ltd. - Chairman &amp; CEO
+   *  Mike Rashkin
+      Marvell Technology Group Ltd. - CFO
+   *  Weili Dai
+      Marvell Technology Group Ltd. - President
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Craig Ellis
+      B. Riley &amp; Co. - Analyst
+   *  Harlan Sur 
+      JPMorgan - Analyst
+   *  Doug Freedman
+      RBC Capital Markets - Analyst
+   *  Quinn Bolton
+      Needham &amp; Company - Analyst
+   *  Hans Moseman
+      Raymond James - Analyst
+   *  Sanjay Chaurasia
+      Nomura Securities - Analyst
+   *  Ian Ing
+      MKM Partners - Analyst
+   *  John Pitzer
+      Credit Suisse - Analyst
+   *  Daniel Amir
+      Ladenburg Thalmann - Analyst
+   *  Joe Moore
+      Morgan Stanley - Analyst
+   *  Kevin Cassidy
+      Stifel Nicolaus - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day, ladies and gentlemen, and welcome to the Q4 2015 Marvell Technology Group Ltd. earnings conference call. My name is Whitley and I'll be your operator for today.
+ (Operator instructions)
+ As a reminder, this call is being recorded for replay purposes. I will now turn the conference over to your host for today, Mr. Sukhi Nagesh, Vice President of Finance and Investor Relations. Please proceed.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [2]
+--------------------------------------------------------------------------------
+ Thank you, Whitley, and good afternoon, everyone. Welcome to Marvell Technology Group's fourth quarter and FY15 earnings call. With me on the call today are Sehat Sutardja, Marvell's Chairman and CEO, Weili Dai, Marvell's President, and Mike Rashkin, Marvell's CFO. We will all be available during the Q&amp;A portion of the call today.
+ If you have not obtained a copy of our current press release, it can be found at our Company website, under the Investor Relations section at Marvell.com. We have also posted a slide deck summarizing our fourth quarter and FY15 results in the IR section of our website for investors. Additionally, this call is been recorded and will be available for replay from our website.
+ Please be reminded that today's discussion will include forward-looking statements that involve risks and uncertainties that could cause our results to differ materially from management's current expectation. The risks and uncertainties include our expectations about our overall business, our R&amp;D investment, product and market strategies, statements about our design wins and market acceptance of our products, statements about general trends in the end markets we serve, including future growth opportunities, statements about market share, and statements regarding our financial outlook for the first quarter of FY16.
+ To fully understand the risks and uncertainties that may cause results to differ from our expectations and outlook, please refer to today's earnings release, our quarterly report on Form 10-Q, and subsequent SEC filings for a detailed description of our business and associated risks. Please be reminded that all of our statements are made as of today, and Marvell undertakes no obligation to revise or update publicly any forward-looking statement.
+ During our call today, we will make reference to certain non-GAAP financial measures which exclude the effect of stock-based compensation, amortization of acquired intangible assets, acquisition-related costs, restructuring costs, litigation settlements and certain one-time expenses and benefits that are driven primarily by discrete events that Management does not consider to be directly related to our core operating performance. Pursuant to Regulation G, we have provided reconciliations of the non-GAAP financial measures to the most directly comparable GAAP measures in our second quarter earnings press release, which has been furnished to the SEC on Form 8-K and is available on our website in the Investor Relations section.
+ With that, I would now like to turn the call over to Sehat.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [3]
+--------------------------------------------------------------------------------
+ Thanks, Sukhi, and good afternoon, everyone. Today we reported financial results for the fourth quarter and full-year FY15.
+ Our revenues in FY15 increased 9% over FY14 to over $3.7 billion, a record high for the Company. This 9% increase was better than many of our peers, who reported growth in the low- to mid-single digit range. This is the second year in a row that we were able to outgrow our peers.
+ For the year, our storage business increased 4%. Our mobile and wireless revenue grew 28%, and our networking business was up 1%. For the full year, we grow our non-GAAP earnings per share faster than revenue to $1.15, which represents a 13% increase from the prior year. In addition, in FY15, our operational execution improved across the board, resulting in strong free cash flow growth of over 80% compared to the prior year.
+ Our revenue for the fourth quarter was $857 million, a sequential decline of 8% and below our guidance range. But our non-GAAP gross margin of 52% was better than expected. And we effectively control our operating expenses, resulting in 15% operating margin and a GAAP EPS of $0.25, which was $0.01 higher than our guidance.
+ The lower revenue in Q4 was due to seasonality and a more aggressive pricing environment for our mobile solutions. LTE volumes, however, continue to ramp during the quarter and we expect this trend to continue throughout FY16. Storage revenues were in line with expectations, while networking was slightly lower.
+ Despite the weaker revenue, we continued to focus on tight operational management and delivered margins and earnings that were better than expectations. We also bought back $20 million worth of stock, or 1.4 million shares, during the quarter and paid approximately $31 million in dividends.
+ Now I would like to provide a brief update on each of our end markets. First, for our mobile and wireless business. LTE units grew more than 50% in the quarter, despite a sequential decline in auto, mobile and wireless revenues. The sequential decline was mainly due to seasonality in gaming, lower mobile sales due to 3G smartphone declines, and lower HD for our mobile solutions, as the competitive environment in this market has intensified.
+ However, we're still well positioned to capture a broad spectrum of models with our latest family of 64-bit LTE SoCs, raging from quad-core to octa-core solutions. We're very pleased to see one of our top tier customers launching global smartphone models based on our 64-bit LTE platform, from which we expect strong growth this year.
+ We're also making solid progress in our turn-key solution and remain on target for availability in late Q1. Additionally, our next-generation LTE modem supports carrier aggregation, thus enabling us to address global operators' deployment of LTE advanced. We expect this solution to go into production later this year.
+ Moving to wireless connectivity. We announced the industry's highest performance 4 x 4 11 AC Wave 2 products are getting enterprise access point in service provider markets. We already have leading market share in enterprise and carrier grade access points, and our Wave 2 technology will further extend our leadership in this space. We expect to have Wave 2 products launched by our customers later this year.
+ In addition, we also have new high-volume design wins for retail access point based on our existing Wave 1 solutions. We also continue to see adoption of our industry-leading MIMO 2 x 2 AC combo chips across multiple client applications. For example, in the combo ecosystem, we have new products from tier 1 OEMs that launched with Marvell 2 x 2 AC combo chips over the past few months, and we expect to see more models launch in the coming quarter.
+ Gaming is another area with strong MIMO adoption from Marvell, as both Sony and Microsoft continue to gain share in the console market. Other product areas where we're building a strong design pipeline for our 11 AC products includes tablets, set top boxes and audio-video streaming products. For Q1, we expect our mobile and wireless end market to decline slightly on a sequential basis, driven by weak seasonal patterns in connectivity, but partially offset by growth in mobile.
+ Moving next to IoT. We continue to experience strong demand for our highly integrated IoT wireless microcontroller solutions. Our customers are increasingly adopting our ZigBee, Wi-Fi and Bluetooth microcontrollers for their IoT products. For example, we recently announced that Xiaomi has launched a line of smart home products based on our wireless microcontrollers, with more customers gearing up to launch many exciting IoT products this year, including products that will leverage our support for Apple's HomeKit.
+ Moving next to multimedia products. We continue to see strong volume shipments into Google Chromecast. In addition, we are among the early partners for Googlecast audio, which allows users to stream audio from apps to Googlecast [mini] speakers. We also shipping our award-winning ARMADA 1500 family to SoCs to service providers worldwide. Last month, for example, one of the leading service providers in France launched their set top box based on the ARMADA 1500 pro system on a chip.
+ Turning next to networking, we continue to gain tractions with our recently introduced Questflo advanced algorithmic TCAM, which has an order of magnitude data performance to power ratio. Not surprisingly, we have received very positive feedback from our customers, with a number of design activities.
+ In Q4, our networking revenues declined compared to the prior quarter, mainly due to weaker than expected carrier spending. However, during the quarter, we saw growth in our Ethernet switching product lines and strength in our networking system on chip products for access points, consumer network attached storage, and gateways.
+ In addition, we continue to receive good design win tractions of our 10-G HD 10-gig copper ethernet file. In fact, we were recently awarded a major design win with a North American tier 1 OEM for our 10-gig copper files, which will enter high volume production next year. For Q1, we are expecting our networking business to grow sequentially, as stronger seasonality returns.
+ Next, moving on to storage. Q4 performance was consistent with our expectations in a seasonally weaker quarter and declined 4% sequentially. In HDD, our revenue grew slightly, despite the sequential unit decline in the HDD industry. We believe that we are well positioned to continue to gain share and outgrow the market.
+ Next, in SSD. We continue our leadership and remain the top SSD controller vendor in the market. In FY15, our revenues grew 30% over FY14, marking a new record for our SSD business. In terms of our products, we continue to gain traction with our satellite controllers, as well as our PCIE controllers.
+ In Q4 FY15, we also introduced the world's first DRAM-less NVMe SSD controllers for mass market mobile computing products that supports the latest TLC and 3D net, which have been very well received by our customers, as well as many PC OEMs. We expect significant revenue from this new class of controllers, starting second half of this year. As a result, we believe our SoC business remains on track for further growth. For Q1, we expect our storage end market to decline sequentially on normal seasonality for both HDDs and SSDs.
+ In summary, we had a strong FY15, with revenue growth that outpace many of our semiconductor peers, driven by steady growth in our core storage and networking businesses and strong increases in mobile and wireless and SSD sales. We grew our operating income by 16%, grew our EPS by 13%. For this coming year, we also plan on continuing our operational discipline and expect to maintain roughly flat operating expenses. Despite the short-term Q1 seasonal weakness, we continue to focus on execution in all end markets and we believe we are well- positioned to grow again in FY16.
+ We continue to gain traction in mobile at major customers on multi-port platforms. Our connectivity business is also poised to grow strongly in FY16, with increased adoption of our Wi-Fi solution in enterprise access points, so this provides equipment (Indiscernible) and LTE smartphones. In IoTs, we are gaining significant traction with our integrated wireless microcontroller solutions with multiple customers.
+ Our storage business remains healthy, driven by continued growth in both HDD and SSD. Finally, our networking business remain on track to grow, as we broaden our footprint across enterprise, data center and service provider customers.
+ With that, I would like now to turn the call over to Mike to go over our fourth quarter and full-year financial results and first quarter outlook.
+--------------------------------------------------------------------------------
+ Mike Rashkin,  Marvell Technology Group Ltd. - CFO   [4]
+--------------------------------------------------------------------------------
+ Thank you, Sehat, and good afternoon, everyone. Moving to our financials, as Sehat mentioned, we turned in a strong performance in FY15, with steady growth from our core business and strong ramps in our newer products, which resulted in strong top line growth that out paced many of our peers.
+ For FY15, we reported total revenue of $3.7 billion, an increase of 9% from FY14. Our non-GAAP gross margin was approximately 50% and our operating expenses were $1.3 billion, roughly flat from the prior-year, as we kept a tight lid on spending throughout the year. This resulted in an operating margin of approximately 16%, an improvement of 100 basis points from FY14. Interest and other income totaled $23 million, and we had a tax credit for the year of $3.2 million, resulting in a non-GAAP EPS of $1.15, an increase of 13% from FY14.
+ Our fourth quarter financial results were overall on target with our guidance. While revenues were below guidance, our gross margin and EPS were above the midpoint of guidance. We reported revenues of $857 million for the fourth quarter, which was a decline of 8% sequentially, driven mainly by seasonality and lower mobile sales.
+ As Sehat said earlier, LTE volumes continue to increase and the decline of our 3G business will have less of an effect on the overall mobile business starting in Q1. Although the pricing environment is getting more competitive, we are confident that we can win our fair share of 4G smartphone design wins and continue to see meaningful momentum throughout this year.
+ Moving onto details on our various end markets. For the full FY15, our mobile and wireless business increased 28% and represented 29% of overall sales, driven by the first year of LTE smartphone ramps in China and connectivity shipments into gaming consoles, access points, printers and the Chromecast.
+ Our mobile business grew over 35% in FY15 compared to FY14. In Q4, our mobile wireless business declined 19% sequentially and represented 24% of total revenues.
+ In networking, for FY15, our revenue grew 1% and represented 18% of total sales, which was consistent with the overall enterprise spending environment last year. In Q4, our networking revenues declined 3% sequentially and represented 19% of Q4 sales, consistent with a soft seasonal quarter.
+ In storage, our FY15 revenue grew 4% and represented approximately 47% of total sales. We saw growth in our HDD business and another year of strong double-digit growth in our SSD business. In Q4, storage sales declined 4% sequentially, roughly in line with our expectations and represented 51% of total Q4 sales.
+ Moving next to margins and expenses, our non-GAAP gross margin for the fourth quarter was approximately 52%, which was above our guidance range and improved 80% -- 80 basis points sequentially. Contributing to this increase in gross margin was the sell-through of previously reserved inventory.
+ Non-GAAP operating expenses came in at $315 million, better than the midpoint of our guidance range, due to continuing operating discipline across all our businesses. This resulted in a non-GAAP operating margin of 15% for the quarter, 50 basis points better than the midpoint of our guidance range. Net interest and other income was about $4 million, and we recognized a tax expense of $2.5 million in the quarter.
+ This resulted in non-GAAP net income for the fourth quarter of $131 million, or $0.25 per diluted share. This was $0.01 ahead of our guidance. The shares used to compute diluted non-GAAP EPS during the fourth quarter were 533 million. Cash flow from operations for the fourth quarter was $155 million, and free cash flow for the fourth quarter was $135 million, or approximately 16% of revenue.
+ Now summarizing Q4 results on a GAAP basis, we generated GAAP net income of $82 million, or $0.16 per diluted share. The difference between our GAAP and non-GAAP results during the fourth quarter was mainly due to stock-based compensation expense of $38 million, $3 million of restructuring expense, $3 million of legal indemnity guarantee costs, and $4 million expense related to amortization and write-off of intangible assets.
+ Now turning to the balance sheet. Cash, cash equivalents and short-term investments as of the fourth quarter was approximately $2.5 billion, an increase of approximately $130 million from the previous quarter. We also used $20 million to buy back approximately 1.4 million shares of stock during the quarter.
+ We currently have about $443 million remaining in our authorized repurchase program and will continue to be opportunistic in our buybacks. We also paid dividends of $31 million in the quarter, or equivalent to $0.06 per share. Net inventory at the end of the fourth quarter was approximately $308 million, a decrease of about $48 million from the previous quarter, as we continue to manage our inventory.
+ Moving next our outlook for the first quarter of FY16, we currently project revenues to be in the range of $810 million to $830 million. At the midpoint, this would equate to approximately a 4% sequential decline. We expect our storage business to decline sequentially, our mobile and wireless business to decrease slightly, and our networking business to experience modest growth.
+ We currently project non-GAAP gross margin of 50.5%, plus or minus100 basis points, and currently anticipate non-GAAP operating expenses to be approximately $320 million, plus or minus $10 million. We anticipate R&amp;D expenses of approximately $265 million and SG&amp;A expenses of approximately $55 million. At the midpoint of our projected guidance, this should translate to a non-GAAP operating margin of approximately 11.5%, plus or minus 100 basis points.
+ The combination of interest and other income should net out to approximately $2 million, and we expect tax expense to be approximately $2 million. We currently expect the diluted share count be approximately 535 million shares. In total, we currently project non-GAAP EPS to be $0.18 per diluted share, plus or minus $0.01.
+ On the balance sheet, we currently expect to generate slightly over $100 million in free cash flow during the quarter. We anticipate our cash balance to be about $2.6 billion, excluding any M&amp;A activity, share buyback or other one-time items. We currently expect our GAAP EPS to be lower than our non-GAAP EPS by about $0.09 per share.
+ With that, I'd like to turn the call over to the operator to begin the Q&amp;A portion of the call. Operator?
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ (Operator instructions)
+ Craig Ellis, B. Riley.
+--------------------------------------------------------------------------------
+ Craig Ellis,  B. Riley &amp; Co. - Analyst   [2]
+--------------------------------------------------------------------------------
+ Thank you for taking the question. Sehat, I just wanted to follow up on the comments that you made around baseband pricing. Can you discuss in more detail where you're seeing LTE baseband pricing been more aggressive? Is it in octa-core parts, quad-core parts? And what's been the trend with pricing: steadily down, or have there been discontinuities?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [3]
+--------------------------------------------------------------------------------
+ Weili, would you like to take that?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [4]
+--------------------------------------------------------------------------------
+ Well, it's a highly competitive market. And LTE is definitely taking off in a big way. The quad-core pricing is actually moving down quite significantly. As you can see, the past quarter, our volume went up, but overall revenue side that we see is pretty humble, from that standpoint of view.
+ Of course, our octa-core is gaining also momentum for design wins. So we are very committed. And we're very bullish about our continuation with supporting customers and gaining market share in that space.
+--------------------------------------------------------------------------------
+ Craig Ellis,  B. Riley &amp; Co. - Analyst   [5]
+--------------------------------------------------------------------------------
+ And as a follow-up to that question, Weili, can you just identify with the mix is between LTE and 3G baseband from a revenue standpoint? And as we look out through the year, how should we expect that to evolve as we go through calendar 2015?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [6]
+--------------------------------------------------------------------------------
+ From Marvell's standpoint of view, of course, we are driving LTE to the masses.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [7]
+--------------------------------------------------------------------------------
+ Craig, this is Sukhi. We did see a big continuation of the 3G down ramp we talked about in last quarter, as well. And it shouldn't come as a surprise, given our exported to one quarter of our big Asian OEMs there. We're probably toward the tail end of that, I would guess. By the end of this quarter, we should be predominantly done with the 3G business. And moving forward, it will be mostly LTE.
+--------------------------------------------------------------------------------
+ Craig Ellis,  B. Riley &amp; Co. - Analyst   [8]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [9]
+--------------------------------------------------------------------------------
+ Harlan Sur, JPMorgan.
+--------------------------------------------------------------------------------
+ Harlan Sur ,  JPMorgan - Analyst   [10]
+--------------------------------------------------------------------------------
+ Good afternoon. Thanks for taking my question.
+ So on the mobile business, this is, I think, probably the second quarter in a row that mobile has disappointed. And I think that in my estimates, I think your 3G business got cut in half again this quarter. And on the 4G front, while you're on the cusp of driving solid growth and still have a strong number two position relative to Qualcomm, obviously pricing continues to be aggressive and the R&amp;D investments to drive an aggressive road map continue to be high.
+ There's been some speculation about the potential for strategic alternatives for the mobile business. Sehat, at what point do you start to look seriously at strategic alternatives for mobile? My estimate is that if you strip out the mobile business, you end up with a business that is driving low, mid-single digits top line growth, but driving 20%-plus operating and free cash flow margins. So your thoughts on the level of commitment on the mobile business and your willingness to explore potential strategic alternatives.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [11]
+--------------------------------------------------------------------------------
+ Okay. So that's a lot of questions. Let me answer them one by one.
+ In terms of the reason why you are seeing our competitors reacting to our entry into the LTE business aggressively is actually it gives us a good feeling, a good sign that our technology is indeed world class. In terms of volume, we are a small player compared to the 800-pound gorilla. But the 800-pound gorilla realized that our solution is a real trap to their existence. So they are reacting to scare us from getting into this business.
+ So we're not going to back off of this business. We're continuing to build even more advanced solutions. Of course, we have to make sure that we manage our expenses accordingly.
+ Now with respect to the second questions on strategic opportunities, yes, there's a lot of people asking this question. Our answer 's very, very, very clear. We as management of the company will consider anything that make sense to the shareholder. Anything that will bring the share value of the shareholder up is our responsibility to entertain and look at all the different possibilities. But for sure, we're not backing off from this business.
+ And if you look at some of the technology that we are building -- like tomorrow, I'm going to give a presentation, the plenary talk at the ISSCC. If you have the time to attend the ISS plenary at 10:00, you will hear some of the new directions that I'm driving to drive the technology development to completely differentiate us from the rest of the world.
+ So -- oh, sorry, not tomorrow. I made a mistake. On Monday: Monday at 10:00 in San Francisco. So you will see that we're actually going to become a real trap to many of the players in this market.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [12]
+--------------------------------------------------------------------------------
+ Harlan, does that answer your question? Do you have a follow-up?
+--------------------------------------------------------------------------------
+ Harlan Sur ,  JPMorgan - Analyst   [13]
+--------------------------------------------------------------------------------
+ Yes. My follow-up to that is I don't disagree with all of the points that you made as it relates to you being a strong number two. I do think that you have a very strong and competitive 4G chip set road map. But I think the other concern, in addition to just driving shipment growth and revenue growth, is the confidence level in driving sustainable and potentially profitable growth within the mobile business going forward. And so assuming that you can grow your 4G mobile business in terms of units and revenues, what are you doing to improve the margin profile in this very aggressive pricing environment?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [14]
+--------------------------------------------------------------------------------
+ Yes. We talked about this, actually, even last quarter. One of the missing items from our road map is not we don't have strong 4G road map. To the contrary, we have very strong 4G road map. Our LTE advanced is already in the customer development stages. We have very advanced carrier aggregation technology, including aggregation from TDD with FDD-LTE. So we're actually at the leading edge of the carrier aggregations road map.
+ What we think, like we talk about it last quarter, was the turnkey solution. The turnkey solution actually will give us more, much higher margin. Because we're dealing with many, many customers that will be -- with a turnkey solution, we can deal with many customers, basically just push button and build more handsets.
+ And those customer base will give us higher margin. So this is the area that we say we're committed to deliver. By the end of Q1, we will have the completed Q1 to be starting to deliver to customers for hopefully in production the next quarter or so.
+--------------------------------------------------------------------------------
+ Harlan Sur ,  JPMorgan - Analyst   [15]
+--------------------------------------------------------------------------------
+ Thanks, Sehat.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [16]
+--------------------------------------------------------------------------------
+ Thank you, Harlan.
+--------------------------------------------------------------------------------
+Operator   [17]
+--------------------------------------------------------------------------------
+ Doug Freedman, RBC.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [18]
+--------------------------------------------------------------------------------
+ Hello. Thanks for taking my question.
+ When we look at the mobile and wireless group, you do have the Wi-Fi business in there. But yet, it's very hard for us to decipher between the Wi-Fi business and your baseband business. Is there any color that you can offer to help us understand what the different trends that you're seeing in that business are?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [19]
+--------------------------------------------------------------------------------
+ I'll cover a little bit here and then maybe somebody else can chip in here. So on the handset, it's clear that 100% attachment rate of our Wi-Fi. But our Wi-Fi business is not just for the handsets. In fact, we started the business in other areas.
+ So we're strong in Wi-Fi sin the enterprise access points, and with basic carrier data access points. Those are very, very high end 4 x 4x Wi-Fi chips targeted for multi bands and multi users access points, with new forming circuits to address the Y-socket coverage inside an office buildings, which tends to have complicated multi-path impairment.
+ So those one area of the business where we're strong at. The other areas we're strong at are the gaming, those devices goes into the Playstations and Microsoft gaming devices. And also, is you look at the Chromecast download devices, these are the imaging form factors they will allow any TVs, including TVs have been shipped for the last 10 years, to be turning into a smart TV. And those solutions comes with also100% attachment of our Wi-Fi.
+ And the other part is the Chromebook circuit. The Chromebook circuit, we're strong in the Chromebooks, because are the de facto standards for the 2 x 2 Wi-Fis in the Chromebook ecosystem. So as the Chromebook circuit market takes off, and we expect that with more and more acceptance over the years, we will have more and more volumes to gain from that market. Is there anything else you want to add?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [20]
+--------------------------------------------------------------------------------
+ Yes. Of course, the IoT market is a leader moving forward, to drive the overall IoT, which is significant growth. So that Wi-Fi technology is very critical.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [21]
+--------------------------------------------------------------------------------
+ I guess if I was to ask the question maybe a little bit more clearly. What I was looking for is the percentage of mobile and wireless that is related to non-cellular data.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [22]
+--------------------------------------------------------------------------------
+ We don't divide that.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [23]
+--------------------------------------------------------------------------------
+ Doug, as you know, we haven't provided that breakdown. Mainly because we do have a lot of businesses that are tied to mobile. We have a lot of businesses that we can't really distinguish. So we shouldn't be distinguishing that. So we'll shy away from that.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [24]
+--------------------------------------------------------------------------------
+ All right. If I could try another one, then. If we look at your business where you've guided revenues now, we're going to be down over 14% year-on-year, but yet you're saying that you feel confident you can get back to revenue, or have revenue growth in 2016.
+ That calls for some very above seasonal sequentials for the balance of the year, most notably, especially in the wireless business. Should you want the wireless business, mobile and wireless, to grow, I've got over 20% growth per quarter. Is that something that you think is a reasonable expectation for the market to have at this point?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [25]
+--------------------------------------------------------------------------------
+ We've seen that before. So that's number one. Number two is this time around, we also have two chips in the given time coming into the LTE space. Basically, almost at the same time, back-to-back. And another two, we have LTE FM that are going in. So over the second half of the year, we believe that our LTE business is going to be improved quite significantly.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [26]
+--------------------------------------------------------------------------------
+ All right. Great. Thank you. I'll leave it there.
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ Quinn Bolton, Needham.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [28]
+--------------------------------------------------------------------------------
+ Just wanted to follow up on the pricing question from LTE. Obviously, it seems to be a hot button here. But you talked about pricing in the quad-core solutions. Wondering if you can give us some sense, is that both across 32-bit and 64-bit? Or are you seeing better solutions even at quad-core for your newer 64-bit solutions? Just really trying to figure out if there's any place to hide in the LTE market where you might have pockets of better pricing? And then I've got a follow-up question.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [29]
+--------------------------------------------------------------------------------
+ Yes. We're moving all our solutions away from 32-bit. So in LTEs, everything single chips that we're building right now are the ones that we're introducing -- we introduced it last quarter, two quarters, are all 64-bit. Our first generation LTEs were 32-bits, but we're moving away from 32-bit. In terms of -- what was the second, the other question?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [30]
+--------------------------------------------------------------------------------
+ So his question was more pricing within the LTE difference.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [31]
+--------------------------------------------------------------------------------
+ We're moving away from 32-bits, so we can't even talk about price differentiation. So we want to drive -- as the new player into the market, we want to drive the change. So we don't want to play in the game where these extinct players playing the 32-bit, like the strong 32 bits.
+ Let them. If they want to stay there, that's fine. But we want the market to move sooner to the next generation solution.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [32]
+--------------------------------------------------------------------------------
+ If I hear you that it sound like the pricing even for 64-bit quad-core has become very aggressive.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [33]
+--------------------------------------------------------------------------------
+ Right, yes, yes.
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [34]
+--------------------------------------------------------------------------------
+ Yes, that's true.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [35]
+--------------------------------------------------------------------------------
+ Okay. Thanks for that clarification. And then the second question I had, just on the storage business. If I heard you right, I think you said that storage was down about 4% sequentially, but that HDDs were actually up. And I just wanted to make sure that that was the case, because if that's the case, it sounds like the SSD business may have seen a fairly significant decline, considering it's a much smaller business than HDDs. If that's all correct, could you say what's going on in the SSD that might have resulted in that sequential decline in the January quarter?
+ Thank you.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [36]
+--------------------------------------------------------------------------------
+ So Quinn, you're right. Our business is seasonally weak in Q4. Nothing more than that in our HDD business. Obviously, we are continuing to see some share gains. I think we've talked about this in the past few quarters. That continues. And we did seen some seasonal declines in our SSD business for the quarter.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [37]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ Hans Moseman, Raymond James.
+--------------------------------------------------------------------------------
+ Hans Moseman,  Raymond James - Analyst   [39]
+--------------------------------------------------------------------------------
+ Thank you. Question on the TCAM business, or Questflo. How's the design activity there, and what kind of market share can you get over, say, the next 18 months?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [40]
+--------------------------------------------------------------------------------
+ The Questflo, the feedback we're getting from any customers, they're looking into these devices, they all were blown away with this capability. So the first reaction, obviously, is like, is this real? And then they start looking at the data and then they realize that it's real. So that's the reason why we say that, not surprisingly, we're getting, every single month, we're getting better, better traction.
+ You're asking for the next 18 months. Actually this is the right question, because in the enterprise application, these are the design cycle its own cycle. The good thing is we are entering this market with a completely new differentiating technology. So we believe that in the next year to 18 months -- sometimes the next 12 months or 18 months, we will start seeing that these products ramping into production with design wins, activities, design cycles in the next 12 months for new products to be released, as you correctly question, 18 months from now.
+ By that time, we should be going productions.
+--------------------------------------------------------------------------------
+ Hans Moseman,  Raymond James - Analyst   [41]
+--------------------------------------------------------------------------------
+ Yes, but my question is market share. Is there some kind of an expectation or target to get the proper scale?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [42]
+--------------------------------------------------------------------------------
+ Oh. Yes. We believe it's almost like a 0-1 game. So zero-sum game. So either we win all or nothing.
+ So if the customer targets it for the big data carrier grade system, in the carrier grade big systems, the requirement is you need to have bigger and bigger tables. So there are two choices. They can buy two or three chips from our competitors, with each chip anticipating 100-watts of bulbs.
+ Or -- and this has to be air-conditioned in the remote office in the central offices -- or they can use our technology and have much, much bigger capacity in a single device at much lower power. So we believe that we can get basically a major, if not a majority, of the new designs that's coming in the next 18 months or so.
+--------------------------------------------------------------------------------
+ Hans Moseman,  Raymond James - Analyst   [43]
+--------------------------------------------------------------------------------
+ Okay. Very helpful. Thanks.
+--------------------------------------------------------------------------------
+Operator   [44]
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia, Nomura.
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia,  Nomura Securities - Analyst   [45]
+--------------------------------------------------------------------------------
+ Hello, Sehat.
+ One question on LTE. Could you give us any color on the 50% quarter-on-quarter increase in LTE shipment volumes? Was it driven by your largest customer? Or was it equally driven by China OEMs? Because it seems that you are saying that the China moment hasn't started yet, because your turnkey solution will be available only on the end of Q1.
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [46]
+--------------------------------------------------------------------------------
+ Yes, this is across the board for all the customers.
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia,  Nomura Securities - Analyst   [47]
+--------------------------------------------------------------------------------
+ Could you give us any color whether the biggest customer is driving more of this ramp versus other OEMs?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [48]
+--------------------------------------------------------------------------------
+ No. Even though we don't have turnkey, we still have customers even in China: they are not turnkey customers, but they are working, they have people, they have their own engineers working on the handsets.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [49]
+--------------------------------------------------------------------------------
+ It was across the board, Sanjay. We wouldn't point to any given area, any given geography or customer.
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia,  Nomura Securities - Analyst   [50]
+--------------------------------------------------------------------------------
+ Okay. And then the follow-ups you had, if you look at LTE competition coming down, MediaTek said on their call they're increasing their OpEx primarily in their LTE R&amp;D area by 20% in this year. And as you go, try to go outside of China, try to add these complex new LTE advanced features in your road map, how confident are you that you could deliver all that in your current OpEx run rate?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [51]
+--------------------------------------------------------------------------------
+ We already sampled our LTE FM. So right now, we're in the certification process. Most of this, if you look at the modem technology, we have more than enough investment. The investment that people are talking about and make investors worry about is not actually in the modem side, it's we need to build the turnkey, we need to get the software there. It's nothing to do with the modem, making the applications capable to be plug and play versus just building the modem.
+ If it's only the modem, we are well ahead. We're way ahead of MediaTek. We're the only one that has, other than Qualcomm, having the hardware modem today in the market. Everybody else is still using their software modem.
+ So since you are talking about LTE FM, in order for MediaTek to deliver LTE FMs -- or LTE, because I don't think they're talking about LTE FM -- but if they're talking -- if -- assuming they're going to talk about increasing investment, I will not be surprised they have to increase the investment. Because they have to build completely new team, new directions from the software defined modem to hardware defined model. So clearly, they have to increase their expenses if they want to stay in this business.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [52]
+--------------------------------------------------------------------------------
+ Did you have a follow-up, Sanjay?
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia,  Nomura Securities - Analyst   [53]
+--------------------------------------------------------------------------------
+ I will take that opportunity, though that was a follow-up. One more question, if I can squeeze in, Sukhi.
+ Sehat again, this is a big year for LTE in China, volume potentially tripling this year. And arguably, this could be the biggest growth year in China in the next coming years. What are the metrics you have set for yourself in terms of shipment? Because you don't control the ASP environment, so we'll not talk about revenue growth. But in terms of shipment growth, in terms of your share in overall shipment that will give you confidence and investors confidence that this is indeed a sustainable business?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [54]
+--------------------------------------------------------------------------------
+ Okay.
+ I will say getting the turnkey to be out for production sometimes near the end of Q2 should give investor a huge confidence that our volumes begin to get our fair share of the LTE. So I thought everybody in the world will be to LTE. But even people in the developing worlds are talking about LTE. So it went up not just about China growth opportunity here. The global opportunity of LTE is also just as big.
+--------------------------------------------------------------------------------
+ Sanjay Chaurasia,  Nomura Securities - Analyst   [55]
+--------------------------------------------------------------------------------
+ Thank you so much.
+--------------------------------------------------------------------------------
+Operator   [56]
+--------------------------------------------------------------------------------
+ Ian Ing, MKM Partners.
+--------------------------------------------------------------------------------
+ Ian Ing,  MKM Partners - Analyst   [57]
+--------------------------------------------------------------------------------
+ Yes, thank you. So more on wireless in China. What's your exposure to the FD version of LTE? We're waiting for the commercial licenses for China Unicom and China Telecom. Should we think of it as a similar exposure as TD China Mobile? Thanks.
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [58]
+--------------------------------------------------------------------------------
+ Today, with LTE solutions, we're already addressing China Mobile and as well, China Unicom. And so, we're working with all of the top tier OEMs in China, as well as global OEMs. So we're very well-positioned.
+--------------------------------------------------------------------------------
+ Ian Ing,  MKM Partners - Analyst   [59]
+--------------------------------------------------------------------------------
+ Okay. So FTE should be -- is FTE included in your estimates for this year then?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [60]
+--------------------------------------------------------------------------------
+ Our LTE support finals, yes. It's a global solution.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [61]
+--------------------------------------------------------------------------------
+ I think I want to clarify. So if we look at all the LTE, even to China, every carriers, whether it's China Telecom or China Unicom, they all want to have the uefi mode. Because they want to be able to -- a lot of handsets are built in multi-state dual SIM capability. So customers want to have the flexibility to have maybe one SIM from China Mobile, one SIM from China Unicom.
+ And then nobody wants to buy two different LTE handsets for that purpose. So as a result, what you're hearing is almost everything has to be these five nodes. So we're delivering that. To us, it's no difference whether it's China Unicom or it's going to go to South America or to go to Europe. It's the same. FTD- LTDD, all the same device.
+--------------------------------------------------------------------------------
+ Ian Ing,  MKM Partners - Analyst   [62]
+--------------------------------------------------------------------------------
+ Great. And my follow-up is in storage. Looks like there's the potential for MovCom to approve the Western Digital/Hitachi combination. Should that happen, is there any share gain opportunities? It seems Hitachi is more of a LSI/Ivago customer.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [63]
+--------------------------------------------------------------------------------
+ We're already working with Hitachi. So we will continue to work to gain the share at Hitachi. I don't think it has anything to do with MovCom. It's independent of that.
+--------------------------------------------------------------------------------
+ Ian Ing,  MKM Partners - Analyst   [64]
+--------------------------------------------------------------------------------
+ So that's been ongoing then. Okay. Great. Thank you.
+--------------------------------------------------------------------------------
+Operator   [65]
+--------------------------------------------------------------------------------
+ John Pitzer, Credit Suisse.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [66]
+--------------------------------------------------------------------------------
+ Good afternoon. Thank you for letting me ask a question. Sehat, my first question is that some of your peers will actually break out operating profit by division. Kind of curious, is that something you have contemplated doing to try to give us a better sense of the profitability within mobile and wireless? And if it's not, can you help me better understand what longer term returns or margin targets you're looking for in mobile and wireless for that to be a business that's worth being in longer term?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [67]
+--------------------------------------------------------------------------------
+ Yes. We're not providing that kind of data. But we already say, even the last quarter, when we were asked the same question, we say, you can make assumption, basically, our mobile business is not profitable yet. We will be profitable when the volume goes up.
+ And this is the reason why we are not. We are not playing chicken with this business. And this business is a scale, it's a scaled business. And we have the technology to become big in the system. And if it means not make money in the beginning, so be it. There is no, -- but they have to be willing not to make money so that they can grow their business. So we're going to do the same thing.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [68]
+--------------------------------------------------------------------------------
+ That's helpful. Let me do my follow-up on the storage market. You are guiding for the current quarter for storage to be down along seasonal lines. And I'm just curious your confidence level around that, given that a lot of the PC data points seem to be weaker than seasonal.
+ What confidence do you have around just a seasonal decline and not worse? And if I could just tack on a quick one within storage. Last week, Seagate and Micron announced an agreement around SaaS SSD drive. Does that change at all the controller landscape for SSDs? Thank you.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [69]
+--------------------------------------------------------------------------------
+ John, we looked at the Seagate and Micron announcement. It doesn't really change our view. We're working with both Seagate and Micron. And so they're both customers of ours. So yes, it doesn't really impact our Business. In fact, I think we'll continue to work with both of them. And what was the other question?
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [70]
+--------------------------------------------------------------------------------
+ Your confidence around seasonality in the hard drive business overall?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [71]
+--------------------------------------------------------------------------------
+ That's right. So I think we watch the data points, similar to what you watch, very carefully and what's happening in the PC market. I think we're closer to our hard drive customers, as you can imagine. At this point at least, we feel relatively comfortable at what they've talked about for Q1.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [72]
+--------------------------------------------------------------------------------
+ Perfect. Thanks.
+--------------------------------------------------------------------------------
+Operator   [73]
+--------------------------------------------------------------------------------
+ Daniel Amir, Ladenburg.
+--------------------------------------------------------------------------------
+ Daniel Amir,  Ladenburg Thalmann - Analyst   [74]
+--------------------------------------------------------------------------------
+ Thanks a lot. So your networking business here on a year-over-year basis, if I recall, is up 1%. Can you give us some data points here how you view the networking business this year? You would expect this business to actually grow a little bit faster than the 1%. And what are the factors here going into also this quarter to lead us to that growing confidence? Thanks.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [75]
+--------------------------------------------------------------------------------
+ So if you look at the networking side, which is mentioned earlier, there's this 10 gig base T. There is an area that potentially could be a very good growth opportunity for us. And the reason we can say this is because, in the shoot out, meaning that our customers will put our devices with our competitors. Our devices actually have the lowest power, as well as the longest range. So we do feel comfortable that with this new, the latest 10-gig copper 5, we will be able to get good growth opportunities.
+ The growth opportunity for the rest of the switch fabrics, those are the ones that we mentioned earlier we've been working on it. Our new devices will not be available for another few quarters. So this is one that's a little bit the one that is giving us a little bit pain. Because this is an area that in the past we did not invest in. But as we got these more advanced solutions out, we believe that we have to be a step ahead from the existing suppliers, because of their choice of architecture, which is the old architecture.
+ So the bigger growth opportunity will happen next year, instead of this year. But for the rest of the market. But within that business we also have is controllers for mass storage. Those devices will continue to exist in volume.
+--------------------------------------------------------------------------------
+ Daniel Amir,  Ladenburg Thalmann - Analyst   [76]
+--------------------------------------------------------------------------------
+ Okay. So essentially, you expect somewhat of a similar FY16 to FY15, in terms of the networking business, in terms of growth rate?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [77]
+--------------------------------------------------------------------------------
+ Our expectation is right now, at least for our networking business, is growth that's better than last year for this year. We are planning for better growth this year.
+--------------------------------------------------------------------------------
+ Daniel Amir,  Ladenburg Thalmann - Analyst   [78]
+--------------------------------------------------------------------------------
+ Okay. And just the one follow-up, on the wireless connectivity business. You gave some data points on how you see the mobile business growing this year. On the wireless connectivity, is it what's really going to drive the growth this year, assuming that it's going to grow, is it the access point to the business, essentially?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [79]
+--------------------------------------------------------------------------------
+ The access point business will continue to grow, because these are very long design cycles. We've been working on this for, I don't know, five years, six years, a long time. So the customer tends to use one solution.
+ But as long as we continue to build the next generation, they will stick with us. So that growth will naturally be there, as more and more people want to have wireless devices, so mobile devices. So the access points will continue to grow.
+ The other area is the carrier. The carrier grade, or service provider, the service provider wireless will continue to grow as more and more service providers become more comfortable with using Wi-Fi for distributing videos to the TVs, to the set top boxes.
+ And then finally, SSD, as we're introducing more and more advanced micro set top boxes that looks like a domino into the consumers, these devices actually will primarily base -- not primarily, today's only base on Wi-Fi. So those devices are so much more advanced.
+ Pretty soon, you have 4K, 2K devices that are smaller than a credit card and will be able to decode all this 4K movies. Well, the existing set top boxes cannot handle it. And they all, again, will be using Wi-Fi technology. So we believe that those markets will have good opportunity for growth this year and even moving forward.
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [80]
+--------------------------------------------------------------------------------
+ Of course, the access point 2 x 2 for the retailer space, as well, which is high-volume, as well.
+--------------------------------------------------------------------------------
+ Daniel Amir,  Ladenburg Thalmann - Analyst   [81]
+--------------------------------------------------------------------------------
+ Thanks.
+--------------------------------------------------------------------------------
+Operator   [82]
+--------------------------------------------------------------------------------
+ Joe Moore, Morgan Stanley.
+--------------------------------------------------------------------------------
+ Joe Moore,  Morgan Stanley - Analyst   [83]
+--------------------------------------------------------------------------------
+ Great. Thank you. My question is on the China baseband market. Do you see in that market, is there a preference for local content? And if you look at the deal that Intel did with Spreadtrum, does that create advantage for them, because they're viewed as being local content. And you guys have obviously been there for a while and have some pretty deep partnerships. Can you just talk about that dynamic and how that helps or hurts you in the next couple years?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [84]
+--------------------------------------------------------------------------------
+ Weili, you want to cover that?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [85]
+--------------------------------------------------------------------------------
+ Sure. Our mission and really focusing on providing the best 4x solution for our OEMs. Of course, our OEMs in the ecosystem within China for localization or other regions, that's more of the ecosystem play. But for our responsibility, we are delivering the highest quality and the best, most competitive mobile solution, which we're doing very well and we continue to gain more design wins and capture more market share. So that's our focus.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [86]
+--------------------------------------------------------------------------------
+ (Indiscernible) say, yes, of course China wants to help local suppliers. But we are local suppliers. Our designs are done in China. Our design is not done in any country. All this modem technology that we talk about is built in China. At least all these ecosystems are built in China. So in a sense, we are a local Chinese supplier in this business.
+--------------------------------------------------------------------------------
+ Joe Moore,  Morgan Stanley - Analyst   [87]
+--------------------------------------------------------------------------------
+ Okay. And the customers view it that way? Obviously, that's been the history of the company, but is there a government policy that works against you?
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [88]
+--------------------------------------------------------------------------------
+ I think that the best thing you looked at based on the track record. As you can see, over a year ago, we were the first one, first semiconductor LTE solutions coming from Marvell supporting the biggest operator in China, China Mobile, December of 2013. So this is based on track record.
+ And in terms of our advancements, driving not only we're leading the LTE, we were the first one to empower this ecosystem and deliver the LTE solution for China, specifically. Of course, as Sehat said, we're a very strong player for local and we're also global players.
+--------------------------------------------------------------------------------
+ Joe Moore,  Morgan Stanley - Analyst   [89]
+--------------------------------------------------------------------------------
+ Great. Thank you very much.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [90]
+--------------------------------------------------------------------------------
+ Whitley, we'll take one last question.
+--------------------------------------------------------------------------------
+Operator   [91]
+--------------------------------------------------------------------------------
+ Kevin Cassidy, Stifel.
+--------------------------------------------------------------------------------
+ Kevin Cassidy,  Stifel Nicolaus - Analyst   [92]
+--------------------------------------------------------------------------------
+ Thanks. Just a quick question and a clarification on seasonality for HDD and SSD. Are the seasonal declines equal to those, or is HDD lower, or more of a decline than SSD? What are you seeing as an adoption rate of SSDs on the client side?
+--------------------------------------------------------------------------------
+ Mike Rashkin,  Marvell Technology Group Ltd. - CFO   [93]
+--------------------------------------------------------------------------------
+ So I think we're seeing similar seasonality for both, Kevin. The adoption rate for SSD obviously is improving. You hear that from a lot of OEMs. Obviously, there's different share dynamics that probably end up playing throughout the years. It's probably too early for us to comment on that. But at least for the near term, we see similar seasonality for both.
+--------------------------------------------------------------------------------
+ Weili Dai,  Marvell Technology Group Ltd. - President   [94]
+--------------------------------------------------------------------------------
+ And then besides talking about that, one thing I think is worth noting is that the Marvell, our SSD technology is very advanced and very robust, reliability, security, high-performance. All these features and the quality of SSD solutions is absolutely world-class. And when it comes to storage and reliability, security is a must. And even though there are multiple players in the space, but if you look at who has the real deal solid solutions is us, as the number one players in the storage space.
+--------------------------------------------------------------------------------
+ Kevin Cassidy,  Stifel Nicolaus - Analyst   [95]
+--------------------------------------------------------------------------------
+ Okay. Great. If they were both seasonally the same, it would seem like SSD adoption would be slowing. But you're saying it's not.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd. - Chairman &amp; CEO   [96]
+--------------------------------------------------------------------------------
+ We're consistent actually in all the -- in the last year we even talk about hybrids. So we do believe that in the long run, both of the adoptions of SSD is not bad news for the HDD business. What it gets them to do is to create this opportunity to build hybrid devices by taking advantage of the instant-on capability of SSDs.
+ And this the reason why we're building this device that we just introduced last quarter, MDMV DRAM-less PCIE SSD controller, specifically targeting for entry level, but very high performance nonetheless, but with a very low cost SSD solution for the lower capacity market. And then customers can supplement the capacity requirements by buying traditional HDD that will give them much higher capacity at 1/10 the cost. So for the total cost of less than 12%, 13% of the true SSD cost, they get much higher capacity. So, this is the strategy that we've been using also to expand the market opportunity for SSD.
+--------------------------------------------------------------------------------
+ Kevin Cassidy,  Stifel Nicolaus - Analyst   [97]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+--------------------------------------------------------------------------------
+Operator   [98]
+--------------------------------------------------------------------------------
+ That concludes our Q&amp;A. I'll now turn the call back over to management for closing remarks.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd. - VP, Finance &amp; IR   [99]
+--------------------------------------------------------------------------------
+ Thank you. I would like to thank everyone for the time today and the continued interest in Marvell. We look forward to speaking with you in the coming months. Thank you and good-bye.
+--------------------------------------------------------------------------------
+Operator   [100]
+--------------------------------------------------------------------------------
+ Ladies and gentlemen, that concludes today's conference. Thank you for your participation. You may now disconnect. Have a great day.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q4 2015 Marvell Technology Group Ltd Earnings Call]]></eventTitle>
+  <city>HAMILTON</city>
+  <companyName>Marvell Technology Group Ltd</companyName>
+  <companyTicker>MRVL</companyTicker>
+  <startDate>19-Feb-15 9:45pm GMT</startDate>
+  <companyId>120802</companyId>
+  <CUSIP />
+  <SEDOL>2594653</SEDOL>
+  <ISIN>BMG5876H1051</ISIN>
+</Event>

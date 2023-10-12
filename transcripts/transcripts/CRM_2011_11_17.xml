@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="4234515" lastUpdate="Friday, November 18, 2011 at 4:53:34am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="4234515.F" expirationDate="Thursday, November 17, 2011 at 10:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of CRM earnings conference call or presentation 17-Nov-11 10:00pm GMT]]></Headline>
+    <Body><![CDATA[Q3 2012 Salesforce.com Inc Earnings Conference Call
+
+SAN FRANCISCO Nov 18, 2011 (Thomson StreetEvents) -- Edited Transcript of Salesforce.Com Inc earnings conference call or presentation Thursday, November 17, 2011 at 10:00:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  David Havlek
+      salesforce.com, inc. - VP of IR
+   *  Marc Benioff
+      salesforce.com, inc. - Chairman and CEO
+   *  Graham Smith
+      salesforce.com, inc. - CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Kash Rangan
+      Bank of America - Analyst
+   *  Heather Bellini
+      Goldman Sachs - Analyst
+   *  Adam Holt
+      Morgan Stanley - Analyst
+   *  Mark Murphy
+      Piper Jaffray - Analyst
+   *  Laura Lederman
+      William Blair - Analyst
+   *  Brent Thill
+      UBS - Analyst
+   *  Tom Roderick
+      Stifel Nicolaus - Analyst
+   *  Philip Winslow
+      Credit Suisse - Analyst
+   *  Tom Ernst
+      Deutsche Bank - Analyst
+   *  Jason Maynard
+      Wells Fargo - Analyst
+   *  Brendan Barnicle
+      Pacific Crest Securities - Analyst
+   *  Walter Pritchard
+      Citi - Analyst
+   *  Karl Keirstead
+      BMO Capital Markets - Analyst
+   *  John DiFucci
+      JPMorgan - Analyst
+   *  Steve Ashley
+      Robert W. Baird - Analyst
+   *  Rick Sherlund
+      Nomura Securities - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good afternoon, my name is Demario, and I will be your conference operator today. At this time I would like to welcome everyone the salesforce.com Q3 fiscal results conference call.
+  All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question-and-answer session. (Operator Instructions).
+  I would now like to turn the conference over to our host, Mr. David Havlek, with [SPP] Investor Relations. Sir, you may begin your conference.
+--------------------------------------------------------------------------------
+ David Havlek,  salesforce.com, inc. - VP of IR   [2]
+--------------------------------------------------------------------------------
+ Thanks, Demario, and welcome everyone to today's call. Earlier this afternoon salesforce.com issued a press release detailing its third-quarter fiscal year 2012 results. In addition to the press release, the Company results can also be found in a Form 8-K filed with the SEC.
+  Joining me today to discuss our third quarter are Marc Benioff, Chairman and CEO, and Graham Smith, CFO. Following our prepared remarks we will open things up to your questions. As a courtesy to your fellow analysts, I ask that callers limit themselves today to a single question.
+  Our commentary will primarily be in non-GAAP terms today. Reconciliations between GAAP and non-GAAP metrics for both our reported results and our forward guidance can be found in our earnings press release.
+  At times in our prepared comments or in responses to your questions we may offer incremental metrics to provide greater insight into the dynamics of our business or our quarterly results. Please be advised that this additional detail may be one-time in nature and we may or may not provide an update in the future on these metrics.
+  With that let me make this call official with a brief Safe Harbor. The primary purpose of today's call is provide you with information regarding our fiscal third-quarter 2012 performance. Some of our discussion and responses to your questions may contain forward-looking statements.
+  These statements are subject to risks, uncertainties and assumptions. Should any of these risks or uncertainties materialize or should our assumptions prove to be incorrect, actual Company results could differ materially from these forward-looking statements.
+  All of these risks, uncertainties and assumptions, as well as other information on potential factors that could affect our financial results are included on our reports filed with the SEC, including our most recent report on Form 10-Q, particularly under the heading, Risk Factors.
+  To access our third-quarter press release, including the GAAP or non-GAAP reconciliations or historical results, any of our SEC filings, a webcast replay of today's call, or simply to learn more about salesforce.com, I encourage you to visit our Investor Relations website.
+  Finally, before I turn the call over to Marc, please be advised that during today's discussion we may reference certain unreleased services or features not yet currently available. We may not -- we cannot guarantee the future timing or availability of these services or features, and thus recommend that customers who purchase our services make their purchase decisions based on services and features that are currently available.
+  With that, let me turn the call over to Marc.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [3]
+--------------------------------------------------------------------------------
+ I am absolutely delighted to share these amazing third-quarter results, and I will begin by briefly reviewing some of our financial highlights from the quarter.
+  First, revenue of $584 million rose by amazingly 36%. Our annual revenue run rate is now more than $2.3 billion, and it makes us the first enterprise cloud company to reach this milestone.
+  Non-GAAP EPS of $0.34 was absolutely above our guided range, and we delivered that while hosting a world-class Dreamforce here in San Francisco. But now it is the largest enterprise software event in the world with more than 46,000 registered attendees.
+  Deferred revenue was increased by 32% to finish the quarter at $918 million. And third-quarter operating cash flow rose by 74% year-over-year to $129 million in the quarter. We exited the quarter with approximately $1.3 billion of cash and equivalents on our balance sheet.
+  Now in fiscal year 2012 we became the first enterprise cloud company to surpass a $2 billion annual revenue run rate. And today I am delighted to announce that we expect to [retake] $3 billion annual revenue run rate during our next fiscal year. That is just spectacular growth.
+  Our financial success in the third quarter was powered by a tremendous response from customers to our new social enterprise strategy. We are now engaging customers at a higher more strategic level than ever before. And we have seen more large deals this quarter as a result of that strategy than we have seen in other quarters this year.
+  At Dreamforce we showed how some of the world's best companies, such as Burberry, Toyota, Verizon are all transforming into social enterprises. In fact, I'm delighted to share with you that one of our largest transactions in the quarter was Verizon, who signed up for 80,000 subscribers of Chatter, 7,000 subscribers of the Sales Cloud and Data.com.
+  Now Verizon's vision for the social enterprise is to build an employee social network connecting retail stores and office-based employees, fueling a new level of global collaboration. And by mobilizing their workforce on iPads, Verizon plans to delight customers in an entirely new way.
+  Today we are seeing customers buy a broader selection of our services as evidenced by growth of all of our product lines. For the Sales Cloud we signed Maersk, one of the world's largest shipping companies in the world, based in Europe. And they swapped out Oracle and selected salesforce for the entire global sales team.
+  We also won deals against Oracle with Bayer, Eli Lilly, Telstra, Fuji Xerox, Japan Post, Unisys, PTC Parametric, and Diebold Securities, all strong wins against Oracle. But in Q3 we also won against Microsoft, closing major deals with Pfizer, AXA, CenturyLink, American Teleconferencing Services, Gates Corp, Banca Civica, Orion, Vivint, M&amp;G and Tripwire.
+  Other new or add-on transactions for the Sales Cloud from the third quarter included Adobe, Avaya, [Santo] and Kaspersky Labs.
+  As exciting as our Sales Cloud momentum is, perhaps nowhere is the social enterprise message as critical as it is in customer service. In fact, five of our top 10 transactions in the quarter included the Service Cloud.
+  A great example is Electronic Arts, who wanted to create a next-generation customer service center before the release of their highly anticipated video game, Battlefield 3. Electronic Arts was able to deploy an employee social network with 1,200 (inaudible) in just six weeks, allowing them to manage dozens of portals, serving up over 20 million site page views, and handling 150,000 cases in the first week alone. A really great win for salesforce.com against Oracle.
+  Other new or add-on Service Cloud transactions from the third quarter include Australia Post, Frontier Communications, GE, Unum, Western Digital, Investec Asset Management, and KDDI.
+  Chatter, which is at the heart of our social enterprise strategy, continued to drive our success in the third quarter. Another good example is Avaya, who plans to deploy more than 17,000 subscribers of Chatter and the Sales Cloud. Avaya will be rolling out an employee social network to improve collaboration and boost productivity.
+  They also plan to replace their legacy content management systems with a next-generation social portal built on our application development and deployment platform, Force.com.
+  And GE signed up for 20,000 subscribers of Chatter. In just three weeks GE created a private customer social network called GE Edge, where their customers can collaborate with peers and get access to experts and research.
+  Other Chatter wins in the quarter included Toyota with 10,000 subscribers of Chatter, and [Beckal] with 5,000 subscribers of Chatter.
+  And while Chatter helps companies collaborate internally on private social networks, Radian6 is helping companies to listen and engage with customers on public social networks, redefining what it means to do social monitoring. We are thrilled with the success that Radian6 has seen with major customers around the world. Wins from the quarter included Conde Nast, Delta Airlines, LinkedIn, Nestle, New York Times and Warner Bros.
+  Force.com achieved some truly impressive milestones in the quarter, delivering triple-digit growth year-over-year. Today nearly 450,000 developers have built and deployed more than 260,000 cloud apps on Force.com. And usage of the platform continues to increase. Force.com delivered 40 billion transactions, up 10% quarter-over-quarter and 62% from a year ago. Phenomenal. That is more than 600 million transactions on Force.com every business day.
+  One of the great Force.com wins for the quarter is with USAA. They are standardizing on Force.com to power a range of employee-facing social apps such as property management, claim tracking, recruiting and more.
+  Other new or add-on Force.com transactions for the quarter include Amgen, Japan Post, Toyota, City of New York and Yahoo. In addition, new ISVs like Concur, Infor, [Canambi] and Workday joining our developer community to deliver next-generation apps on Force.com.
+  And the AppExchange crossed a new milestone with more than 1 million apps installed by our customers worldwide, another amazing milestone that was crossed during the quarter. Over last year we extended our net platform strategy beyond Force.com with Database.com and Heroku, and Data.com, giving developers solutions to replace legacy tools. This quarter Database.com became generally available, and Heroku added support for five additional languages, including Java.
+  Heroku also became the first, and to date, the only cloud platform built right into Facebook's development center. Right from within Facebook you can start building Heroku applications in Java, in Python, in Ruby, in Clojure or the language of your choice. Within 24 hours of the announcement at Facebook's FA conference, Facebook developers had built more than 30,000 new apps on Heroku. Phenomenal.
+  Recently we announced some exciting acquisitions and new products. In the third quarter you saw us acquire Assistly, a pioneer in the world of customer service and help desk applications for small businesses. We also launched the public data of Do.com, a social project management system for small businesses.
+  And early this week we announced our intent to acquire Model Metrics, which is expected to close during the fiscal quarter. Model Metrics is a strategic services company that is helping to empower our global partner ecosystem with their outstanding mobile and social capabilities. We have seen so many of our top customers go to Model Metrics to build custom mobile and social applications. We are delighted to welcome them to the salesforce.com family.
+  I want to remind all of you that on November 30 we are hosting Cloudforce New York City at the Javits Convention Center. We expect more than 10,000 people to register to attend this event, making it the largest cloud computing event held on the East Coast and our largest event ever in New York City. If you have not yet registered, please contact David Havlek. And we would love to see you there at Cloudforce New York on November 30.
+  Also, on December 14 and 15, we are taking the Cloudforce roadshow to Tokyo, Japan, where we will continue to share our vision for the social enterprise with an additional 10,000 registered attendees in events with Neil Young and will.i.am. We are looking forward to seeing you at Cloudforce Tokyo on December 14 and 15.
+  With that I will turn this over to Graham to discuss the financial details of the third quarter.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [4]
+--------------------------------------------------------------------------------
+ Thanks, Marc. Q3 was another great quarter. We executed well to deliver strong revenue growth, outstanding cash flow, and earnings above guidance.
+  Revenue for the quarter was $584 million, an increase of just over 36% year-over-year. Topline revenue was strong for three primary reasons. First, as Marc indicated, Q3 was another strong new business quarter and exceeded our expectations heading into the quarter. Second, attrition on a dollar basis declined for the ninth consecutive quarter and remains in the mid-teens percentage range. And, third, we continue to benefit from a weaker dollar, which in Q3 provided a tailwind of approximately $9 million. Constant currency revenue growth was 34%.
+  In terms of our third-quarter year-over-year revenue growth by geography, revenue in the Americas grew 36% to $397 million. In Europe Q3 revenue was $104 million. That is up 36% in dollars and 29% in constant currency. And in Asia Q3 revenue rose roughly 39% in dollars and 31% in constant currency to $83 million. Our Japan business continued on its recovery and posted strong new business growth in the third quarter.
+  Turning now to revenue mix. Q3 revenue was roughly 94% subscription and support and 6% professional services. I mentioned on our last call and at our Dreamforce analyst session that we could see a business mix -- our business mix show a slight shift toward professional services over the next few quarters, as we invest an additional consulting skills to accelerate the shift of the social enterprise.
+  The acquisition of Model Metrics supports this acceleration by bringing on a team of highly skilled mobile and social cloud designers to work on social enterprise projects.
+  Moving on to the rest of the income statement, our non-GAAP gross margin was 82%, essentially unchanged from Q2 and from the year-ago quarter. Non-GAAP subscription and support gross margins were flat sequentially at 86%, but down a couple of points from last year. The small decline was primarily the result of data center capacity expansion.
+  Non-GAAP professional services gross margins finished at 13%. While margins in this business continue to fluctuate quarter-to-quarter, the adoption of EITF 0801 has led to an overall improvement this year.
+  Moving onto operating expenses. Total non-GAAP operating expenses represented 71% of revenue in Q3, up 4 percentage points from last year. The increase was the result of two principal factors. First, over the past 12 months we have acquired several businesses, notably Heroku, Radian6, and most recently Assistly, which have added nearly 500 people to our company. We are continuing to invest aggressively in those businesses.
+  And, second, over the same period, we added approximately 1,700 people through organic hiring, with 550 of them being added in Q3 alone. As a result of organic hiring and acquisitions, we added 600 people in Q3 to bring total Q3 ending headcount to nearly 7,000, an increase of 46% over last year.
+  Our organic hiring efforts continued to focus on adding sales and engineering capacity, which we believe is critical to future growth. We expect Q4 to be another record quarter for organic hiring as we look to continue our strong momentum into fiscal 2013.
+  Within specific expense categories, sales and marketing continues to be our largest operating expense at roughly 47% of revenue. This was up about 3 points from last year. As you know, increasing sales capacity is one of our most important goals, so I would like to take a moment to review its financial impact on our operating model.
+  While our salesperson typically takes two to three quarters to start closing new business, on average it takes six to nine quarters before a salesperson and his or her supporting team reaches breakeven on a P&amp;L basis. This lag between investment and profitability occurs for two main reasons.
+  First, ratable revenue recognition means revenue from new business ramps slowly. And, second, while we capitalize and then amortize commission expense for the salesperson against the related contract term, all of the sales engineering and management costs, including their commission and bonuses, are recognized as period expenses. As long as the trend for overall sales productivity is flat or increasing, we are going to continue to hire aggressively.
+  Marketing expenses in Q3 also rose significantly as we continued to evangelize our cloud computing and social enterprise messages. In the third quarter we hosted Dreamforce at a net cost of roughly $0.05 per share. And in addition we hosted large Cloudforce events in both London and Munich.
+  While sales and marketing remained our largest expense line item, R&amp;D was our fastest-growing expense category in Q3, increasing 47% from a year ago. With a broadening product portfolio and our goal to dominate enterprise cloud computing, ongoing investment in R&amp;D is critical. As a result, R&amp;D now represents 11% of revenue compared with 10% a year ago.
+  G&amp;A was our slowest growing expense category. As a percentage of revenue G&amp;A expense was flat year-over-year at 13%.
+  As a result of higher operating expenses, our non-GAAP operating margin was 11%, up slightly from Q2, but down 4 points from last year.
+  Due to the lower interest rate environment and an increase in the number of higher yielding investments that have come to maturity over the past few quarters, other income and expense, or OIE, was $4 million in the third quarter. That is down from roughly $9 million in Q3 last year. Similarly, looking to FY 13, we expect OIE to be lower than in FY12.
+  Non-GAAP EPS was $0.34 compared with $0.32 in Q3 last year. EPS was higher than we guided for two main reasons. First, our effective non-GAAP tax rate for Q3 was 29%, lower than our guided rate of 33%. This was the result of favorable adjustments driven by stock option exercises and additional tax benefits related to recent acquisitions. The lower tax rate contributed about $0.02 to Q3 non-GAAP EPS.
+  And, second, the lower average share price in the quarter drove a smaller dilutive effect from our convertible note this quarter. This lower average share count contributed about $0.01 to non-GAAP EPS.
+  We currently expect our Q4 non-GAAP effective tax rate to increase to roughly 32%. Looking to FY 13, we currently estimate that our effective tax rate will increase to approximately 40%. This higher tax rate is driven by two main factors.
+  First, we will no longer benefit from a one-time $40 million foreign tax deduction in the US for Canadian taxes. This Canadian tax payment is a one-time event which arose as a result of the Radian6 transaction. The actual tax payment of [$]40 million in Canada is scheduled for Q1 next year. And I just want to point out, clearly, that will have an impact on our first-quarter operating cash flow.
+  And, second, the federal R&amp;D tax credit will expire at the end of calendar 2011. We do not anticipate the legislation being renewed, or we cannot, I should say, anticipate the legislation being renewed in our forecast effective tax rate. Obviously, we hope that Congress will eventually extend these important tax incentives.
+  Turning next to cash flow. Operating cash flow was $129 million during the quarter, up 74% from last year. Year-to-date cash flow from operations was up approximately 20% over the first nine months of last year. We had a strong collections quarter, and our Q3 DSO was 49 days, down from 55 days a year ago.
+  For the full year we expect operating cash flow in the mid-teens percentage range. This implies slower growth in Q4 than Q3, primarily as a result of the significant hiring ramp that we are seeing in the second half.
+  For CapEx, we finished the quarter at roughly $35 million. As we discussed on the last call, capital spending was driven by three factors. First, roughly half of all CapEx this year is a result of leasehold improvements. With year-over-year employee growth of 46%, we expect to continue significant spending in this area.
+  Second, as I mentioned earlier, we continue to invest in data center capacity. As we build out new infrastructure with a wholesale data center model, we incur CapEx relating to power cages and racking.
+  And then, last, capitalized software for service delivery and internal IT projects makes up the balance. This can vary quarter-to-quarter depending on the timing and scale of deployments. We expect CapEx in Q4 to be similar to Q2 levels.
+  Free cash flow, which we define as operating cash flow minus CapEx, was approximately $94 million in Q3. That is up 77% from last year. For the nine months year-to-date we have generated $244 million in free cash flow.
+  Moving onto the balance sheet. Cash and marketable securities ended the quarter at just under $1.3 billion. Cash has remained relatively flat year-over-year due to acquisitions over the previous 12 months, which represent just over $600 million in cash outflows.
+  Deferred revenue was $918 million at quarter end. That was up 32% from last year. Adjusting for an approximate $5 million FX tailwind, constant currency growth for deferred revenue was 31%. This compares with constant currency growth rates of 33% in both Q1 and Q2.
+  I would like to remind people that quarter-end deferred revenue is a function of invoicing and is influenced by several factors, including invoice timing, invoice duration, new business linearity within the quarter, annual seasonality, and the compounding effects of renewals. And as we discussed at the Dreamforce analyst session, some of our recent acquisitions, such as Heroku and Radian6, bill monthly and don't contribute significantly to the deferred revenue balance at all.
+  Although for all the reasons I just described, deferred revenue is a tough number to predict. We expect Q4 revenue to grow approximately 30%.
+  Turning to our outlook. We feel good about our compelling social enterprise vision, our great market position, and our strong pipeline entering Q4.
+  There are two things to note about this guidance I am going to give you. First, we are on track to transition Radian6 revenue recognition from a cash basis to an invoice basis in the fourth quarter. This will add around $5 million of extra revenue in the fourth quarter as we go through that transition. We discussed this back in May actually when we announced the acquisition.
+  And then, second, we are assuming that the acquisition of Model Metrics will close in December in our guidance. After taking these factors into account, we now projects Q4 revenues to be in the range of $620 million to $624 million, and non-GAAP EPS in the range of $0.39 to $0.40. For full year 2012 we estimate revenue in the range of $2.255 billion to $2.259 billion, representing growth of approximately 36%.
+  Looking forward to fiscal 2013, we currently anticipate revenues to be in the range of $2.88 billion to $2.92 billion. Again, this assumes we close the acquisition of Model Metrics in Q4. The midpoint of this guidance range implies just over about 28.5% revenue growth for FY 13. We will provide you with further details of our FY 13 operating model on our fourth-quarter call in February.
+  Before we turn the call over to the operator for questions, I also want to encourage all of you to join us in New York on November 30 for what is shaping up to be an amazing salesforce event.
+  With that let me turn the call over to the operator for questions.
+ 
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ (Operator Instructions). As a reminder, per the host of the call there is a limit of one question per analyst. We will pause for just a moment to compile the Q&amp;A roster. Kash Rangan, Bank of America.
+--------------------------------------------------------------------------------
+ Kash Rangan,  Bank of America - Analyst   [2]
+--------------------------------------------------------------------------------
+ Nice quarter. I was just looking to get a little bit more clarity on the deferred revenue commentary, Graham. I think if you look at the billings calculation the way we do it on the Street it has been well above 30% the last four quarters, five quarters actually. And is there something of a change with respect to contract durations or invoicing terms that represents a new way in which we should be thinking about the so-called billings growth rate, or is there something of a temporary nature that explains why the billings may have been lower than what people's expectations were?
+  And, also, to get clarity, I think you said 30% growth in Q4. I wasn't sure if you meant revenue or deferred revenue growth rate. Thanks, that is it for me.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [3]
+--------------------------------------------------------------------------------
+ Well, first, yes, we think deferred revenue Q4 will grow approximately 30%. Obviously, I have said for all the reasons that I listed it is a tough number for us to predict accurately. I think with -- first of all, just to put this in perspective I think we have raised our guidance for Q4. We have obviously initiated, I think, pretty exciting guidance for next year.
+  If you look at the trend of constant currency deferred revenue growth, Q1 33%, and Q2 33%, Q3 was 31%. That is why we have avoided, I think, talking about your calculation of billings. I think your number is a lot more volatile. We tend to -- I think we -- deferred revenue is a number that goes on our balance sheet and we feel clearly that it is subject to this volatility for all those reasons that I listed around invoice duration, and so on.
+  Then the last thing I would remind you is that some of these newer businesses, like Radian6 and Heroku, they're not really contributing to deferred revenue balance. They contribute to the revenue number, but they don't contribute to the deferred revenue numbers in any significant way. So we did highlight that at our analyst session at Dreamforce as something to -- as a potential shift in how that billings calculation that you do may work. So I would say, we feel -- we couldn't be happier with where our business is and where we're going in Q4 next year. So that is our commentary.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [4]
+--------------------------------------------------------------------------------
+ I think that when you look at what is the best predictor of our future revenues, we are able to really take a strong look at our guidance. And you have seen for this year that we have really been right on that in terms of where we are going as an organization. And as we look to other metrics in our balance sheet, like deferred revenue, the problem is that that is a metric that is rapidly evolving as we start to do more acquisitions, as there are fluctuations in invoicing periods, currency changes.
+  But at the end of the day our best predictor of where our revenue is going is our guidance. And when we get down to the deferred revenue it is not a metric that we manage internally. It is really only a metric that we report at the end of the quarter.
+  And in terms of our sales and our numbers for the quarter, our bookings for the quarter, we have stayed away from those quarterly numbers. And we can look at something like our customer accounts, which for this quarter were above where we expected them to be, and were actually a record number that we have ever had in the history of the Company.
+--------------------------------------------------------------------------------
+Operator   [5]
+--------------------------------------------------------------------------------
+ Heather Bellini, Goldman Sachs.
+--------------------------------------------------------------------------------
+ Heather Bellini,  Goldman Sachs - Analyst   [6]
+--------------------------------------------------------------------------------
+ I just had a question following up on what Kash was talking about. At Dreamforce I think one of the things that came out of it is that typically you guys have thought of it as a big deal-closing event. So I think that is what some of the confusion is, given seasonality in deferred was a little bit below what you guys have done over the last couple of quarters.
+  I was just wondering how you saw the deal-closing activity versus your expectations coming out of Dreamforce, or is that still do you think more of a Q4 event for you?
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [7]
+--------------------------------------------------------------------------------
+ Well, our pipelines are fantastic, and we had -- we have had -- Q3 was an amazing quarter for us, and we expect another amazing and spectacular quarter in the fourth quarter. Our pipelines have never been bigger. Our customer accounts have never been higher. The number of net new customers for the quarter was higher than it ever was. And we couldn't be more excited about our business, and a lot of that came out of the fourth quarter.
+  And as we look to the next fiscal year, we look at hitting this $3 billion annual revenue run rate, which is critical for us. And really -- and you can also see how we see the fourth quarter playing out in terms of revenue, where we are raising our revenue guidance to $2.258 billion.
+  All indications to us is that our business remains unbelievably strong, and the pipeline is strong, and the number of deals that are closing are at record levels. If we zero back down to this deferred number it is going to continue to fluctuate, and it is not a great indicator of the current performance of the Company. The best performance indicator of the performance of the company, of course, is the revenue. And the best indicator of the future performance of the Company is the guidance that we are giving on the call today.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [8]
+--------------------------------------------------------------------------------
+ And I did mention first early on in my comments that we did exceed our own expectation in terms of where our new business was going to close for the quarter in Q3.
+--------------------------------------------------------------------------------
+Operator   [9]
+--------------------------------------------------------------------------------
+ Adam Holt, Morgan Stanley.
+--------------------------------------------------------------------------------
+ Adam Holt,  Morgan Stanley - Analyst   [10]
+--------------------------------------------------------------------------------
+ As you look into the fiscal 2013 guidance what would you expect that the contribution of acquisitions to be? And do you think that cash flow will grow in-line with revenue next year, or how do you view the cash flow growth rate relative to revenue? Thanks.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [11]
+--------------------------------------------------------------------------------
+ So we traditionally haven't broken out those numbers, and clearly at this point in the year, as you know from previous years, we don't give any other guidance than just the first blush revenue. We haven't finished our operating model for next year. We haven't finished a lot of the detailed plans, and therefore clearly haven't finished our cash flow guidance either, so I'm afraid I'm just going to pass on that for the moment.
+--------------------------------------------------------------------------------
+Operator   [12]
+--------------------------------------------------------------------------------
+ Mark Murphy, Piper Jaffray.
+--------------------------------------------------------------------------------
+ Mark Murphy,  Piper Jaffray - Analyst   [13]
+--------------------------------------------------------------------------------
+ Marc, I wanted to ask you about the time frame for customers to adopt social enterprise technologies versus what you experienced historically with the Sales Cloud and the Service Cloud. Would you expect the social enterprise adoption curve would be faster because you have greater awareness and buzz of social technologies, or do you think it is going to be slower because it could involve a customer mindset transformation and adoption of a broader range of solutions as opposed to a single application?
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [14]
+--------------------------------------------------------------------------------
+ Well, we have been selling really the concept of the social enterprise without the word social enterprise, which we have only had now for about six weeks, probably since Dreamforce 2008. And if you go back to Dreamforce 2008, you'll remember I was on stage with Sheryl Sandberg and doing demonstrations of Facebook, tightly integrated with salesforce.com.
+  And that rolled into 2009, which is when we really started to announce Chatter. 2010, where we had rolled out Chatter as kind of the foundation of the social enterprise. And now in 2011, of course, we call it basically Dreamforce, welcome to the social enterprise. And we are working with literally thousands of our customers around the world defining what social enterprise means to them.
+  When we look at social enterprise, we see what is the customer's social profile, what is it -- look like from a collaboration platform, how are they building and deploying the Sales Cloud, the Service Cloud, custom applications, social applications which is what we see with Heroku, social monitoring like with Radian6, and then we start to build product social networks.
+  This week I was in Las Vegas on Monday with our customer, Toyota, rolling out to all of their dealers and distributors our vision for Toyota Friend and demonstrating Toyota Friend to them on the iPad. And it was an amazing experience. But when we look at the customers that we are closing in this quarter and the pipelines that we have, we have a lot of social enterprise transformations underway because it has become the primary way that we are selling.
+  I would say that we have evolved from being a salesforce automation company and then adding the platform into being what I would call an SFA platform, or even a CRM platform. Then we really introduced the Service Cloud where we became a true CRM platform with sales and service. Of course, we have added in Radian6.
+  We see the emergence of the marketing cloud with Heroku, with the social marketing applications, with Radian6, and really with the thousands of websites that we run all for customers all over the world, and then you can really start to see that when you combine all of that with Chatter, and other core technologies that we have deployed, we really see that social enterprise is our primary value proposition to the customers.
+  And I would suggest to you if you talk to our customers or talk to recent customers that we have signed, a lot of the reasons that we are able to close deals is because we are substantially ahead of the competition in not it only being able to define, articulate, but also build and deploy for our customers social enterprise applications.
+  And it has been -- it was a fantastic Dreamforce. I expect the same at Cloudforce in New York and Tokyo. And I expect that our pipelines will continue to be full of social enterprise capabilities.
+  And specifically to eat your point on speed, I believe that our industry is growing faster than ever before. And that we are going to see this uptake, as already evidenced by the deal flow, as happening faster than ever before, because customers need new solutions, they are trying to redefine themselves, and the opportunity is right now. It is not two or three years from now. This is about being aware of what is going in the market today and how to deliver that.
+--------------------------------------------------------------------------------
+Operator   [15]
+--------------------------------------------------------------------------------
+ Laura Lederman, William Blair.
+--------------------------------------------------------------------------------
+ Laura Lederman,  William Blair - Analyst   [16]
+--------------------------------------------------------------------------------
+ Can you talk a little bit about what you sell in social enterprise, namely Chatter? Is it -- the monetization at that point in time is relatively small versus the Sales Cloud and the Service Cloud, but over time as people live in salesforce they would develop more apps and they would end up paying you more?
+  I guess what I'm trying to get at is you are selling a lot of social enterprise (inaudible) to clients. You spent a lot of time in the quarter doing so. Does that lead to less short-term revenues than the other clouds -- even though you sell the seats they are not as expensive? Which is sort of a different way of also asking Mark Murphy's question.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [17]
+--------------------------------------------------------------------------------
+ No, in fact, we had more larger transactions in this quarter really than we have ever had in the third quarter, and we had really spectacular deal flow. And those large enterprise transactions are all architected around being social enterprises.
+  And as we look out what is happening in the fourth quarter into fiscal year 2013, we are seeing more and more social enterprise transactions. And they're not really, what I would say slower uptake, I would just say that we have a highly differentiated product. We are able to architect much larger transactions and deliver to our customers a much broader solution.
+  And when you look at some of these large transactions that we closed in the quarter like Verizon, Electronic Arts, or GE, Maersk, USA, some of the big premier transactions, I think that what you would see is that they really all signed with us because we are nable to deliver to them the social platform, and that other customers -- other companies aren't ready to deliver that to them today.
+--------------------------------------------------------------------------------
+Operator   [18]
+--------------------------------------------------------------------------------
+ Brent Thill, UBS.
+--------------------------------------------------------------------------------
+ Brent Thill,  UBS - Analyst   [19]
+--------------------------------------------------------------------------------
+ Graham, just on the guidance for fiscal 2013, you set the revenue well above where the Street had you modeled. Obviously, there is a disconnect with the deferred, and so I guess the only -- where we would point you is the [track] did not build backlog.
+  I understand you don't give that number, that I was wondering if you could give us a sense -- obviously that seemed like it was very strong. And the reason not to give earnings for next year, is that just given you are still working that plan out, and I guess would you assume just a flat operating margin consistent with what you were talking about at the Analyst Day, if we were modeling that forward from this current year?
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [20]
+--------------------------------------------------------------------------------
+ Sure. I mean unbilled deferred. We disclose that once a year on the fourth-quarter call. But certainly it has been trending up very strongly. So we are very pleased with how unbilled deferred has been trending this year.
+  We have never given earnings guidance on this first view of the following year -- certainly in any of the years I have been at the Company. I think we have good visibility, as you know, into our revenue for next year because of our business model, and the sales capacity that we have added during the course of this year and we plan to add in the fourth quarter.
+  So I think we have great visibility into our revenue. And that is an easier number for us to give you a view into than working through all of the detail of the P&amp;L and the cash flows and so on that we will be doing over the next few months as we close out Q4.
+  So that is the -- we are not really doing anything different here to what we have done in previous years.
+--------------------------------------------------------------------------------
+Operator   [21]
+--------------------------------------------------------------------------------
+ Tom Roderick, Stifel Nicolaus.
+--------------------------------------------------------------------------------
+ Tom Roderick,  Stifel Nicolaus - Analyst   [22]
+--------------------------------------------------------------------------------
+ So I am interested for your take on the Service Cloud side. Your nearest competitor, kind of pure play competitor being RightNow Technologies recently acquired by Oracle. I would kind of be interested for what you are seeing in real time and customer commentary as [any] any feedback from that Oracle RightNow acquisition to what you think you might need for the marketplace or the Service Cloud side next year?
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [23]
+--------------------------------------------------------------------------------
+ Well, we have a great product with the Service Cloud, as you know. And one of the exciting parts of our Service Cloud product, of course, is that it is deeply part of our core platform. It is not just a standalone application. It is part of the -- as Laura was indicated, it is part of the social enterprise, number one.
+  Number two, it is part of our platform. It is not a really separate piece of code. It is a deeply integrated part of the platform. And that core parts of that operate in like, for example, knowledge management or the ability to do case management.
+  You know, that is an application that we deliver to customers. It is also part of our platform that we deliver to developers. It is also deeply integrated into our Sales Cloud and into our marketing cloud. And that is really one of the strengths of salesforce is that we haven't acquired hodgepodge, all these other little companies and every little thing like Oracle has, we have been delivering really from the ground up.
+  And where we have -- when we have a technology vacuum, like we did a few years ago in knowledge management, we acquired a company called InStranet, but that was an on-premise technology company that then we rewrote deeply into our platform, into the multitenant architecture and the shared system, make it available through our API.
+  And a great evidence of that is the win this quarter with Electronic Arts. As you know, Electronic Arts and Battlefield 3 is probably the biggest, highest volume customer service release of the quarter for any vendor. And it was a replacement of competitive technology. And I think that when you look at that it is evidence that we have what it takes to win those transactions, to go head-to-head against Oracle and to beat them consistently.
+  And that is why they continue to draw straws, buy different companies, but not this going nothing is going to be able to go up against a deeply integrated platform like we have that can do application development as well as the end-user application capability across the board. That is the power of Force.com.
+--------------------------------------------------------------------------------
+Operator   [24]
+--------------------------------------------------------------------------------
+ Philip Winslow, Credit Suisse.
+--------------------------------------------------------------------------------
+ Philip Winslow,  Credit Suisse - Analyst   [25]
+--------------------------------------------------------------------------------
+ I just wanted to focus back on the (inaudible) cloud. I think, Marc, you mentioned sort of the evolution of that, obviously, with Radian6. How do you see that progressing in future years and then also integrating that back into the sales and Service Clouds? Thanks.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [26]
+--------------------------------------------------------------------------------
+ Well, I think that what we see really is the main interest of our customers today is in social marketing. I think that traditionally customers have really looked at what is campaign management or what is my -- what is my ad spend in the quarter? What I think it has really moved to -- what are my customers saying about me? How do I deeply integrate my website and my Facebook presence and my Twitter presence? And how is that related back to my sales and service capability? And even the traditional www address.
+  And all of that we really look at the evolution of -- we have been calling it the marketing cloud -- I call it the social marketing cloud internally. Because what I look at the social marketing cloud what I see is really the opportunity for customers to use products like Radian6 for social monitoring, Heroku for building interactive applications on Facebook.
+  A great example that we've been talking about is Facebook.com/Disneyland, where you can see this deeply integrated interactive application. Or you're going to start to see us deploy new -- I don't want to get ahead of where we are going for Cloudforce New York, where you're going to see us do a lot of announcements in this area, but the ability to take Force.com, the ability to take the Service Cloud, the ability to take the Sales Cloud and the marketing cloud and deploy highly customized applications back out to customers.
+  When we talk and look at competitive offerings from Oracle, from SAP, from the companies that they are buying every other week, they just can't do that. You just don't see that level of integration, the level of scale, the level of throughput.
+  I guess great stats that we didn't use in our script that we probably could have is we have delivered more than 300 million pages to Zynga's customer service application since we deployed it in April. That is amazing.
+  And you just don't see other companies doing that level of scale and throughput and reliability. And then when we look at a company like Zynga we see them deploying other aspects of our technology as well to become a true social enterprise.
+  All of that comes back to the marketing cloud, the Service Cloud, the Sales Cloud as an integrated strategy for delivering the customer's social enterprise.
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ Tom Ernst, Deutsche Bank.
+--------------------------------------------------------------------------------
+ Tom Ernst,  Deutsche Bank - Analyst   [28]
+--------------------------------------------------------------------------------
+ So, Graham, you mentioned the ramp to productivity for salespeople and hiring. Your investment in headcount has been pretty aggressive this year. I think the headcount is up roughly 46% year-on-year. Do you mean to invest even more aggressively as we look forward to next year? Are you looking to further accelerate that hiring or is your point that it takes a while for what you have done already to ramp? Thank you.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [29]
+--------------------------------------------------------------------------------
+ No, I was just reminding people really that the basics of our model -- I know we have obviously gone through it with you, Tom, a lot of times. But I think we have always said, I think, Marc and I and certainly David that when you're in this mood, when we are hiring as aggressively as we are, it means we feel really good about our business.
+  And so we have just had a record quarter of hiring. We expect we're going to have another record in Q4. And we see -- we have the visibility, obviously, into the pipeline and the sales productivity and our sales capacity and that is what we are focused on building for next year. So that is really all I am trying to imply.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [30]
+--------------------------------------------------------------------------------
+ I think what we are excited about is -- and as you know, if you follow us to listen to these calls, we are all about building greater distribution capacity. We know we have the winning product. We know we have the winning strategy. We just don't have as large a salesforce as Oracle and SAP and Microsoft, and how do we build that as fast as possible?
+  What we are getting excited about is we finished this fiscal year 2012 our fundamental distribution capacity, that is the number of pure play account executives across all of our product lines, will be up almost 50%. That is very exciting for us. That includes acquisitions, obviously, that includes our core development.
+  And we have got our eye on that ball. It is important for us to grow distribution capacity, to invest in it, because without an army you're not going to win a war in enterprise software. And a lot of this is hand-to-hand battle. And as you go to -- go after these mega-transactions like the ones we have been talking about for the call and so many others, whether it is a large bank like Wells Fargo, whether it is a large telecom company like Verizon, whether it is a large entertainment company like Electronic Arts, whether it is a large insurance company like Chartis or others, you just aren't going to win unless you've got the feet on the street and you're ready to jump in the foxhole and really battle it out with the competition.
+  Because we have to communicate something that you maybe intuitively understand at this point because you have been to maybe 20 events with us, most customers, obviously, haven't. So that core distribution capacity is critical, and it is our number one investment category for this fiscal year and the next one as well.
+--------------------------------------------------------------------------------
+Operator   [31]
+--------------------------------------------------------------------------------
+ Jason Maynard, Wells Fargo.
+--------------------------------------------------------------------------------
+ Jason Maynard,  Wells Fargo - Analyst   [32]
+--------------------------------------------------------------------------------
+ I was looking through the revenue growth rates by region, and the Americas looks like it is accelerating year-over-year and sequentially, and Europe saw a bit of a dip. And I'm curious if there is anything more we should read into Europe?
+  And maybe bigger picture question, what are you thinking about the opportunity for adoption in Europe and actually putting some of those distribution capabilities in that region? Thank you.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [33]
+--------------------------------------------------------------------------------
+ We had a really strong quarter in Europe. We have revenue growth of 36% in dollars and 29% in constant currency. And I think the -- one of our marquee transactions for the quarter was a head-to-head win against Oracle at Maersk, which was one of the very largest Siebel customers in Europe now getting converted over to us.
+  We also just hired one of Oracle's top Senior Vice Presidents, Miguel Milano, to be our new head of Europe. And I was just there in London at Cloudforce and I had to add a second day, because demand was so strong for my presentation that I had to do two keynotes. And honestly, we could have probably done three or more. And then Graham actually had to go -- and go to Munich and do Cloudforce Munich, which I was not able to attend because it had such a strong attendance.
+  So Europe is an exciting growth region for us. It has been an exciting growth story for us, and we saw strong demand. As you can see in all of our numbers are mid double-digit growth in all geographic regions, which is just an exciting time for the Company. And we feel good about where Europe is today.
+  Graham, do you want to add to that, you were just there?
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [34]
+--------------------------------------------------------------------------------
+ There was amazing excitement in Munich, which we -- more a double from a year ago in terms of attendance. And so, yes, I think with Miguel onboard as well we're going to have a great year there next year.
+--------------------------------------------------------------------------------
+Operator   [35]
+--------------------------------------------------------------------------------
+ Brendan Barnicle, Pacific Crest Securities.
+--------------------------------------------------------------------------------
+ Brendan Barnicle,  Pacific Crest Securities - Analyst   [36]
+--------------------------------------------------------------------------------
+ Graham, just a quick one. Given all the strong metrics in the quarter is it safe to assume that unbilled deferred grew much faster than deferred revenues in the quarter?
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [37]
+--------------------------------------------------------------------------------
+ We don't give that metric. I'm pretty sure it grew faster than the -- the off balance sheet grew faster than the on balance sheet in Q3. As I say, we will give you that number more precisely in Q4, so you'll be able to see what the trend has been over the year.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ Walter Pritchard, Citi.
+--------------------------------------------------------------------------------
+ Walter Pritchard,  Citi - Analyst   [39]
+--------------------------------------------------------------------------------
+ I am wondering if you could maybe just walk us through in terms of the factors that impact your billings next year? I am wondering -- you mentioned the change in Radian6 accounting. If there is anything else that is impacting the revenue number? I know coming into this year you had the EITF issue that was a small drag -- or a small, actually, boost to revenue growth coming into 2012.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [40]
+--------------------------------------------------------------------------------
+ There really isn't anything. Obviously, Radian6 will do the transition this quarter and then they will be on a invoice basis, just like all of our other businesses for next year.
+  EITF has had a relatively small impact this year. It will be for the whole year sort of somewhere around $20 million, I think, across all four quarters. It has increased revenue, but I think next year EITF is pretty neutral. In fact, it might even be a small headwind next year. But there is nothing else that is going to be an unusual adjustment to revenue, either positive or negative, that I am aware of right now.
+--------------------------------------------------------------------------------
+Operator   [41]
+--------------------------------------------------------------------------------
+ Karl Keirstead, BMO Capital Markets.
+--------------------------------------------------------------------------------
+ Karl Keirstead,  BMO Capital Markets - Analyst   [42]
+--------------------------------------------------------------------------------
+ A question for Marc. Marc, on the last earnings call and at Dreamforce you gave us all some very good color around the overall demand backdrop based on your client conversations. Since Dreamforce, obviously, Europe and the banking sector a little weaker. I am just wondering if you could offer some updated color as you -- are you as confident now as you were at Dreamforce? Thank you.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [43]
+--------------------------------------------------------------------------------
+ I would like to do that. I think that maybe it wasn't the last call, but the call before when I was asked to comment on did I think we were going into a recession area environment or that we were going into a recession. And I know at that time a lot of forecasters felt that we were, and I felt that we were not.
+  I still feel that way. I don't feel like we are going into recession. And I will tell you that one of the, I think, bifurcations for salesforce is that the way that businesses are buying may be a little bit different than the way consumers are buying. We are primarily a B2B company, as you know. We are not selling to that consumer. And so I don't think that we have really experienced the same level of fluctuations in market demand that maybe B2C companies have.
+  And as a B2B company we have seen -- I think as you see by these numbers, which are pretty unbelievable, extraordinary performance in the United States, first and foremost. And those numbers have surprised us. It is why revenue guidance has essentially been raised every single quarter of this year. And why we are, I think, ahead of everyone coming into next year is primarily the US.
+  Now, number two, let's not forget Japan, which has not had a great couple of quarters economically since the disaster, but our business in Japan has actually been quite good. Of course, we had an initial dropoff as everybody wasn't sure what was going on in-country, but as things stabilized, we saw an acceleration of demand for cloud-based solutions.
+  Of course, we offered our product for free to anybody affected by the disaster. We have also picked up additional work with the government and with other related companies. I hope that many of you will come to Tokyo, because I think that it is salesforce's second biggest market in the world, and we just added a second session of my keynote there. I think that you are going to find that to be a very robust buying environment and opportunity for salesforce.com on a going forward basis.
+  When we went to Europe, I think that for sure you could see it that people in Europe have not been sure what is going on with them, because the banking crisis. But at the end of the day businesses are buying. And you can see with our delivery of essentially what I would call strong double-digit, mid-double-digit growth year-over-year, as well as the signing of strong deals in the quarter across the Continent -- and I even mentioned one of the deals that happened in Eastern Europe with Kaspersky -- I view the opportunity in Europe as continuing to be a very good opportunity.
+  It has to get characterized against the United States, which is off the hook. When you look at the enterprise software market overall, and Gartner just released all of their numbers for the top -- I don't know 30 or 40 or 50 countries in the world -- I actually have them here. You really have to look to the US, Japan, the UK, France, Germany, Canada and Australia, which has been a very strong grower for us as well, as really the top seven domineering countries for enterprise software. It is where we focused our resources.
+  We have obviously experimented in other regions, including India and other places, but at the end of the day it is those seven countries that have been really awesome for us. And we have really strong -- we remain really strong in the three most important countries in enterprise software, which remain the US, the UK and Japan.
+  So I would consider -- I would continue to say that when you look at the beginning of this calendar year people were very worried about the US. I am sure we all have short memories and forget that. But the US has been a great grower for salesforce and really for others this year.
+  Japan, you could not have expected what had happened. And obviously they have monetary issues that they have to work through in terms of their currency. And Europe, obviously, I think psychologically is affected a lot by the banking crisis, but I see companies growing there. I see them adding.
+  And where we saw -- and the reason that we felt good that we were not in a recessionary environment, and we would call that out, is when we see existing cutting that is -- or existing customers even not adding is really the dominant number that we look at -- we go, is our add-on business flat? When we don't see customers adding that is when we know we are in a recessionary environment, because they're not growing their sales and customer-facing organizations, which is where everybody wants to invest in today's market.
+  From our perspective, existing customers are adding on and we are signing new customers. That is exciting from us. And what we have tried to do in the last six months is redefine what is the customer front office. I don't think other competitors have done that. We have given that a name with the social enterprise. And we have redefined the front office, in many cases the whole company, when you look at Chatter, when you look at the Sales Cloud, the Service Cloud, the platforms. And that continues to be why salesforce is absolutely one of the very fastest growing enterprise software companies in the world and why we continue to see that next year.
+--------------------------------------------------------------------------------
+Operator   [44]
+--------------------------------------------------------------------------------
+ John DiFucci, JPMorgan.
+--------------------------------------------------------------------------------
+ John DiFucci,  JPMorgan - Analyst   [45]
+--------------------------------------------------------------------------------
+ Graham, I would like to circle back to, I think, what is in everybody's mind and why your stock is down after the close here. In the past you have talked to us about how deferred revenue can bounce around some, and it makes sense. And you have also spoken today about -- and reminded us about the recent acquisitions and how the revenue is being recognized up front right now. And you even said that off balance sheet grew faster deferred revenue than on balance sheet.
+  But even two years ago when deferred revenue declined sequentially in the October quarter, Accounts Receivable actually increased, and that is another indicator of business signings, at least, towards the end of the quarter. But this year that actually declined too.
+  So why shouldn't we be a little -- and listen, you are still putting up really good numbers, like for really good growth numbers. But why shouldn't we be a little bit concerned that perhaps we are seeing a little bit of slowing business momentum? And perhaps it is even a macro thing. And I know Marc said we are not in a recession. We are not going to go into one, you don't think we are. But there are signs, and as a result make us -- make it look that way a little bit.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [46]
+--------------------------------------------------------------------------------
+ Well, first of all, I just want to make sure I'm very clear on these new businesses. We are not recognizing any revenue upfront. You used that word recognizing revenue upfront. We don't recognize any revenue upfront. So the newer businesses, like Heroku and Radian6, bill monthly and so therefore if they are billing for a very short time period based on usage typically, my point is simply that those businesses don't affect deferred revenue, not that we recognize revenue upfront, we just simply recognizes it each month when it is billed. So I just want to be clear on that.
+  I think clearly we had a great collections quarter. If you look at our DSOs going from 55 days down to 49 days, that clearly had something to do with the AR balance being what it is. We wanted to make sure that we delivered a strong operating cash flow burn. That is what we did.
+  Like I say, we -- and Marc said earlier -- we don't manage deferred revenue. That is why we have continued to highlight as often as we can that there are these fluctuations from quarter-to-quarter. And we have -- on a constant currency basis, we are talking about a trend that has gone 33%, 33%, 31%.
+  So that is -- and clearly we are looking at a strong fourth quarter from our perspective and a strong year next year. That is how we join the dots.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [47]
+--------------------------------------------------------------------------------
+ And I would add, we don't traditionally manage metrics associated with deferred revenue like invoice timing or invoice duration. Those are not things that we are in there trying to dial up with customers. What we are trying to dial up with customers is getting them on board, closing their deals, getting the contract length correct, getting them implemented, making them successful and looking at the long-term monetary value of these customers over time.
+  And as we broke through more than 100,000 core customers in the last quarter what we really saw was we continue to see very, very strong revenue growth. And we are doing a good job of predicting how our business is performing, and we are going to be able to continue to do that. But we have to be a little bit cautious regards to this concept of quarter-end deferred is still absolutely -- it is a function of invoicing.
+  And is also influenced by other factors that Graham has mentioned, including things like invoice timing, invoice duration, new business linearity within the quarter, annual seasonality, these acquisitions, compounding effects of renewals. And those are things that we as a -- certainly I could speak in terms of a sales organization, we are focused on beating the competition and signing deals.
+  And in terms of those specific metrics that is not where our eyes are. And so you can see variations in deferred revenue over time, which is why at Dreamforce, Graham called that out in the Analyst Day, and he basically said to be aware of those types of fluctuations in the future.
+--------------------------------------------------------------------------------
+ Graham Smith,  salesforce.com, inc. - CFO   [48]
+--------------------------------------------------------------------------------
+ Maybe just to add a couple of more points. Clearly we have talked in the past about roughly two-thirds of our invoicing being on an annual basis and roughly one-quarter of our invoicing being quarterly, and the rest being semiannual and monthly.
+  And I, again on previous calls said that those proportions, which do affect deferred revenue, move around from quarter-to-quarter. But it, frankly, is at a level of noise that it feels weird on a $900 million plus number to be saying -- oh, this quarter we got -- we gained X million from a little movement in this proportion, and the next quarter we have lost a little because of that proportion changing. And so we have tended to just try and sensitize people to the fact that there are these fluctuations and just try and communicate that we are not out there trying to influence them and we roll with them each quarter, rather than trying to get people to wound up in the minutiae of that balance sheet number.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [49]
+--------------------------------------------------------------------------------
+ And at a high level, I just want to come back to what I have said every quarter this year, which is we are focused on topline growth. You can see what we are excited about is we are going to get into that $3 billion revenue run rate next year. And we are looking at how fast can we get to $10 billion in revenue. And we feel absolutely that we're on track for a great year next year. And we are working hard to have a great year every year until we can get that $10 billion number. Because we just see nothing but growth and opportunity for the enterprise. Cloud computing, their need to be moved off of these traditional enterprise software and hardware systems that they have had for a couple of decades.
+  And when you look at the big wins this quarter you see that with Maersk, with Electronic Arts, with Verizon and others, they are all like -- let's get into the cloud. And that is what is exciting to us.
+  And as a proof point to that, you saw it at Dreamforce, the energy and the excitement, the scale. You're going to see that again in New York. You're going to see that again in Tokyo. I think it is important for everybody to come and assess it firsthand, and you're going to continue to seek a great performance at salesforce.
+--------------------------------------------------------------------------------
+ David Havlek,  salesforce.com, inc. - VP of IR   [50]
+--------------------------------------------------------------------------------
+ We only have time for a couple more questions.
+--------------------------------------------------------------------------------
+Operator   [51]
+--------------------------------------------------------------------------------
+ Steve Ashley, Robert W. Baird.
+--------------------------------------------------------------------------------
+ Steve Ashley,  Robert W. Baird - Analyst   [52]
+--------------------------------------------------------------------------------
+ I was just going to ask about Model Metrics, and what your thinking is around the game plan there. Obviously, they have been very differentiated in a very strong mobile offering, very strong social offering. Is that something where you bring it in-house, create best practices around it, try to roll it back out to other partners, get them to adopt it?
+  They were also unique in creating this new professional design capability that I think is getting some traction. I am wondering if is that something you try to keep centralized or is that something you also urge your partners to adopt? And just wondering how you are thinking about that.
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [53]
+--------------------------------------------------------------------------------
+ This is absolutely related back to really Laura's question, which I thought was right on, and others around the momentum of the social enterprise. And as the social enterprise has gotten more and more momentum this year what we have seen is a gap in our ability to rapidly deploy to our customers certain key aspects regarding the strategic services around the social enterprise. And that gap, obviously has been picked up by some of our partners like Accenture, like Deloitte, like Capgemini. But one of the partners that we saw do an outstanding job in a very strategic area, which is mobile applications and in social networks is Model Metrics.
+  We specifically saw that when we signed Toyota -- what we saw the ability was -- how do we rapidly start to build and deploy an application for them. And many of our partners were not able to deliver on the mobility piece. We saw Model be able to jump in. We have seen that with other customers. And we said strategically this is a core part of the services we want to be in.
+  As you know, a very small percentage of salesforce's total revenue is services. It is not part of our strategy. It is not what we talk about on the call. In fact, we really didn't talk about professional services or consulting at all on this call. We are all about the delivery of more and more customers and more licenses. And when we want to steal an organization we don't want to scale [closer], we want to scale our distribution organization, that that is our strategy.
+  That said, in this one area, strategic services, we want more competency, and we made a strategic decision to do something that we have not had the need to do before, which is to pick up a relatively small professional services organization that is an expert in both mobile and cloud, Model Metrics based in Chicago. And that is a deal that we announced, and I think it makes us a much stronger organization in being able to close and accelerate the social enterprise transactions.
+--------------------------------------------------------------------------------
+ David Havlek,  salesforce.com, inc. - VP of IR   [54]
+--------------------------------------------------------------------------------
+ All right, operator, we have time for one last question.
+--------------------------------------------------------------------------------
+Operator   [55]
+--------------------------------------------------------------------------------
+ Rick Sherlund, Nomura Securities.
+--------------------------------------------------------------------------------
+ Rick Sherlund,  Nomura Securities - Analyst   [56]
+--------------------------------------------------------------------------------
+ Marc, I wanted to go back to a couple of the earlier questions on the social enterprise. I am curious if you are seeing an increase in the sales cycles, either associated with the time that is being spent by the salesforce evangelizing as opposed to closing maybe revenues?
+  Is the sales cycle lengthening? I know you have got big customers, does that take longer to sell? Is there anything in the dynamics of what is being sold or the size customer that would affect near-term billings?
+--------------------------------------------------------------------------------
+ Marc Benioff,  salesforce.com, inc. - Chairman and CEO   [57]
+--------------------------------------------------------------------------------
+ We really haven't -- we have seen a lot of transactions close (technical difficulty). In this quarter, we have seen transactions close in this quarter that get paid out for us in quarters to come. I'm not going to go into that detail, but it has been very exciting for us to see customers make these very big commitments to us over time.
+  And the social enterprise has provided a very, very high level of differentiation. I think when customers go through a demonstration of our technology, as I'm sure you have done, and you will see again in New York and Tokyo, it is highly differentiated against the competition. And customers can start where they are. Social enterprise is not something that anybody buys. It is not a product. It is not on our price list.
+  Of course, we have a social enterprise license agreement where they can buy an ELA, where they can take all of our products down. But the reality is most customers come in with a specific business need that we are looking to fill, and then give them a vision in their mind of where they can go beyond that. And that remains our core strategy.
+  When I work with customers and I help them to define what is their social enterprise for the future, I think a lot about where is their employee social network today? Where is their customer social network today? Where is their product social network, and how can we elevate their consciousness about the ability to deploy more of that?
+  And I think one of the most exciting things in the release of our technology that we just put out is that now inside Chatter is salesforce's customer groups. So you can create a group not only of employees, but you can now create a group and you can bring in (technical difficulty) customers, and that could provide an exponential effect on Chatter. So every Chatter user can go out and create a group and then bring outside customers into that group to collaborate and create a portal and share information within that group. We have just never seem technology like that.
+  Salesforce's technology has primarily been myopic. It has been within the enterprise. Maybe we had a portal for your customers. Now we are including the customer into that. That is an exciting next step in enterprise software. I think it is an accelerator for customers on the social enterprise. And we continue to see strong deal flow. And we have continued to see all of our sales cycles to be highly normalized in terms of their close rates.
+--------------------------------------------------------------------------------
+ David Havlek,  salesforce.com, inc. - VP of IR   [58]
+--------------------------------------------------------------------------------
+ All right, great. I want to thank everyone for joining us today. And I want to encourage everyone to join us for Cloudforce New York on the 30th, or we will be in Tokyo, as Marc said, later in the month of December. There is really no better way to learn about the social enterprise or services or building ecosystem than to mix with our customers and our partners.
+  To register you can go to our main site and click on the Events tab or you can contact Investor Relations. We look forward to seeing all of you at one of our events. Thanks again for joining us today, and we will talk soon. Bye-bye now.
+--------------------------------------------------------------------------------
+Operator   [59]
+--------------------------------------------------------------------------------
+ Ladies and gentlemen, thank you for your participation in today's salesforce.com Q3 fiscal results conference call. You may now disconnect.
+ 
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q3 2012 Salesforce.com Inc Earnings Conference Call]]></eventTitle>
+  <city>SAN FRANCISCO</city>
+  <companyName>Salesforce.Com Inc</companyName>
+  <companyTicker>CRM</companyTicker>
+  <startDate>17-Nov-11 10:00pm GMT</startDate>
+  <companyId>141811</companyId>
+  <CUSIP>79466L302</CUSIP>
+  <SEDOL>2310525</SEDOL>
+  <ISIN>US79466L3024</ISIN>
+</Event>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="4929443" lastUpdate="Friday, November 16, 2012 at 7:06:26am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="4929443.F" expirationDate="Thursday, November 15, 2012 at 9:45:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of MRVL earnings conference call or presentation 15-Nov-12 9:45pm GMT]]></Headline>
+    <Body><![CDATA[Q3 2013 Marvell Technology Group Ltd. Earnings Conference Call
+
+HAMILTON Nov 16, 2012 (Thomson StreetEvents) -- Edited Transcript of Marvell Technology Group Ltd earnings conference call or presentation Thursday, November 15, 2012 at 9:45:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Sukhi Nagesh
+      Marvell Technology Group Ltd - VP of IR
+   *  Sehat Sutardja
+      Marvell Technology Group Ltd - Chairman and CEO
+   *  Brad Feller
+      Marvell Technology Group Ltd - Corporate Controller and Interim CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Harlan Sur
+      Morgan Stanley - Analyst
+   *  Glen Yeung
+      Citigroup - Analyst
+   *  Srini Pajjuri
+      Credit Agricole Securities - Analyst
+   *  John Pitzer
+      Credit Suisse - Analyst
+   *  Quinn Bolton
+      Needham &amp; Company - Analyst
+   *  Arnab Chanda
+      Avian Securities - Analyst
+   *  Craig Ellis
+      Caris &amp; Company - Analyst
+   *  Romit Shah
+      Nomura - Analyst
+   *  Blayne Curtis
+      Barclays Capital - Analyst
+   *  Doug Freedman
+      RBC Capital Markets - Analyst
+   *  Mark Lipacis
+      Jefferies &amp; Company - Analyst
+   *  Aalok Shah
+      D.A. Davidson &amp; Co. - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day ladies and gentlemen, and welcome to the third quarter 2013 Marvell Technology Group earnings conference call. My name is Keith and I'll be your operator for today. At this time, all participants are in a listen-only mode. Later on we will conduct a question-and-answer session.
+ (Operator Instructions)
+ As a reminder, today's conference is being recorded for replay purposes. And with that, I'd now like to turn the conference over to your host for today, Mr. Sukhi Nagesh, VP of Investor Relations. Please go ahead, sir.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [2]
+--------------------------------------------------------------------------------
+ Thank you Keith, and good afternoon everyone. Welcome to Marvell Technology Group's third quarter fiscal 2013 earnings call. I'm Sukhi Nagesh, Vice President of Investor Relations, and with me on the call today are Sehat Sutardja, Marvell's Chairman and CEO; and Brad Feller, Marvell's Corporate Controller and Interim CFO. We will all be available during the Q&amp;A portion of the call today. If you have not obtained a copy of our current press release, it can be found at our Company website under the Investor Relations section at marvell.com. We will also be posting a slide deck summarizing our quarterly results in the IR Section of our website for investors. Additionally, this call is being recorded and will be available for replay from our website.
+ Please be reminded that today's discussion will include forward-looking statements that involve risks and uncertainties that could cause our results to differ materially from management's current expectations. The risks and uncertainties include our expectations about our product and market strategy, statements about our market acceptance of our products, statements about general trends in the end markets we serve, and future growth opportunities, statements about market share, and statements regarding our financial outlook for the fourth quarter of fiscal 2013. To fully understand the risks and uncertainties that may cause results to differ from our expectations and outlook, please refer to today's earnings release, our latest quarterly report on Form 10-Q, and subsequent SEC filings for a detailed description of our business and associated risks.
+ Please be reminded that all of our statements are made as of today, and Marvell undertakes no obligation to revise or update publicly any forward-looking statements. During our call today, we will make reference to certain non-GAAP financial measures, which exclude the effect of stock-based compensation, amortization of acquired intangible assets, acquisition related costs, restructuring costs, and certain one-time expenses and benefits that are driven primarily by discrete events that management does not consider to be directly related to our core operating performance. Pursuant to regulation G, we are providing reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures in our third fiscal quarter 2013 earnings press release, which has been furnished to the SEC on our Form 8-K, and also is available on our website in the Investor Relations Section. With that, I would now like to call over to Sehat.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [3]
+--------------------------------------------------------------------------------
+ Thanks Sukhi, and good afternoon everyone. Today we reported that third quarter revenues of approximately $781 million, reflecting a decrease of 4% sequentially. This was in line with our revised outlook provided in mid-October, with the softer revenue mainly due to the lower HDD demand. We continue to be profitable with third quarter non-GAAP gross margin of 52.3%, operating margin of 14%, and earnings per share of $0.20. We also continue to return cash to our shareholders as we repurchased about $203 million of -- or roughly 23 million shares, and paid $33 million in dividends during the quarter.
+ Typically at this point, I'll provide some financial information for each of our end markets. However, we have now made some changes and we'll post the comprehensive slide deck on our website that provides both our results and outlook. I will instead focus my commentary on our end market and product strategies. We believe this format will be more beneficial, and especially given the near-term revenue headwinds. Brad with then provide financial color on our end markets after my prepared remarks.
+ First, I want to reiterate that Marvell has always been and will always be a technology-driven company, focusing on large growth markets. In the decade following the inception of the Company, Marvell targeted two of the largest growth opportunities at the time, namely storage and networking. Our relentless focus on advanced technologies has directly translated to our current number one position in storage and number two position in networking. Today, it is clear that the biggest volume and growth opportunity is the mobile and wireless end markets. To give some perspective, the dollar opportunity for semiconductors in the mobile market is at least an order of magnitude bigger than, say, the storage market, due to a combination of significantly larger volumes and higher silicon content per unit. This is the reason why we have invested significantly over the last few years in mobile and wireless, and our goal is to become a top player in this market.
+ While we acknowledge the short-term headwinds, we are currently going through a product transition in our mobile business. Over the last year, we have refined our mobile strategy, leveraging some of the lessons we have learned from our success in storage. We are focusing our investments and realigning our resources based on our underlying strategy of a unified platform in order to be competitive and drive revenue growth. For example, last quarter we announced our first generation unified platform that addresses both the TDSCDMA and WCDMA markets. This platform is being well-received in the market, and in a very short time we already have three top handset OEMs designing both for the TD and WCCDMA smartphones. This customer engagements have led to multiple WCDMA handsets being designed for deployment in the early part of calendar 2013.
+ Our unified platform strategy is also allowing us to effectively target the growing significance of the white box market. White box makers in Asia today manufacture roughly 30% of the global handsets, and are increasing their global footprint in smartphones. Part of our investment in mobile is to provide complete turnkey solutions that are needed for this white box market. In total, we already have about 12 customers using our new platform, and expect to deliver approximately 20 smartphone devices for carrier certification by the end of Q4. After that, we expect initial revenues starting in Q1 over the next fiscal year. Our team is excited about the strong [flexion] of new platform, and we are making excellent progress to achieve our self-imposed goal of getting 10% of the global WCDMA smartphone market exiting calendar 2013.
+ As you know, the world is rapidly adopting 4G LTE technology, and we recognized this trend early and introduced our 4G LTE modem technology last year. We are also now integrating this LTE modem into our unified platform in order to accelerate the adoptions of LTE to the mass market. Now our 4G devices will be pin-to-pin compatible with our current devices. We expect to sample these 4G devices in late Q1 to customers who are currently working on our 3G devices. The ease of transitioning to a 4G using our unified platform is yet another reason why customers are choosing to work with Marvell's 3G platform today. In summary for mobile, we are confident in our strategy, and look forward to sharing with you further progress in future quarters.
+ Moving next to wireless connectivities, our vision here is to bring to market higher performance integrated solutions at lower cost and lower power consumption, compared to competitive solutions. Historically we focused on providing integrated one-by-one commerce solutions for the mobile market, which demands the lowest power consumption. We also provided high performance four-by-four solutions for the enterprise market, which demands the highest possible throughput. In addition to our continued strong presence in the one-by-one and four-by-four markets, we are now expanding our footprint by offering integrated two-by-two combo solutions for the mobile applications.
+ These two-by-two solutions have advanced beam forming technology that provides increased (inaudible) and throughput but with similar power consumption as our existing one-by-one solutions. We believe there is a significant opportunity for our two-by-two combo devices, especially in the tablet and ultrabook markets. For example, we are excited that our two-by-two solution is currently being used in the recently launched Tablet PC product using this device. We also are going to see additional products using this device in the near term. In addition, we have a strong roadmap and are already sampling the next generation two-by-two low power 11 AC combo devices into customers for mobile applications.
+ Next in storage, most of you know we are by far the market leader today. Our market share is increasing, and Brad will provide details on our market gains later. We have always operated under the assumption that the demand for storage continues to rise, whether in consumer devices or in the cloud. We also know that the forms of storage technologies will also continue to evolve. Consequently, Marvell continues to invest in storage, and we are at a forefront of bringing to market new advanced storage technologies. These new technologies span the entire HDD, traditional HDD, the new SSD technology, and as well as the emerging hybrid markets, and effectively address the evolving demands of our customers.
+ For example, in the PC space, many OEMs are introducing ultrabooks that use either our SSD for high performance or hybrid technologies for high capacity, high performance, and low cost. In summary, for storage our continued investment resulting in HDD share gain and growth in both the SSD and hybrid markets. Turning next to networking, we are doing quite well in this market, and see additional opportunities for growth over the next few years as networks evolve. We have a strong and broad product portfolio in networking, and I will highlight a few of these. Today it is well-known that network traffic is growing rapidly due to increasing data and content demand from devices such as smartphones, and soon from smart TVs. For example, the average monthly traffic usage nearly triple in 2011.
+ As these devices become increasingly more sophisticated, especially with LTE, demands on the network bandwidth can only continue to rise. This trend is requiring network providers to find advanced solutions to maintain the cost and security of their networks, while still providing the same quality of service for consumers. We are currently a top provider of solutions for networking customers with the highest performance switching and physical layer device. Moving forward, our next generation switching products will include networking processing capabilities from our accelerated product family to effectively address the increasing requirements from our customers such as traffic management and software configurability.
+ (Inaudible) traditional networking market, we have expanded into the infrastructure access market with our PON and network processor product lines. The infrastructure access market is transitioning from copper-based technologies, such as DSL to fiber optics-based technologies, and we are seeing strong traction in this area. Over the next few years, we believe the worldwide broadband subscriber growth will be driven predominantly using PON, and Marvell is the key enabler of this technology. In addition, for mobile infrastructure, our accelerated programmable processor products are getting strong traction in the rapidly growing mobile backhaul equipment market. We are also expanding into the data centers that power the public cloud today.
+ The data center market is a large one, and is dominated by PC-centric architectures today. We're seeing a growing opportunity to address this market with solutions that are based on low power architectures. As a result of Marvell's long-term investments in ARM-based solutions, we believe we are well-positioned with a broad range of products for this market. In summary, the demand in Q3 was weaker than originally anticipated, but despite the near-term demand softness, I want to assure you that we will continue to focus on our underlying strategy for growth. We are making refinements to introduce more platform-centric, and even more highly integrated products.
+ In addition, we remain committed to returning cash to shareholders through our buyback and dividend programs. Also, as it relates to the recent destination of our CFO, I want to assure you that Marvell has worked hard on developing and fostering a strong and professional financial finance team. Brad Feller, Marvell's Corporate Controller, will serve as our Interim CFO, and the Company has started a search for a permanent replacement. With that, I would now like to turn the call over to Brad to go over our third quarter financial results and fourth quarter outlook.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [4]
+--------------------------------------------------------------------------------
+ Thank you, Sehat. Good afternoon, everyone. As Sehat mentioned, we reported revenues for the third quarter of fiscal 2013 of $781 million representing a 4% sequential decrease. The shortfall in Q3 from our initial expectations was mostly due to reduced demand from our HDD customers and slightly lower demand in wireless connectivity for the gaming market. In storage, our overall revenues declined 3% sequentially, and represented approximately 47% of total sales. Despite a 10% decline in the HD TAM in Q3, our HDD revenue declined by only 5% sequentially. Continued share gains for our 500 gigabytes per platter technology drove our relative outperformance in HDDs during Q3.
+ In addition, consistent with our expectations going into the quarter, our SSD revenue increased over 25% sequentially on the strength of new customer ramps. In networking, our revenue was down 1% sequentially, and represented approximately 23% of total sales. We had double-digit growth in enterprise switches, offset by an inventory correction at infrastructure-related customers. Our mobile and wireless end market declined 10% sequentially, and represented approximately 25% of overall sales. As Sehat mentioned earlier, in wireless connectivity, we saw an exciting new tablet PC device introduced into the market, incorporating our two-by-two MIMO solution.
+ Growth related to the launch of this new product was offset by lower than anticipated demand for our gaming solutions and an inventory correction for enterprise access points. Although our mobile business declined sequentially as expected, we are gaining good traction for our solutions, based on our new unified platform. We expect to start to see revenues in this area in the first half of next year. Our non-GAAP gross margin for the third quarter was 52.3%, which was below our initial projections, mainly due to the shortfall in revenue and mix of products sold.
+ Overall operating expenses for the third quarter on a non-GAAP basis were $297 million, slightly below our initial projections, due to continued focus on cost controls. Non-GAAP R&amp;D expenses for the quarter were $241 million, and SG&amp;A expenses were $57 million. This resulted in non-GAAP operating margin of 14% for the quarter. Net interest and other income was $2 million, and our tax expense for the quarter was $400,000. This resulted in non-GAAP net income for the third quarter of $113 million, or $0.20 per diluted share. The shares used to compute diluted non-GAAP EPS during the third quarter were 578 million, as compared to 587 million reported in the prior quarter.
+ Cash flow from operations for the third quarter was $137 million, as compared to $189 million reported in the prior quarter, and free cash flow for the third quarter was $113 million, compared to $174 million. Let me now summarize our results on a GAAP basis. We generated GAAP net income of $69 million or $0.12 per diluted share in the third quarter, compared to $93 million or $0.16 per diluted share in the prior quarter. The difference between our GAAP and non-GAAP results during the third quarter was mainly due to stock-based compensation expense of $30 million or about $0.05 per share and about $14 million or about $0.03 per share related to amortization of intangible assets and acquisition-related costs.
+ Now turning to the balance sheet, cash, cash equivalents and short-term investments were $2 billion, a decrease of $117 million sequentially. During the third quarter, we repurchased about 23 million shares for approximately $203 million. Over the past nine quarters, we have repurchased and retired 150 million shares or about 22% of our outstanding shares. We also paid dividends of $33 million in the quarter, or equivalent to $0.06 per share. We expect to pay our next quarterly dividend of $0.06 per share on December 21 to all shareholders of record as of December 13. Accounts receivable was $375 million, down $16 million sequentially. DSO remained flat at 45 days. Net inventory at the end of the third quarter was approximately $324 million, down 6% from the prior quarter.
+ Days of inventory were 81 days, down from the 83 days reported in the prior quarter. Accounts payable was $291 million, a decrease of $44 million from the prior quarter. Moving next to our outlook for the fourth quarter of fiscal 2013, we currently project fourth quarter revenues to be in the range of $700 million to $740 million. At the midpoint of this range, this represents a decline of 8% sequentially. By end market, we expect mobile and wireless to decreased approximately 30%, due to seasonality for our connectivity products and continued weakness in demand and product transitions at smartphone customers. We expect our networking end market to go low single digits in Q4 as our switching business continues to grow. Finally, we expect our storage end market to be roughly flat overall, and expect our SSD business to perform relatively better than competition.
+ We currently project non-GAAP gross margin to improve to 53%, plus or minus 50 basis points, and currently anticipate non-GAAP operating expenses to be approximately $310 million, plus or minus $5 million. Please note our fourth quarter has an extra week based on our fiscal calendar, which would normally drive a 7% increase in operating expenses; however, due to expense control put in place, we currently anticipate only a 4% increase. We anticipate R&amp;D expenses of approximately $248 million, and SG&amp;A expenses of approximately $62 million. At the midpoint of our projected guidance, this should translate to a non-GAAP operating margin of approximately 10%, plus or minus 1%.
+ The combination of interest and other income should net out to approximately a $2 million benefit. Non-GAAP tax expense should be approximately $2 million. We currently expect the diluted share count to declined to approximately 560 million shares, as we get the full benefit of the 23 million shares repurchased in Q3. This share count does not reflect any share repurchases we may undertake during the current quarter. Taken together, we currently project non-GAAP EPS to be about $0.13 per diluted share, plus or minus a couple of pennies. On the balance sheet, we currently expect to generate about $60 million in free cash flow during the quarter. We anticipate our cash balance to be about $2.1 billion, excluding any M&amp;A activity, continued share buyback, or other one-time items. We currently expect our GAAP EPS to be lower than our non-GAAP EPS by about $0.08 per share. About $0.06 of this is related to stock-based compensation expense.
+ With that, I'd like to turn the call over to the operator to begin the Q&amp;A portion of the call. Keith?
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Yes, sir.
+ (Operator Instructions)
+ Please limit yourself to one question and one follow-up.
+ (Operator Instructions)
+ Harlan Sur, JPMorgan.
+--------------------------------------------------------------------------------
+ Harlan Sur,  Morgan Stanley - Analyst   [2]
+--------------------------------------------------------------------------------
+ On your mobile and wireless segment Sehat, you talked about your unified platform and some of the early design wins and it sounds like first revenues at the beginning of next year. Your embedded connectivity seems to be doing well as well. I know visibility is limited for the team in this environment, but can you just give us a sense of when you expect revenues in your total mobile and wireless segments to start to inflect higher and grow sustainably as your strategy starts to kind of come together?
+ Is it Q2 of next year? Is it second half of next year? Does the team need to wait until calendar 2014? Any color here would be helpful.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [3]
+--------------------------------------------------------------------------------
+ Yes. I will expect to see revenue to start moving up in the first half of next year. And as I said earlier, that we are putting self-imposed target on ourself that by the end of fiscal -- I mean, not fiscal, calendar 2013, our target is to achieve 10% of that WCDMA markets. So to achieve that, okay, that would be like a significant milestone for the Company.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [4]
+--------------------------------------------------------------------------------
+ Sehat, just on that point, we're not predicting any particular quarter, but like you said I think we can start to see revenue inflation in the first half.
+--------------------------------------------------------------------------------
+ Harlan Sur,  Morgan Stanley - Analyst   [5]
+--------------------------------------------------------------------------------
+ Okay. Got it.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [6]
+--------------------------------------------------------------------------------
+ End of first quarter or early second quarter. Hard to predict at this point.
+--------------------------------------------------------------------------------
+ Harlan Sur,  Morgan Stanley - Analyst   [7]
+--------------------------------------------------------------------------------
+ Yes, makes sense. Okay, and then obviously the team has been aggressive with the stock buyback plan up to this point. I think exiting Q3, you've still got about $400 million left on the repurchase plan.
+ I know there's been some concern that the team may pull back on the buyback until either a new CFO is found, or pullback just given the tough macro environment. I guess the question is, is the team going to continue to be aggressive on the buyback near-term, or with the stock at current levels. And is the team thinking about more aggressive ways to return cash to shareholders? Thank you.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [8]
+--------------------------------------------------------------------------------
+ Yes. So, Harlan, we are absolutely committed to continuing the buyback at the current levels, and potentially higher, right? We think the stock is at a very low point right now, and we will be very aggressive in that respect.
+--------------------------------------------------------------------------------
+ Harlan Sur,  Morgan Stanley - Analyst   [9]
+--------------------------------------------------------------------------------
+ Great. Thanks.
+--------------------------------------------------------------------------------
+Operator   [10]
+--------------------------------------------------------------------------------
+ Glen Yeung, Citigroup.
+--------------------------------------------------------------------------------
+ Glen Yeung,  Citigroup - Analyst   [11]
+--------------------------------------------------------------------------------
+ My questions are largely around margins. I guess the first one is gross margins now down, I think, eight quarters in a row. And I recognize that you're guiding up for the out quarter, but just your sense on how you're going to kind of stem the flow with the gross margin decline, and what you think the new targets for gross margin might be?
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [12]
+--------------------------------------------------------------------------------
+ Yes. So I think we've had a good track record in gross margins. As you pointed out, it has declined a bit in the last several quarters. But we will maintain gross margins from a long-term perspective in the 50% to 55% range.
+ Obviously as we become more and more successful in the mobile and consumer areas of the business, it may drift towards the low end of that range, but we are very committed to that range. And we're focused on bringing in the revenues to drive operating margin growth at the end of the day.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [13]
+--------------------------------------------------------------------------------
+ Glen, if you look at the history of the Company, there's been maybe a few pockets where we've actually dropped below 50%. I don't think we're ever going to get there. So our overall target range should be between 50% and 55%.
+ As Brad mentioned our target operating margin goals are 20% or better. And so our goal really is to drive top line growth and operating margin leverage.
+--------------------------------------------------------------------------------
+ Glen Yeung,  Citigroup - Analyst   [14]
+--------------------------------------------------------------------------------
+ Actually, just on that note then, over that same time that gross margins have slid, R&amp;D has gone from 23% of sales to 34%. And it sounds like you still want to be aggressive in the overall handset market.
+ I wonder where we are, I guess, on two fronts. One, just on the absolute level of R&amp;D, again you're guiding down for the quarter, but you're guiding from fourth highest level of R&amp;D in the last eight years. So where are we sort of in that overall trend for R&amp;D? Specifically in mobile and wireless, are we kind through the hump there in spending, or is there still more in front of us?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [15]
+--------------------------------------------------------------------------------
+ The reason the R&amp;D has to go up, like over the last couple of years is because the investment of going into the mobile and wireless is fundamentally significantly higher than any other businesses that we ever get into. So this is the main reason now. The fact that okay, we have short-term headwind did not help that percentage. It was not because of, what I'm sure -- I believe it is a short-term issue that we are facing. The percentage is still a very reasonable percentage.
+ Now, secondarily, we also need to invest in other areas. I have mentioned, we've been aggressive in investing SSD and hybrid technology for storage, because we do believe the market for storage will continue to grow. And as a leader in this business we must invest in technology to drive our future growth, but that's a small secondary part. Now, having said that, like we are committed to -- okay, now we have invested quite a bit, okay, in those areas. We are committed to maintain our expenses for next year overall.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [16]
+--------------------------------------------------------------------------------
+ Yes. So we'll manage the overall number, make sure that it is flat for the year. Investing in some new things and keeping tight controls on some of the discretionary areas.
+--------------------------------------------------------------------------------
+ Glen Yeung,  Citigroup - Analyst   [17]
+--------------------------------------------------------------------------------
+ Great. Thanks a lot.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [18]
+--------------------------------------------------------------------------------
+ Does that answer your question?
+--------------------------------------------------------------------------------
+ Glen Yeung,  Citigroup - Analyst   [19]
+--------------------------------------------------------------------------------
+ Yes. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [20]
+--------------------------------------------------------------------------------
+ Srini Pajjuri, CLSA Securities.
+--------------------------------------------------------------------------------
+ Srini Pajjuri,  Credit Agricole Securities - Analyst   [21]
+--------------------------------------------------------------------------------
+ I have a short-term question and a longer-term question. Looking out to the next quarter, you're guiding your wireless to be down about 30%. I'm just wondering, is it all related to the Wi-Fi business being weak? And also if you could give a bit more color on what's happening on the mobile side, and what is TD doing, and what is WCDMA doing?
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [22]
+--------------------------------------------------------------------------------
+ Yes. If you look at the overall number, it's roughly half wireless connectivity, half mobile. We've talked about the market transitions that we're experiencing in the TD-SCDMA market. Those continue, those have played out as we expected. As Sehat mentioned, we're starting to get good traction with the new platform that includes TD and WDCMA,
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [23]
+--------------------------------------------------------------------------------
+ So Srini, just a little bit of follow-up there, right. If you look at traditionally our connectivity, at least in the gaming platform side, usually drops off in excess of 50% in the fourth quarter sequentially, and if you go back a few years, that's typically the norm. We're not seeing anything untoward, at least in the connectivity side this year around. And that's maybe a little bit more compounded this year by the product transitions we're having on the mobile side.
+--------------------------------------------------------------------------------
+ Srini Pajjuri,  Credit Agricole Securities - Analyst   [24]
+--------------------------------------------------------------------------------
+ Okay, fair enough. And then Sehat, you're setting a pretty aggressive target for the WDCMA market share, and this is not a new market for you. Obviously you've been in this market for several years. And I'm just curious as to what gives you that confidence that you'll be able to achieve the 10% market share in 2013, which you didn't achieve in the past.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [25]
+--------------------------------------------------------------------------------
+ Well, yes. I did mention in the past like the last call, that one was a mistake that we made in the past was that we have two platforms. We have one platform for WDCMA and we have another platform for TD-SCDMA. That created a destructions in our team, and as far as our customers in terms of, okay, building handsets for both the TD-SCDMA and WCDMA.
+ We corrected that mistake with a single platforms. Now with this single platforms, okay, our customers will be able to build the handset with TD or WCDMA or vice-a-versa, whichever. They can start with TD first and they can go WCDMA with a very minor efforts. So this is the reason why, okay, we feel very, very comfortable and very -- we are optimistics on our prospect in WCDMA, because now we have a lot more customers to work with on the WCDMA side.
+ Now, on the technology side, that's on the business side, on the technology side, our WCDMA was proven for years, but those were mainly for the older platform. Now we just, okay --so we're putting the proven modem technology into the TD platforms to simplify, to ease the transition for our customers to switch their business, to do business in WCDMA, to us.
+--------------------------------------------------------------------------------
+ Srini Pajjuri,  Credit Agricole Securities - Analyst   [26]
+--------------------------------------------------------------------------------
+ And if I could follow-up on that, and as we look out to the next few quarters, are you basically counting on the white box market to drive your market shares? Are you going to be a tier one customers? And also how should we think about the margins as again sharing wireless in terms of both gross margin as well as operating expenses? Thank you.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [27]
+--------------------------------------------------------------------------------
+ Yes. So we targeted both. We are targeting both the OEMs and the white box market. The white box market is becoming increasingly important to address as effectively asking for the white box market.
+ As you know, okay, they are representative 30% and maybe more next year of the cell phone volumes. So the single platform will allow us also to focus on one software delivery, one turnkey delivery solution to do the white box makers. While at the same time be able to serve the traditionals OEMs that wants to write their own applications, and by the way, most of the OEMs I'll say will still use the same product effects from us as well.
+ So from the expenses, the second question on expenses, by going to the single platform, we actually now we should be able to maintain our expense, okay? It will not be otherwise, okay, if we have decided to go to stay with the two platforms that we used to have. So this will be good, okay, for us moving forward.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [28]
+--------------------------------------------------------------------------------
+ Thanks, Srini.
+--------------------------------------------------------------------------------
+Operator   [29]
+--------------------------------------------------------------------------------
+ John Pitzer, Credit Suisse.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [30]
+--------------------------------------------------------------------------------
+ I guess quickly, guys, when you look at the guidance for storage in the January quarter, can you help me understand kind of your view of the world, what's the TAM assumption there? Is there still market share gains to be had in the January quarter? I guess if you could help me quantify what SSDs are now as a percent of that business, and do you expect that to stay on a growth path in January?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [31]
+--------------------------------------------------------------------------------
+ Sure, John. Yes, our assumption for storage lease is predicated on a flat HD tablet, most of our customers have indicated, right? But we also said, I think if you listen to what many of our ACV customers have talked about on their calls, they've talked about inventory on their books going up and inventory at their end customers being high as well. So there is some aspect of inventory reduction, I think, on the drive side in the current quarter. So it's going to be, from our perspective we said our storage business would be flat to down slightly. HDs, at least would be flat or down slightly.
+ On SSDs, I think we mentioned, Brad mentioned here, shortly that we should do better than the competition. You know what the competition did last quarter. So I think we're seeing some of our customers in that space actually taking some share.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [32]
+--------------------------------------------------------------------------------
+ Then on the SSD front?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [33]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [34]
+--------------------------------------------------------------------------------
+ That was the SSD comment.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [35]
+--------------------------------------------------------------------------------
+ Sorry, I apologize. Then guys, as a follow-up, then on the networking side, you commented in the October quarter you saw an inventory adjustment with some of your infrastructure players. A little bit more detail there, and in general, networking's been a good relative story for you guys, but it hasn't necessarily been the growth engine for you, or quite frankly, many chip companies in a while. I'm just kind of curious, Sehat, as you think about calendar year 2013 and beyond, what kind of growth do you expect out of this business, and what are the bottoms up drivers?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [36]
+--------------------------------------------------------------------------------
+ Yes. In the prepared comments, okay, we made -- we see the growth opportunities will be building out -- the build-out of the networks to serve the smartphone users and also as LTE being served, deployed, the networks has to be build out as well. So in those areas, okay, some of the important technologies, then, we need to provide device, okay, like tablet processors for the base stations, as well as the switches, again for the infrastructures. So I will guess, okay, the business probably can grow around 8%, maybe 10% over the next year.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [37]
+--------------------------------------------------------------------------------
+ And then just the infrastructure inventory correction in the October quarter, any more color you can give us on that?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [38]
+--------------------------------------------------------------------------------
+ Sure. I think we have a couple of different project areas in the infrastructure side, John. I think you probably know we have a very nice and growing network processor business that targets a certain aspect of the access market.
+ We also have a very solid PON business. We've seen very strong traction in PON over the last five quarters in a row. So there's a little bit of pause, I think we saw in the last quarter, but we're seeing a resumption of growth this quarter.
+--------------------------------------------------------------------------------
+ John Pitzer,  Credit Suisse - Analyst   [39]
+--------------------------------------------------------------------------------
+ Great. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [40]
+--------------------------------------------------------------------------------
+ Quinn Bolton, Needham and Company.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [41]
+--------------------------------------------------------------------------------
+ Just wanted to follow up on John's question, just really looking at the growth drivers as we look into calendar 2013. You went over a number of potential opportunities, the unified platform, the SSDs, the hybrid drives, the opportunity to get ARM processors into some of infrastructure and networking clients. But, I mean, if you look at fiscal 2014 or calendar 2013, can you rank order the top two or three growth drivers you see for next year?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [42]
+--------------------------------------------------------------------------------
+ Yes. For us, definitely it will be for the mobile and wireless, especially toward the second half of the year. This is by far, okay, mobile and wireless are by far the large market opportunity for anyone to address. So, okay, as the concern, okay, that people have about us is because of these short-term temporary headwinds that we are facing, okay, this last quarter and this quarter. So we hope to get those things will pass by us and not just, okay, we're confident this will pass by us because of our tractions in our platform strategy.
+ Now, the second growth opportunity is really is the SSDs. SSD, okay, we've been investing this for a long time. And finally, finally people, the price of the SSDs are getting to be more reasonable. They are not cheap yet, but they're getting to be more reasonable, that as a result of this, okay, we're seeing more and more people are willing to use SSD for tablets or ultrabooks, they're in a price range that they're below, even below like $800 or so.
+ So we are seeing, okay, that there is a growth opportunity. And as the price continue to drops, I mean, when I say price, I mean as the price of the flash storage technology continue to drop, even bigger markets opportunity for growth would be the hybrid HDD/SSD, where we believe that probably in about exiting maybe 2014 or so, calendar 2014, we do believe it could be at least maybe 50% of the ultrabooks, okay, will have native HDD hybrid technology.
+ They're basically providing the performance of SSD at the price of HDD, plus maybe let's say $8 or so of delta differential. And that will drive the growth significantly in that market.
+ And then for the, okay, like the third market of growth is, as we mentioned earlier, is the networking. I mean, in the areas of like PON and network processors, okay, we believe those are the area of growth opportunity and higher performance switching technology, especially the switching technology they would incorporate network processors down the road.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [43]
+--------------------------------------------------------------------------------
+ Great. Then just as a follow-up you talked a lot about the SSDs, and it sounds like mostly client opportunities. Can you address sort of what you're doing in flash controllers, perhaps for flashcards or flash arrays targeting enterprise applications?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [44]
+--------------------------------------------------------------------------------
+ Okay. You mean specifically flash controllers for the enterprise side?
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [45]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [46]
+--------------------------------------------------------------------------------
+ Okay. It's a much smaller portion of the business. So I consider the flash controller for the enterprise side, the multichannel PCIe controller as well as the SaaS controller. Those are the one that goes to the enterprise. So we are selling those devices, but the vast majority of the board still in the client side goes to the PCs.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [47]
+--------------------------------------------------------------------------------
+ Glen, quick, if you look at the market there on the SSD front, it's very similar in terms of a split between client and enterprise as it is in HDD today, right? In terms of unit volume, roughly about 10% of the volume is enterprise compared to the remaining 90% being client. Like Sehat mentioned, it's a pretty small volume. We do play in that, but the volume opportunity is clearly on the client side.
+--------------------------------------------------------------------------------
+ Quinn Bolton,  Needham &amp; Company - Analyst   [48]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+--------------------------------------------------------------------------------
+Operator   [49]
+--------------------------------------------------------------------------------
+ Arnab Chanda, Avian.
+--------------------------------------------------------------------------------
+ Arnab Chanda,  Avian Securities - Analyst   [50]
+--------------------------------------------------------------------------------
+ Hello, can you hear me?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [51]
+--------------------------------------------------------------------------------
+ Hi, Arnab. We can hear you. Go ahead.
+--------------------------------------------------------------------------------
+ Arnab Chanda,  Avian Securities - Analyst   [52]
+--------------------------------------------------------------------------------
+ Sehat, just a couple of questions. First of all, my impression is, and please correct me if I'm wrong, if you leave out sort of market trends and dynamics that you cannot control, the only market where you arguably have fallen a little bit behind is mobile wireless. Can you talk just qualitatively about, do you think that you have to invest additionally to catch up in some of these areas, given all of the connectivity or application processor or modem?
+ Or do you think that given the current rate of investment, or maybe you're cutting back on some other areas, you can get to where you need to be? And I have a follow-up, please.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [53]
+--------------------------------------------------------------------------------
+ Yes, Arnab. Okay. You're absolutely right. We fall behind in some areas, okay.
+ We made mistakes strategically focusing on two different platforms. In one area where, okay, if we have done that, we will have introduced our next generation smartphone device at least six months, or maybe nine months earlier, maybe even longer than that. So it was a hard lesson for us to learn, and nobody in the Company wants to repeat the same mistakes that we made.
+ So in terms of investments, we have caught up. So I don't think -- I don't believe we need to increase our investments in terms of the head counts and to move to the next level, because after all, we are already also working hard on the next generation device to ensure that next time around we don't have to say the same thing again, okay we made the same mistake. So we're comfortable that, okay, we are on the right path.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [54]
+--------------------------------------------------------------------------------
+ Do have a follow-up on that?
+--------------------------------------------------------------------------------
+ Arnab Chanda,  Avian Securities - Analyst   [55]
+--------------------------------------------------------------------------------
+ Okay, great. Thank you very much for that honesty. That's rare to see.
+ One question about, in the area that it seems like you've invested early, and perhaps you don't really talk about right now, but I'd be curious, is kind of data center enterprise. You were, I think, the first ARM-based CPU in networking. We didn't really hear much about that beyond that. Can you talk a little bit about that whole area date center enterprise, what your strategy is, is that an opportunity in the next 12 months, or is that something you'd rather wait, if you could, if there's anything to discuss there, with the 64-bit ARM CPU, or a 32-bit, if you could discuss that a little bit, that would be great. Thank you.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [56]
+--------------------------------------------------------------------------------
+ Right, right, yes. You're right. There's a huge opportunity for addressing the data centers using low power processors. This is the reason why we are investing in this area.
+ Okay, you mentioned about 64 bits here. That's the right one area, 64-bits. Also on more powerfuls, higher performance 32-bit processors, they have extended addressing modes. So we were early, actually, in this area as well.
+ But this area is, I mean, if you look at the history, in the history of data centers, I don't know if you remember this, long ago when everybody was using Sun micro servers for your data centers, even though the X86 processor was so much better than the Sun micro servers processors, we actually, okay, as well as many other companies, stuck with the Sun servers for, I think, about three or four years longer than what it was thought to be obviously, okay, should be happening for three, four years earlier, okay.
+ I think it was the reason was because in this business, the time it takes for the applications to be ported from one architecture to another architecture takes quite a bit longer than expected. So as a result, I think in this area, okay, I would like the investors to put their expectations, okay, low enough, okay, I mean check the expectations that this is not something that's going to happen overnight. No. We still have to invest in this, okay, appropriately with the expectation that maybe two or three years later, okay, this thing will finally, okay, will have more meaningful penetrations.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [57]
+--------------------------------------------------------------------------------
+ Right. So I think what Sehat was mentioning, I think the market has to be a little bit more pragmatic in terms of when this would be big unit volume opportunity, right? I mean, the unique thing that we bring to market is we have the necessary, a broad portfolio, as we mentioned. We have the compute part, which our remote XP device, which is the only available ARM-based server out in the markets today, even though it is 32-bit, and we have a networking component switch.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [58]
+--------------------------------------------------------------------------------
+ Reported addressing.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [59]
+--------------------------------------------------------------------------------
+ Yes, reported addressing, and we have our networking switch components and our storage components all combined, which provides a unique platform solution to a lot of our customers, right? You don't see a lot of that from other customers -- other vendors.
+--------------------------------------------------------------------------------
+ Arnab Chanda,  Avian Securities - Analyst   [60]
+--------------------------------------------------------------------------------
+ Thanks, so very much also for the candor and honesty, and we'll be watching closely. Thanks a lot.
+--------------------------------------------------------------------------------
+Operator   [61]
+--------------------------------------------------------------------------------
+ Craig Ellis, Caris and Company.
+--------------------------------------------------------------------------------
+ Craig Ellis,  Caris &amp; Company - Analyst   [62]
+--------------------------------------------------------------------------------
+ First, going back to the mobile and wireless market. Sehat, you mentioned the WCDMA target for the end of the year. I'm wondering if you have a similar target for the TD-SCDMA market?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [63]
+--------------------------------------------------------------------------------
+ TD-SCDMA market, okay. I think we'll be -- I'll be happy if we can maintain our market share that we have this year for total of the next year.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [64]
+--------------------------------------------------------------------------------
+ Our expectation is really to maintain our market share next year, Craig.
+--------------------------------------------------------------------------------
+ Craig Ellis,  Caris &amp; Company - Analyst   [65]
+--------------------------------------------------------------------------------
+ All right, thanks. And then on the storage side of the business, you've talked about the growth potential in both SSD and hybrid. I'm wondering if you can contrast for us the dollar content that you have in hard disk drive when it's a 500-gigabyte platter versus SSD versus hybrid. And related to that, if PC units are flat in calendar 2013, what kind of growth rate do you think is a reasonable growth rate for Marvell given the share gains that you see coming?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [66]
+--------------------------------------------------------------------------------
+ On the ASP front we'll stay away from specific numbers on ASPs for HDD or SSD Craig. All we have said in the past is our SSD pricing is higher, and we'll just leave it at that.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [67]
+--------------------------------------------------------------------------------
+ Yes, but I also need to mentioned that we also mentioned in the past when the volume --
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [68]
+--------------------------------------------------------------------------------
+ Increases.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [69]
+--------------------------------------------------------------------------------
+ Increases, of course the price will also go down.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [70]
+--------------------------------------------------------------------------------
+ Right. As far as the PC market, the question regarding your PC market question. If the PC market is flat next year, obviously, and that would entail maybe a flattish HDD market as well. We should see growth in excess of that due to share gains.
+--------------------------------------------------------------------------------
+ Craig Ellis,  Caris &amp; Company - Analyst   [71]
+--------------------------------------------------------------------------------
+ Thanks, and good luck, guys.
+--------------------------------------------------------------------------------
+Operator   [72]
+--------------------------------------------------------------------------------
+ Romit Shah, Nomura.
+--------------------------------------------------------------------------------
+ Romit Shah,  Nomura - Analyst   [73]
+--------------------------------------------------------------------------------
+ You spoke earlier about your opportunities in the white box phone market. And my understanding of that space is that QUALCOMM and Media Tech are very well entrenched, and it's also very price sensitive market. Should you gain traction here, Sehat, what would be the impact to the operating model target?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [74]
+--------------------------------------------------------------------------------
+ Well, the operating model should improve. As you say, okay, this is a market that even the biggest company in the world, okay, wants to get into, okay. That's an indication that this is a very important market to address.
+ So, okay, we're not shy of going to this market, no. Having said, okay, this market also is evolving. Historically the white box markets built cheap feature phones, but as the consumers are trained to buy the top tiers, hence that manufacture providings expensive, very high end smartphones, the white box guys are realizing that there's a huge opportunity to build similar kind of devices, okay, at lower price, but not as low price as the feature phone. But still significantly lower price than the tier one handsets.
+ So we see this exactly the opportunities that we have, okay. Enablings the white box guys to be more successful, okay, in increasing the top line, okay, by providing more advanced solutions at reasonable price. Now, it's going to be higher than the feature phone solutions, but they don't care, actually. They want actually -- what surprised me is that more and more of them actually wants to have more advanced technology to differentiate them among themselves.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [75]
+--------------------------------------------------------------------------------
+ Just to add on to what Sehat said, we talked about earlier the operating margin leverage. So as more of those dollars come in from the white box market, we expect with the operating margin leverage we have that, as Sehat said, that will actually increase those.
+--------------------------------------------------------------------------------
+ Romit Shah,  Nomura - Analyst   [76]
+--------------------------------------------------------------------------------
+ (Multiple speakers) Just so I'm clear, your competitive advantages versus QUALCOMM or Media Tech in the segment are what?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [77]
+--------------------------------------------------------------------------------
+ Okay. So simple, maybe like one sentence, okay. We built QUALCOMM performance for Media Tech price.
+--------------------------------------------------------------------------------
+ Romit Shah,  Nomura - Analyst   [78]
+--------------------------------------------------------------------------------
+ Got you. And then can I just ask you quickly on the TD market, if TD-LTE's something that's going to develop in a more meaningful way next year, or do you think it's a couple years out?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [79]
+--------------------------------------------------------------------------------
+ TD-LTE is going to be, starting to become meaningful toward the end of the year, but because the end of the year is short, okay, I will say, okay, really the second half, in the next year after that it would be very meaningful.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [80]
+--------------------------------------------------------------------------------
+ I think you'll probably see handsets in the market on TD-LTE probably towards the end of next year or in 2014.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [81]
+--------------------------------------------------------------------------------
+ I think I want to maybe make a comment on TD-LTE. When we say TD-LTE, it does not mean that this is just TD-LTE. Every devices that we built, when we call TD-LTE actually is backwards compatible to SD-LTE.
+--------------------------------------------------------------------------------
+ Romit Shah,  Nomura - Analyst   [82]
+--------------------------------------------------------------------------------
+ Got you, okay. Thanks so much.
+--------------------------------------------------------------------------------
+Operator   [83]
+--------------------------------------------------------------------------------
+ Blayne Curtis, Barclays.
+--------------------------------------------------------------------------------
+ Blayne Curtis,  Barclays Capital - Analyst   [84]
+--------------------------------------------------------------------------------
+ I just want to go back and make sure I understood the comments on SSDs and hard drives in general. Obviously your competitor is seeing an inventory correction. I think you said you were going to do better than that. I want to make sure that meant growth.
+ And then if you could talk about on the inventory side you saw some correction. I think your largest customer had a pretty significant increase in finished good inventory. I think LSI is working through a similar problem. Just wondering if you thought that would be corrected in the January quarter.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [85]
+--------------------------------------------------------------------------------
+ Yes. So to clarify the comment on SSD, as you mentioned, our competitor has guided down in that market. We do think we'll see some level of growth in that market. At a minimum, flat. There are some things in the works that we think may improve that.
+ From an HDD perspective, there are some inventory, both our customers and at their customers, but we think that that will largely work through by the end of the quarter. We also said -- we have share gains that we'll continue to see over that period as well.
+--------------------------------------------------------------------------------
+ Blayne Curtis,  Barclays Capital - Analyst   [86]
+--------------------------------------------------------------------------------
+ Got you, thanks. And then just on the white box market, the comment, you were the high-end guy in TD, and there was some low cost solutions that moved in. When you look at the WCDMA market, you're seeing some of the lower end guys with 28-nanometer quad core on the roadmaps. I'm just trying to better understand where you fit in, and are you going to have to move to 28-nanometer and keep up with this application processor cadence? And is that the types of products you'll have in the market next year?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [87]
+--------------------------------------------------------------------------------
+ Yes, okay. Everyone, I think it is clear to everybody we'll working on 28-nanometers, okay, and then once -- when we're finished with 28-nanometer then everybody says want to work on the next node. So I don't think that will change, okay. This is an area that we always have to continue to build smaller geometry devices and get more powerful processing capability, especially the graphics processing capability.
+--------------------------------------------------------------------------------
+ Blayne Curtis,  Barclays Capital - Analyst   [88]
+--------------------------------------------------------------------------------
+ Okay. Thanks, Sehat.
+--------------------------------------------------------------------------------
+Operator   [89]
+--------------------------------------------------------------------------------
+ Doug Freedman, RBC.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [90]
+--------------------------------------------------------------------------------
+ Sehat, could you focus in on the storage market for us? And I'm sorry if I missed it if you offered, what percentage is the 500-gigabit platter today? And what is the next technology that you think the market's going to need in just the HDD market?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [91]
+--------------------------------------------------------------------------------
+ I don't know the number of the exact percentage of --
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [92]
+--------------------------------------------------------------------------------
+ Are you asking what percentage of our total shipments was 500-gig today?
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [93]
+--------------------------------------------------------------------------------
+ Correct.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [94]
+--------------------------------------------------------------------------------
+ Okay.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [95]
+--------------------------------------------------------------------------------
+ It's about 40%.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [96]
+--------------------------------------------------------------------------------
+ And then a follow-on to that is, and where is the markets going from there?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [97]
+--------------------------------------------------------------------------------
+ I think the market, it's clear, the market is all going to move to 500-gigabytes. The cost of building, as the heads and, mainly the heads and the media yield improve, everybody will move to the next generations capacity nodes. So in this case, 500-gigabytes. Okay, my gut feeling, the percentage will double that by the end of next year.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [98]
+--------------------------------------------------------------------------------
+ At least on the mobile side, for sure, I think most of the customers will probably moving towards 500-gig by the end of next year.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [99]
+--------------------------------------------------------------------------------
+ Yes, and okay, we are the only sole suppliers to have 2.5-inch HDD for 500-gigs a platter.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [100]
+--------------------------------------------------------------------------------
+ And then if I could move over to the networking market, you guys have been gaining back some share in the switching side of that business. How do you feel about your opportunities to continue that? I believe your competitor's offered a new product rather recently' and believe that they can start winning back some share again. How do you feel you're positioning is there?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [101]
+--------------------------------------------------------------------------------
+ Okay. So I won't be able to answer that because I'm not familiar with, okay, some of --
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [102]
+--------------------------------------------------------------------------------
+ So, Doug, if you look at relatively speaking to what we have in the market, we offer the highest performance and highest dense ports for our switching products compared to what else our competition offers in the markets today. So that's why we are seeing pretty good traction at some of our major customers. We don't see that changing any time soon.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [103]
+--------------------------------------------------------------------------------
+ So also we have like, what, device like 100-something ports. And then, so I'm not familiar what the other guys have. 200 ports or something. I'm not aware of that.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [104]
+--------------------------------------------------------------------------------
+ As we continue to integrate with some of the technology from accelerator, what-not, I think that's going to make us even stronger.
+--------------------------------------------------------------------------------
+ Doug Freedman,  RBC Capital Markets - Analyst   [105]
+--------------------------------------------------------------------------------
+ Great. Thank you.
+--------------------------------------------------------------------------------
+Operator   [106]
+--------------------------------------------------------------------------------
+ Mark Lipacis, Jefferies.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [107]
+--------------------------------------------------------------------------------
+ First question, on -- you talk about the bogey of 10% of the WCDMA market. If you hit that by the end of next year, what do you think we're talking about in units, rough numbers?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [108]
+--------------------------------------------------------------------------------
+ Well, the market for WCDMA is projected to be probably around 800 million units or so. So 10% of that is basically what we were targeting.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [109]
+--------------------------------------------------------------------------------
+ Okay, fair enough. And then on a question on the hybrid drive market, I'm not asking for ASP's, but when you talk about shipping a hybrid drive, are you shipping both a hard disk drive and a SSD controller, or is there a scaled-down controller there? Roughly speaking, what are we talking about in terms of extra content in a hybrid drive for you guys versus a hard disk drive?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [110]
+--------------------------------------------------------------------------------
+ Yes. For the early, as usually what would happen in the early phase of the hybrid adoptions, you will have two chip solutions, one chip addressing the HDD, then another chip addressing SSD. So they are different market. The customers, they want full-blown SSD. The customer wants to have what we call the scaled-down version of SSD.
+ Now eventually, okay, as this matures, the solution will be fully integrated. So what you see, there will be single-chip, 100-gig HHD and SSD, okay. This will ultimately be the lowest cost solutions for hybrid. (Multiple speakers)
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [111]
+--------------------------------------------------------------------------------
+ Do you have a follow-up? Go ahead.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [112]
+--------------------------------------------------------------------------------
+ Yes, I do. Brad, did you give guidance on cash flow for this quarter?
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [113]
+--------------------------------------------------------------------------------
+ Yes, $60 million.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [114]
+--------------------------------------------------------------------------------
+ Okay.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [115]
+--------------------------------------------------------------------------------
+ Free cash flow.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [116]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [117]
+--------------------------------------------------------------------------------
+ Free cash flow? Okay.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [118]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Mark Lipacis,  Jefferies &amp; Company - Analyst   [119]
+--------------------------------------------------------------------------------
+ Okay, fair enough. That's all I had. Thank you.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [120]
+--------------------------------------------------------------------------------
+ Keith, we'll take one last question, please.
+--------------------------------------------------------------------------------
+Operator   [121]
+--------------------------------------------------------------------------------
+ Aalok Shaw, D.A. Davidson.
+--------------------------------------------------------------------------------
+ Aalok Shah,  D.A. Davidson &amp; Co. - Analyst   [122]
+--------------------------------------------------------------------------------
+ Just trying to reconcile one thing first. Sukhi, you said gross margins wouldn't go below 50%, but if we start to look at kind of your kind of targeted goal of getting to 10% WCDMA, don't you think we could probably see below 50% if that's the case? And then secondly, I guess, higher picture, bigger picture-wise, I look at your R&amp;D spending as a percent revenue, it's quite a bit higher than most of the peer group. I know revenues have slowed quite a bit here because of some macro concerns, but when I look at the PC growth and subsequently HDD growth to be lackluster, why aren't you getting more aggressive on cutting back on your OpEx at this point?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [123]
+--------------------------------------------------------------------------------
+ Let me address the --
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [124]
+--------------------------------------------------------------------------------
+ Gross margin.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [125]
+--------------------------------------------------------------------------------
+ The gross margin. So the gross margin, we are confident with the gross margin model, because if you look at the smartphones, smartphones also moving rapidly to LTE. These are also much higher price point. So if you include all the product mix, there's no reason why we cannot achieve the target of 50% at the worst case scenario.
+--------------------------------------------------------------------------------
+ Brad Feller,  Marvell Technology Group Ltd - Corporate Controller and Interim CFO   [126]
+--------------------------------------------------------------------------------
+ Yes. To address the second part of your question, we are investing not for the current levels of revenue we have. We are investing based on the growth we see in the different markets that are there. So yes, as you look at it today, it is a higher percentage than competition, but we are investing based on what we believe we can achieve in some very high growth markets.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [127]
+--------------------------------------------------------------------------------
+ You have a follow-up?
+--------------------------------------------------------------------------------
+ Aalok Shah,  D.A. Davidson &amp; Co. - Analyst   [128]
+--------------------------------------------------------------------------------
+ If I could. I mean, if we get towards the end of next year and we don't see this 10% achievable goal, what do you think happens then? Should we expect you guys to kind of cut back on the wireless market itself?
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [129]
+--------------------------------------------------------------------------------
+ That's a speculative question. We'll answer that, okay, at that time.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [130]
+--------------------------------------------------------------------------------
+ At that point, yes.
+--------------------------------------------------------------------------------
+ Aalok Shah,  D.A. Davidson &amp; Co. - Analyst   [131]
+--------------------------------------------------------------------------------
+ Okay. Thank you.
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [132]
+--------------------------------------------------------------------------------
+ Thank you, guys. Keith?
+--------------------------------------------------------------------------------
+Operator   [133]
+--------------------------------------------------------------------------------
+ That's all the time we have for Q&amp;A today. Did you gentlemen want to make any closing remarks?
+--------------------------------------------------------------------------------
+ Sukhi Nagesh,  Marvell Technology Group Ltd - VP of IR   [134]
+--------------------------------------------------------------------------------
+ Yes. Thank you for attending the Marvell conference call. We look forward to catching up with you over the quarter. Thank you.
+--------------------------------------------------------------------------------
+ Sehat Sutardja,  Marvell Technology Group Ltd - Chairman and CEO   [135]
+--------------------------------------------------------------------------------
+ All right, thank you.
+--------------------------------------------------------------------------------
+Operator   [136]
+--------------------------------------------------------------------------------
+ Ladies and gentlemen, that will conclude today's conference. Thank you very much for joining us, and you may now disconnect. Have a great day, everyone.
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q3 2013 Marvell Technology Group Ltd. Earnings Conference Call]]></eventTitle>
+  <city>HAMILTON</city>
+  <companyName>Marvell Technology Group Ltd</companyName>
+  <companyTicker>MRVL</companyTicker>
+  <startDate>15-Nov-12 9:45pm GMT</startDate>
+  <companyId>120802</companyId>
+  <CUSIP />
+  <SEDOL>2594653</SEDOL>
+  <ISIN>BMG5876H1051</ISIN>
+</Event>

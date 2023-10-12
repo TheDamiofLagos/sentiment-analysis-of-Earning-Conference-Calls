@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="5738246" lastUpdate="Wednesday, August 12, 2015 at 2:24:33am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="5738246.F" expirationDate="Tuesday, August 11, 2015 at 12:30:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of NLOK earnings conference call or presentation 11-Aug-15 12:30pm GMT]]></Headline>
+    <Body><![CDATA[Q1 2016 Symantec Corp Earnings Call
+
+MOUNTAIN VIEW Aug 12, 2015 (Thomson StreetEvents) -- Edited Transcript of NortonLifeLock Inc earnings conference call or presentation Tuesday, August 11, 2015 at 12:30:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Sean Hazlett
+      Symantec Corp. - IR
+   *  Mike Brown
+      Symantec Corp. - President &amp; CEO
+   *  Thomas Seifert
+      Symantec Corp. - EVP &amp; CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Brad Zelnick
+      Jefferies &amp; Co. - Analyst
+   *  Philip Winslow
+      Credit Suisse - Analyst
+   *  James Wesman
+      Raymond James - Analyst
+   *  Matt Hedberg
+      RBC Capital Markets - Analyst
+   *  Pat Walravens
+      JMP Group - Analyst
+   *  Jason Velkavrh
+      Robert W. Baird - Analyst
+   *  Daniel Ives
+      FBR Capital Markets - Analyst
+   *  Robert Breza
+      Wunderlich Securities - Analyst
+   *  Mike Sikos
+      Macquarie - Analyst
+   *  Fatima Boolani
+      UBS - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good day and welcome to Symantec's first-quarter 2016 earnings conference. Today's conference is being recorded. At this time, I would like to turn the conference over to Sean Hazlett.
+--------------------------------------------------------------------------------
+ Sean Hazlett,  Symantec Corp. - IR   [2]
+--------------------------------------------------------------------------------
+ Thank you, operator. Good morning and thank you for joining our call to discuss first-quarter 2016 earnings results. By now, you should have had the opportunity to review our earnings release and supplemental information. We've also posted a presentation that complements our prepared remarks. If you have not reviewed these documents, they can be found on the investor relations events webpage. A copy of today's prepared remarks will be available on the website after our call is completed. Speakers on today's call are Mike Brown, Symantec's President and CEO and Thomas Seifert, Executive Vice President and CFO. This is a live call that will be available for replay via webcast on our website.
+ I'd like to remind everyone that all references to financial metrics are non-GAAP unless otherwise stated. Implied billings refer to revenue plus the change in sequential deferred revenue and we include a trended history of this metric in our supplemental information. Also, we provide year-over-year constant currency growth rates adjusted for the 14th week of the June 2014 quarter in our prepared remarks except for statements about net income and EPS. For our fiscal year 2016 guidance, year-over-year growth rates exclude the impact of the extra week in the year-ago June 2014 quarter and adjust for foreign currency.
+ I would like to take this opportunity to highlight a few dates for you. Thomas will be presenting at the Citi conference on September 9. We intend to announce our second-quarter earnings on November 5. Please note non-GAAP financial measures referenced during this call are reconciled to their comparable GAAP financial measures in the press release and supplemental materials posted on our website.
+ Lastly, today's call contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date and as such, involve risks and uncertainties that may cause actual results to differ materially from our current expectations. Please refer to the cautionary statement in our press release for more information. You will also find a detailed discussion about risk factors in our filings with the SEC and in particular, in our Annual Report on Form 10-K for the year ended April 3, 2015. And now, I'd like to introduce our CEO, Mr. Mike Brown.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [3]
+--------------------------------------------------------------------------------
+ Thank you, Sean and good morning. Today, I am pleased to announce that Symantec has entered into a definitive agreement to sell the Veritas business to Carlyle for $8 billion in cash. The transaction is expected to close by the end of our third quarter of fiscal 2016. For Symantec, the proceeds of this all-cash transaction will further strengthen our financial foundation allowing us to return significant cash to shareholders and enhance our portfolio of solutions as the world's largest cybersecurity company.
+ As you know, in October 2014, we announced our decision to separate Symantec into two independent companies by spinning off our Veritas business. Consistent with its fiduciary duties, our Board considered other options for our Veritas business and ultimately determined that a sale of Veritas to Carlyle is in the best interest of Symantec's shareholders because it delivers both an attractive and certain value.
+ Given the large cash proceeds that we will receive at closing, we are committed to a disciplined capital allocation strategy, one that is balanced and appropriately aligned with the size and structure of our go-forward business and allows Symantec to both invest in the business and return capital to shareholders. Accordingly, our Board of Directors authorized both increasing the stock buyback program by an additional $1.5 billion so that we now have the authorization to buy up to $2.6 billion and maintain our $0.15 quarterly dividend, substantially increasing our dividend payout ratio.
+ In addition, our increased financial flexibility will allow Symantec to pursue organic and inorganic opportunities to accelerate our Unified Security strategy, which consists of three elements -- first, a Unified Security analytics platform that leverages big data analytics of our vast telemetry to enhance visibility of real-time global threats and powers analytics applications; second, using this analytics platform to provide best-in-class consumer and Enterprise Security software; and third, Cybersecurity Services that provide a full suite of services from monitoring to incident response to threat intelligence supported by over 500 cybersecurity experts and nine global security response centers.
+ This strategy is resonating well with our customers. The sale of Veritas marks a significant inflection point for Symantec. Upon closing of the transaction, Symantec will be focused as the world's largest cybersecurity company in a rapidly growing market. We will have substantial financial flexibility to accelerate our Unified Security strategy and capitalize on growth opportunities. Our ambition is to reshape the industry by harnessing our unique assets and unrivaled telemetry to lead in security analytics.
+ Now I'd like to comment on Q1 results. As a focused cybersecurity business, we expect to build on our momentum from fiscal year 2015. However, Q1 was disappointing as our revenue was flat in a quarter with significant complexity. First, we managed a major salesforce transition establishing dedicated and separate Veritas and Symantec sales and marketing organizations. With this transition, we formed a new management structure that affected the majority of our sales territories and salespeople.
+ Second, we continued our ongoing separation activities, namely separating our IT infrastructure, including testing a new ERP system for Veritas, assigned dedicated personnel within HR, legal, finance and IT to support Veritas and allocating our real estate worldwide to support two standalone companies.
+ Third, and what we didn't anticipate, was managing a Veritas sale process that involved extensive due diligence with multiple parties. The complexity of managing these three efforts simultaneously resulted in disappointing execution for both Symantec and Veritas from which we expect to recover in Q2 as our salesforce transition and the due diligence associated with the Veritas sale are now behind us.
+ Moving on to Enterprise Security, our Enterprise Security segment includes our Threat Protection products, Information Protection products, trust services and Cybersecurity Services. In total, this segment grew 1% in Q1, its first quarter of growth in two years and we are building stronger momentum with a robust pipeline of new solutions in fiscal 2016. We expect to strongly benefit from this product pipeline in the second half of fiscal 2016 and through improved salesforce execution as our global installed base of customers adopt these new solutions. As a result, we continue to see a path to sustained growth in the second half of fiscal 2016 for our Enterprise Security business.
+ Threat Protection, which includes our endpoint security, endpoint management, mail, Web and data center security offerings, declined 1% in Q1. Excluding our endpoint management productline, which declined this quarter, our Threat Protection offerings grew 2%. In particular, our flagship endpoint security productline continued to show strong momentum with 6% growth for the second consecutive quarter.
+ In Q1, we released our ATP network and ATP email modules in limited availability to about two dozen customers in the financial services, telecom, consumer products and healthcare industries. We are working with these customers to ensure our solutions are delivering the highest value. To date, about half of these customers have already moved into production and we also released a beta version of our ATP endpoint module. With these instructions, we've entered the multibillion-dollar advanced Threat Protection market growing at 40% per year.
+ All three Symantec ATP modules will be available in the second half of fiscal year 2016. They will be highly differentiated from competitive products because they can detect, correlate and prioritize incidents across the endpoint, email and network threat vectors and leverage the combined intelligence of our Unified Security platform. In fact, in recent third-party efficacy testing, our ATP solutions outperformed competitive offerings from FireEye and Cisco.
+ Information Protection, which includes our DLP, encryption and identity and access management offerings, grew 3% year-over-year in Q1. We launched DLP 14 in late Q1, which extends our on-premise DLP capabilities to cloud applications such as Box and Office 365. In Q1, Cybersecurity Services revenue grew between 2% and 3% as we continue to expand our offerings to meet growing customer needs to manage every phase of the attack lifecycle.
+ During the quarter, we introduced our CyberOne offering and signed our first multi-billion dollar deal for the offering. CyberOne combines our intelligence, monitoring and incident response services into a single comprehensive offering. We also won several incident response deals across healthcare, oil and gas, telecommunications, government, media and technology. In particular, 40% of our new customers came from healthcare in the wake of recent breaches in that sector.
+ Additionally in Q1, our Cybersecurity Services team also released our ATP monitoring service where our Cybersecurity Services organization combines our ATP technology and our managed services offering to monitor threats remotely all powered by our global SOCs. Trust Services, which includes our SSL and PKI solutions, is the world's largest SSL certificate authentication provider with greater than 40% marketshare protecting the world's e-commerce. Trust Services had another solid quarter with 3% growth and this quarter, Trust Services added further enhancements to SSL Assistant Plus, cutting the time it takes to secure websites down to minutes for small retailers.
+ Now onto the Consumer Security segment. As the number of devices in the home continues to grow and hackers become increasingly sophisticated, we believe Norton is more relevant than ever for our customers and for Symantec. In just the last few weeks, we've seen new vulnerabilities that expose Mac and Android devices to attack. Norton's core security service offering includes protection for mobile and Mac devices, as well as Windows, providing not only device protection, but also capabilities to detect phishing and scams.
+ In addition, our services for managing customer passwords, backing up data and supervising children's activities online continues to be important for our customers. And of course, the aggregated telemetry from our global footprint of Norton users powers our Unified Security analytics. In the future, we know that IoT-connected devices will also be vulnerable to attack and we believe Norton can play a greater role in protecting all the devices in the homes of our customers.
+ Our Consumer Security segment performed better than expected in Q1 as we continue to migrate our customers to a cloud-based subscription service. Revenue declined 6% versus a 7% decline in Q4 and operating margin expanded to a record 57% due to continued operational improvements. We are also seeing improvements in key levers of our Norton business such as online customer acquisition. Direct Web acquisition of customers generated over 0.5 million new units of our core Norton security offering in Q1.
+ More importantly, we believe the lifetime value of each of these customers is 25% higher with the subscription model. Moving to our Information Management segment, we expanded operating margin to 23% from 14% in the prior year and revenue grew by over 3% driven by continued strength in NetBackup and appliances. Veritas continues to drive the transition to integrated backup appliances. According to IDC, Veritas claimed the number one share of the open systems integrated backup appliance submarket for the first time at 47% share in the March 2015 quarter.
+ We're releasing several products this summer which we believe will underpin additional growth for Veritas. First, NetBackup 7.7 provides enhanced data center integration across industry platforms with significantly faster cloud performance than our previous release. Second, InfoScale provides availability on software-defined storage to address enterprise business continuity needs. Third, the Veritas Resiliency Platform ensures critical data remain accessible across complex multivendor physical and virtual environments. And fourth, Information Map is the first cloud application built on our Information Fabric technology to enable customers to gain better visibility into their unstructured data.
+ With its strong and broad product portfolio, Veritas is well-positioned to compete in a growing market. Now I'll turn it over to Thomas to provide a review of our first-quarter financial results and guidance for our second fiscal quarter. Thomas.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [4]
+--------------------------------------------------------------------------------
+ Thank you, Mike and good morning, everyone. The $8 billion sale price for Veritas delivers a certain and attractive valuation to Symantec, simplifies the separation process and provides financial flexibility to invest in our future. This is an all-cash transaction, which we expect to close by the end of the third quarter of this fiscal year. After certain closing adjustments and the payment of taxes at the rate of approximately 20%, we expect to receive net cash proceeds of $6.3 billion, of which 35% will reside in the US.
+ To demonstrate our commitment now and in the future to returning capital to shareholders, our Board of Directors immediately authorized an increase of the stock buyback program to $2.6 billion. This new authorization enables us to retain flexibility as we finalize our capital allocation strategy in anticipation of the transactions closing by the end of our third fiscal quarter. We intend to repurchase the first $2 billion over the next 18 months.
+ The Board also decided to maintain our $0.15 quarterly dividend thereby substantially increasing our dividend payout ratio post-separation. Together, between dividends and buybacks, we expect to return about 120% of our after-tax domestic cash proceeds from the sale to our shareholders over the next 18 months.
+ Now let me turn to first-quarter financial results. Implied billings declined 7% year-over-year and revenue was flat at $1.5 billion. As Mike noted earlier, the complexity of managing our salesforce transition and our ongoing separation effort in parallel with the extensive due diligence process associated with the Veritas sale resulted in disappointing top-line execution during the quarter. We continue to expect our Enterprise Security business to grow in the second half of fiscal 2016.
+ The US dollar strengthened against major currencies compared to the year-ago period, which created a headwind of $115 million to first-quarter revenue and $266 million to deferred revenue on a year-over-year basis. However, currency effects had a $2 billion positive impact on revenue as compared to the guidance we provided on May 14. In addition to foreign currency effects, we estimated the June 2014 period had approximately $113 million of additional revenue from an extra 14th week of activity versus 13 weeks in June 2015 period.
+ Moving now to our business segments, Information Management revenue increased 3% to $587 million. NetBackup software and appliances grew 10% and 19% respectively. This strength was offset by weakness in our Backup Exec and Information Availability offerings. Non-GAAP operating margin for the IM segment increased by 11.4 percentage points year-over-year to 23% driven by cost reductions and an increase in revenue.
+ In the Consumer Security segment, revenue declined 6% to $430 million. We delivered non-GAAP operating margin of 57%, up 8.2 percentage points year-over-year and 2 percentage points sequentially. Our operating margin was higher than we anticipated primarily as a result of continued operational improvements. We continue to expect Norton revenue to decline 5% to 8% for fiscal 2016 and operating margin to return to our guided range of 52% to 54% as we invest in additional marketing initiatives to improve our customer experience and our growing online acquisition rate.
+ Enterprise Security revenue grew 1% year-over-year to $482 million. Endpoint security posted another solid quarter growing 6% year-over-year. Continued weakness in our endpoint management offering was a significant headwind for the segment. Non-GAAP operating margin for Enterprise Security was 6% as we invested in R&amp;D despite lower-than-expected revenue.
+ Moving down to the income statement. Non-GAAP operating margin for the first quarter was 27.4%, an increase of 480 basis points year-over-year driven by lower spend as we aligned costs with lower revenue. We will continue to make operational improvements to our business to expand our operating margin as we approach our long-term target of 30%. Non-GAAP net income of $275 million resulted in fully diluted earnings per share of $0.40.
+ Now turning to cash flow and capital allocation. Cash flow from operating activities for the June quarter totaled $300 million. We incurred restructuring costs of $22 million and separation costs of $63 million during the June quarter. The costs were higher than expected as we accelerated our separation activities to prepare for our sale of the Veritas business. However, we do not expect total separation costs to increase compared to our prior estimates. Capital expenditures were $78 million. We expect second-quarter CapEx to be higher as we work to complete the Veritas separation.
+ During the quarter, we instituted a blackout period associated with the sale of Veritas, which limited us from repurchasing Company shares. As a result, we returned $193 million to shareholders during the June quarter via share repurchases and dividends. $103 million was in the form of cash dividends and $90 million was used to repurchase 4 million shares at an average share price of $24.39. The eight revenue and efficiency initiatives we undertook in fiscal year 2015 continue to provide incremental benefits and operating profit in fiscal year 2016.
+ Given the complexity of the first quarter, we are expanding our set of revenue and efficiency initiatives to help improve our top line and better optimize our cost base. Some of these initiatives will include accelerating our license compliance program and optimizing our end-of-life approach to better align with industry standards. Combined with our original fiscal 2015 initiatives, we believe this expanded set will drive margin expansion and improve top-line performance as they accelerate through the year.
+ Now moving onto guidance. For the September 2015 quarter, we are providing guidance for a combined Symantec that includes Veritas. We expect to move the Information Management business results and balance sheet to discontinued operations starting in the December quarter and we will adjust our full-year guidance during our November earnings call to reflect this change.
+ Our September 2015 quarter guidance assumes an exchange rate of $1.11. We expect revenue to be between $1.485 billion to $1.525 billion, up slightly quarter-over-quarter at the midpoint. We expect operating margin to be between 26 to 28% resulting in EPS in the range of $0.40 to $0.43.
+ In conclusion, I am pleased with all the progress the team has made in making the sale of our Veritas business happen and I am excited about our organic and inorganic growth opportunities as the world's largest cybersecurity company. And with that, I'll turn it back over to Mike for some final comments.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [5]
+--------------------------------------------------------------------------------
+ Thank you, Thomas. The sale of Veritas delivers an attractive and certain value for shareholders. Importantly, it also helps us simplify the separation process. This transaction is a major milestone for the Company and we couldn't have achieved this without the incredible effort and dedication of our employees who have been working diligently to ensure a successful separation for a year now.
+ Going forward, our balanced capital return policy will also drive long-term value for our shareholders. As a focused cybersecurity company, we are poised to extend our lead in the security industry. Our robust product pipeline, new product adoption by our global installed base and improving salesforce execution make us confident that we will grow our Enterprise Security business in the second half of fiscal 2016. I couldn't be more excited about our future. And with that, I will turn it over to Sean to begin taking your questions.
+--------------------------------------------------------------------------------
+ Sean Hazlett,  Symantec Corp. - IR   [6]
+--------------------------------------------------------------------------------
+ Thanks, Mike. Operator, will you please begin polling for questions.
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ (Operator Instructions). Brad Zelnick, Jefferies.
+--------------------------------------------------------------------------------
+ Brad Zelnick,  Jefferies &amp; Co. - Analyst   [2]
+--------------------------------------------------------------------------------
+ Good morning. Thanks for taking my question and congratulations on getting this deal done. My first question, Mike, now that we've reached this point, how do you feel about the opportunities to separate the consumer business from the Enterprise Security business and I also have a follow-up for Thomas?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [3]
+--------------------------------------------------------------------------------
+ Well, I think as we've talked about before, we see the consumer business as an integral part of what we're building as the world's largest security company. A lot of threats for consumers. I talked about some of them a few minutes ago where we feel the Norton product is the premium product in the marketplace and we see opportunity going forward, not only to expand what we're doing for consumers from the standpoint of Internet of Things, but also to use that threat telemetry that we gain -- we get threat telemetry from some 65 million consumers -- to help us with what's happening on the enterprise as well. So the basic endpoint technology that we use is shared across consumer and enterprise and the threat telemetry is also very important.
+ One of the things that we are seeing in today's environment is that many of our enterprise customers are interested in Norton capabilities to help protect the folks, their customers who come to their websites and access corporate data. So we think going forward there's probably a lot more opportunity for the Norton business and the Enterprise Security business to be working together.
+--------------------------------------------------------------------------------
+ Brad Zelnick,  Jefferies &amp; Co. - Analyst   [4]
+--------------------------------------------------------------------------------
+ Thanks. And Thomas, it seems the year is off to a slower start than at least you'd expected when you last gave us guidance. You, in your prepared remarks, said that you still expect consumer to be down 5% to down 8% on an adjusted basis. Wondering if the prior guidance for Enterprise Security for the full year to be between 1% and 6% growth still holds. And it sounds like you feel that you can make up for this with increased investments in compliance and some of the approaches that you are taking to end-of-lifing products. Can you maybe just talk a little bit about how you see Enterprise Security for the year and some more detail on those two initiatives?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [5]
+--------------------------------------------------------------------------------
+ Yes. That's a good question. So our Q2 guidance first of all takes into account a lot of puts and takes as part of the separation process. We are seeing the coming of the completion of this process. We have the due diligence behind us and the separation of the salesforce has also happened. We already have visibility that linearity for the second quarter is a lot better than what we saw in Q1. And given the strong product pipeline, we believe that we have good momentum going into the back half of the year. We are expecting that the Enterprise Security business will continue and will grow in the second half of 2016 getting us to the guidance that we put out. Maybe for the full year, slightly lower than the midpoint, but we fully expect the momentum on the Enterprise Security side to take us to growth in the second half.
+--------------------------------------------------------------------------------
+ Brad Zelnick,  Jefferies &amp; Co. - Analyst   [6]
+--------------------------------------------------------------------------------
+ Thanks very much.
+--------------------------------------------------------------------------------
+Operator   [7]
+--------------------------------------------------------------------------------
+ Philip Winslow, Credit Suisse.
+--------------------------------------------------------------------------------
+ Philip Winslow,  Credit Suisse - Analyst   [8]
+--------------------------------------------------------------------------------
+ Questions for both Thomas and Mike. When the original plan for the tax-free spin was announced, you said that you decided to go down this path because of the tax consequences associated with the sale. From when the initial plan was announced to today, what changed to make you think that paying that 20% tax bill made sense? Was it something about your core business? Was it the value that you thought you would receive? Exactly what changed?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [9]
+--------------------------------------------------------------------------------
+ Philip, primarily it's a value equation. We think this is a great deal for the shareholders; getting the $8 billion price was a critical factor, obviously, in the decision to sell versus spin. Other things that this does, as I am sure you are aware of, this provides certainty for shareholders as to the value rather than the ongoing execution and market risk associated with a public offering that would be later in time. And from the standpoint of separation, it really simplifies the separation process and de-risks that.
+ There are some synergies -- dyssynergies, I should say, that we avoid by not having to stand up Veritas as a public company. So I think when you put that entire equation together, we feel very good about what this does for shareholders, especially combined with our return of capital to shareholders as we described through maintaining the dividends and the increased authorization that we have to buy up to $2.6 billion worth of stock.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [10]
+--------------------------------------------------------------------------------
+ I can only underline what Mike said. I think that the transaction delivers excellent value to the shareholders and it gives certainty on the valuation. And from the separation perspective, it simplifies things. It's less complex and this means that both businesses can move on following their dedicated strategies.
+--------------------------------------------------------------------------------
+ Philip Winslow,  Credit Suisse - Analyst   [11]
+--------------------------------------------------------------------------------
+ Great. Then just one follow-up. One of the things you mentioned in the press release was potential use for inorganic growth. What is your M&amp;A outlook here and was anything -- was any sort of thought process behind the sale versus spin related to the ability to acquire?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [12]
+--------------------------------------------------------------------------------
+ I would say our posture towards M&amp;A really remains unchanged and nothing changes, especially as a result of the sale itself. So as we've talked about before and covered I think in depth at financial analyst day, there are tremendous opportunities in the security space today. It continues to be fragmented. We feel like we've got a great strategy to pursue -- the Unified Security strategy. I talked about the elements in today's call. So we are continuing to look at opportunities that tightly align with that strategy. So we are pretty focused as it relates to potential M&amp;A as opposed to looking at everything that's happening in security. So we are looking for opportunities that would accelerate that strategy. So obviously this transaction gives us a lot of financial flexibility, but the key for us is making sure that what we do not only is tightly aligned with the strategy, but also makes sense financially in terms of providing a return over a reasonable timeframe.
+--------------------------------------------------------------------------------
+ Philip Winslow,  Credit Suisse - Analyst   [13]
+--------------------------------------------------------------------------------
+ Got it. And then just last question, did I hear correctly that 35% of the cash would be onshore?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [14]
+--------------------------------------------------------------------------------
+ Yes, of the proceeds.
+--------------------------------------------------------------------------------
+ Philip Winslow,  Credit Suisse - Analyst   [15]
+--------------------------------------------------------------------------------
+ Of the proceeds, yes. Thank you, guys.
+--------------------------------------------------------------------------------
+Operator   [16]
+--------------------------------------------------------------------------------
+ Michael Turits, Raymond James.
+--------------------------------------------------------------------------------
+ James Wesman,  Raymond James - Analyst   [17]
+--------------------------------------------------------------------------------
+ It's James Wesman sitting in for Michael. Thomas, can you talk to us a little bit of what the Symantec balance sheet will look like post-split? What will the debt profile look like and do you think you guys will pay down some of the debt post the Veritas sale?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [18]
+--------------------------------------------------------------------------------
+ So you have to understand we just signed the transaction and as part of our next earnings call, we are going to give guidance on how the balance sheet is going to look like post-separation. The historicals are going to change. The balance sheet of the Veritas business is going to move into discontinued operations and most of the debt is going to remain on the Symantec side. But the details will be forthcoming on our next call.
+--------------------------------------------------------------------------------
+ James Wesman,  Raymond James - Analyst   [19]
+--------------------------------------------------------------------------------
+ Got it. Thank you.
+--------------------------------------------------------------------------------
+Operator   [20]
+--------------------------------------------------------------------------------
+ Walter Pritchard, Citi.
+--------------------------------------------------------------------------------
+Unidentified Participant   [21]
+--------------------------------------------------------------------------------
+ Morning guys, it's actually Jim on for Walter here. Have you guys considered spinning off some of the other underlying security assets as well in order to get the growth profiles that you are looking at?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [22]
+--------------------------------------------------------------------------------
+ Jim, we've been clearly focused on this transaction, so that's occupied all of our capacity as it would relate to thinking about divesting other businesses. I think as we look across the Enterprise Security portfolio, as I mentioned, we're pretty excited about the fact that we grew that business on a constant currency basis for the first time in two years. So even though we have some businesses that are not growing within that portfolio and some not growing as fast as the total, we feel like there's an opportunity with the combined strength of the portfolio to continue to get that moving. And as you know, our guidance for the year is revenue growth of 1% to 6%. We've already hit the low end of that range in the first quarter and with the very strong product pipeline that we've got in the second half, we feel very comfortable with that guidance for Enterprise Security.
+--------------------------------------------------------------------------------
+Unidentified Participant   [23]
+--------------------------------------------------------------------------------
+ Okay, great. And then a little bit going off of Phil's earlier question, should we expect any M&amp;A opportunities in the network space and how would that affect any partnerships you have? And actually one last one would be, what is the US cash now?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [24]
+--------------------------------------------------------------------------------
+ Okay, I'll start with the network security and then we'll fill you in on US cash; Thomas will. So as we've talked about before, there are quite a few players that are pretty entrenched in network security and we don't believe that the right move for us next is to offer a product there to compete head on with Palo Alto Networks or Cisco. In fact, we very much appreciate the partnerships that we have that that we've talked about that really add to what we are offering with our ATP modules. So it's not an area that we're looking at. That's certainly not tightly aligned with the strategy that we've outlined. And I'd say further we are seeing a lessening of the importance of the perimeter, which also affects our thinking on network security.
+ What I mean by that is, more and more workloads are moving into the cloud. That's the basis for our Information Protection strategy, DLP, encryption, identity and access management. So we are seeing as more workloads move to the cloud, that doesn't mean there aren't going to be a lot of next-generation firewalls sold, but architectures are changing and we want our strategy to adapt to that.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [25]
+--------------------------------------------------------------------------------
+ Coming back to the cash, so today about 40% of our cash is domestic, $1.6 billion and $2.3 billion are residing outside of the US.
+--------------------------------------------------------------------------------
+Unidentified Participant   [26]
+--------------------------------------------------------------------------------
+ Great. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ Matt Hedberg, RBC Capital Markets.
+--------------------------------------------------------------------------------
+ Matt Hedberg,  RBC Capital Markets - Analyst   [28]
+--------------------------------------------------------------------------------
+ Thanks for taking my questions, guys and congrats on the sale here. I'm curious if you could talk about the geographic performance in the quarter and in particular, I think there's been some high-level talks about EU and potentially implementing some sort of baseline breach notifications. I guess what are your thoughts there? Could that be a driver for EMEA growth?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [29]
+--------------------------------------------------------------------------------
+ Well, I'd say in terms of geographical performance, the disappointment that we saw in terms of top-line execution pretty much affected all segments of our business. That's new business, renewals and across the geographies. So that was an indication to us that this really is a short-term execution issue as opposed to something that is going to be problematic in one particular part of the business.
+ As it relates to our geographic performance, I think that we had frankly a relatively stronger performance in the APJ region and to a lesser extent Europe. So we feel like those businesses were performing fine for us. We just need to execute better in Q2 and we believe we will.
+ As it relates to regulatory changes that might occur, yes, those can potentially be a stimulus for the business, but in general we do not favor regulatory changes that create mandatory responses. What's going on in the threat environment is so complex, it's pretty difficult to prescribe something that works in every situation. So we would prefer that there be flexibility in terms of the regulatory environment so that we can adapt to threats more rapidly and create the right response for customers depending on the situation.
+--------------------------------------------------------------------------------
+ Matt Hedberg,  RBC Capital Markets - Analyst   [30]
+--------------------------------------------------------------------------------
+ That's great, Mike. And then maybe to dovetail that, on the US side, curious about the federal vertical there. Speaking of regulatory environment, I know there's been I think what's called a 30-day sprint to better cybersecurity. Sort of with your comments on increased regulation as a backdrop, I'm curious about the federal vertical and if that could be a catalyst as well.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [31]
+--------------------------------------------------------------------------------
+ Well, I think it could. So separate from regulation, clearly there is a need for the federal government to improve its security posture and of course, the breach we saw with Office of Personnel Management is a perfect example of that. So that's a very important vertical for us. We have quite a few dedicated folks not only working on federal opportunities, but also security for state and local governments as well. So very important vertical. That's been a real highlight for us in FY 2015 and we expect that to be part of the growth that we are seeing in Enterprise Security in the second half.
+--------------------------------------------------------------------------------
+ Matt Hedberg,  RBC Capital Markets - Analyst   [32]
+--------------------------------------------------------------------------------
+ Great. Thanks a lot, guys.
+--------------------------------------------------------------------------------
+Operator   [33]
+--------------------------------------------------------------------------------
+ Pat Walravens, JMP Group.
+--------------------------------------------------------------------------------
+ Pat Walravens,  JMP Group - Analyst   [34]
+--------------------------------------------------------------------------------
+ Congratulations, you guys, on the sale. Mike, can you give us some more details about the early feedback that you're getting on the ATP products?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [35]
+--------------------------------------------------------------------------------
+ Sure. Happy too. We decided that what made sense for us in terms of launching ATP, and as you know network and email are out today with our endpoint product really in beta, but coming in the September quarter, we decided what made sense is kind of a controlled availability that would allow us to work very closely with some key customers up front and make sure they were getting the value from the product. And that's been a very successful strategy for us. Not only have our customers seen that we have a higher efficacy rate relative to what they have with ATP solutions in place today, meaning we are finding more things than some of the ATP solutions that have been in the market, but a good portion of those customers have now moved from that controlled availability into production. So we expect that when we get the full power of this solution, which will include the endpoint module, we'll really be capturing a lot more of the threat and helping customers prioritize those relative to what they have -- with the technologies that they have today.
+ So I think the key advantages, as we've talked about, Pat, are the ability to prioritize incidents rather than just flood a security ops center with lots of alerts. The fact that we're doing a lot of our detection from the cloud. Our payload detonation is cloud-based and therefore, we do not need to sell customers an expensive appliance for them to have advanced threat detection capability. And then most importantly the ability to correlate what they're seeing in their own environment with the Unified Security analytics platform, which gives access to all of that threat telemetry that we see at Symantec. So we think those three advantages are absolutely critical and really resonating with customers.
+--------------------------------------------------------------------------------
+ Pat Walravens,  JMP Group - Analyst   [36]
+--------------------------------------------------------------------------------
+ Great. Thanks a lot.
+--------------------------------------------------------------------------------
+Operator   [37]
+--------------------------------------------------------------------------------
+ Steve Ashley, Robert W. Baird.
+--------------------------------------------------------------------------------
+ Jason Velkavrh,  Robert W. Baird - Analyst   [38]
+--------------------------------------------------------------------------------
+ This is Jason Velkavrh on for Steve. Thank you for taking my questions. The first question is you mentioned the sales split has been complete. I'm just wondering qualitatively what proportion of accounts might've been transitioned to new reps or just more generally is there a ramping period to those -- or after the split till reps reach full productivity and kind of how long that period might take?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [39]
+--------------------------------------------------------------------------------
+ I think we've clearly experienced that in this first quarter. And as we talked about, it was more disruptive than we probably had predicted. We believe that that really is behind us at this point. So you can imagine the process as someone gets a new territory or a slightly new territory, there's new accounts, there's new pipeline for them to manage and of course, it's a new management chain for them to get comfortable with as well. It did affect a majority of the sales territories, which is why the disruption was extensive and you see that in our top-line performance. We do not believe Q1 is indicative of what we can do as a company in terms of our top-line performance.
+ But that transition is now behind us. It began really beginning of April, April 1. So as folks move into their second quarter, we believe that is behind us and folks now are managing their own pipeline. The management structure and territories, quotas, all in place now for the second quarter.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [40]
+--------------------------------------------------------------------------------
+ And I think it's important to reiterate that it wasn't really one individual thing that caused the disappointment on the execution side. It was the combination and complexity coming of the three things that we tried to juggle in parallel.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [41]
+--------------------------------------------------------------------------------
+ The separation, the salesforce transition and the due diligence process for the sale of Veritas, which Thomas is referring to.
+--------------------------------------------------------------------------------
+ Jason Velkavrh,  Robert W. Baird - Analyst   [42]
+--------------------------------------------------------------------------------
+ Perfect, that makes sense. And just one follow-up on the consumer Norton business, I was wondering if you could comment on success you've had converting that installed base to subscription and is there any incremental attrition associated with that transition as you go through that with your customers?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [43]
+--------------------------------------------------------------------------------
+ The conversion rate is pretty high to subscription, so we are finding that that's around 90%. So obviously there's some fallout, but we are very pleased with the conversion to subscription and we think that as people move to a subscription, obviously their lifetime value as a customer increases. We're probably about halfway through that transition worldwide. That transition began for us in December of last year for our North American customers. So obviously we lapped that as we get to this December quarter and that started for our international customers in the last quarter. So we have some ways to go to get everyone on a subscription basis, but you can see that will be coming within the next 12 months.
+--------------------------------------------------------------------------------
+ Jason Velkavrh,  Robert W. Baird - Analyst   [44]
+--------------------------------------------------------------------------------
+ Great. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [45]
+--------------------------------------------------------------------------------
+ Daniel Ives, FBR.
+--------------------------------------------------------------------------------
+ Daniel Ives,  FBR Capital Markets - Analyst   [46]
+--------------------------------------------------------------------------------
+ Could you talk maybe in this next chapter what you think is the biggest challenge going forward as you really focus more on security in terms of M&amp;A? And then maybe you could also talk about the opportunity here as we look at the next six, nine months?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [47]
+--------------------------------------------------------------------------------
+ Yes, we are very excited, Daniel, about what we see. Obviously being a focused security company now, it's really all about how do we continue to make progress on the consumer business. We've seen that a lot of the fundamentals are improving. Now having actually gone through the transition of shedding the unprofitable revenue, we are focused now from a consumer standpoint on online acquisitions and also the relationships we have with major telcos. So as we've talked about before, there's an opportunity to partner with major telcos and cable companies -- so Comcast, Deutsche Telekom, Softbank. We talked about America Movil in Latin America. So the partnering we are doing there, plus what we are changing in terms of the way we are attracting consumers gives us not only a more profitable business going forward, but one that in the future as we expand to Internet of Things and other opportunities there, gives us an opportunity to get that business back to flat if not growing again.
+ And then we combine that with the enterprise space, which is already growing as we talked about that business on a constant currency basis growing for the first time in two years, I think speaks to the strength of the products that we have in the portfolio, as well as the customer base. So as we look out for the rest of this year, we are very excited about our ATP offerings. We just talked about that with Pat, the fact that we believe we're going to have perhaps the most competitive differentiated ATP offerings that put Symantec into a multi-billion dollar market growing at 40% per year that we've not participated in before and we feel like we've got a great product there.
+ For Information Protection, our DLP offerings, so we are going to continue to make DLP available to protect cloud-based workloads and our DLP 14 offering really extends DLP capability for cloud workloads, Box, Office 365 we talked about and we've got plans to expand that further.
+ In addition, a product area that's been weaker for us, endpoint management, is one where we are putting some increased focus as we are going to have a new cloud-based endpoint management product coming later this year and then the Unified Security Analytics platform that underpins this strategy. We are making great progress on that and some of the applications for that analytics platform are going to be available by the end of the year, which have received tremendous reception from financial services firms.
+ So I'm pretty excited about the portfolio, the progress we're making on the consumer side and the customer reception to the new offering. So that's what gives us confidence that the second half of fiscal 2016 is going to be some new territory for us as we begin growing this business again.
+--------------------------------------------------------------------------------
+ Daniel Ives,  FBR Capital Markets - Analyst   [48]
+--------------------------------------------------------------------------------
+ And just as a follow-up, I've got to ask because I've been getting asked by a lot of investors, just given the last decade with Veritas, and look, I speak for lots, it would be nice not to say that word again, how do we have confidence or investors have confidence that, in terms of M&amp;A, that now you guys make the rate deals, the right spaces just given the history as we've seen over the last decade? Maybe you could speak to that in terms of a new mindset and methodology in terms of looking at the right M&amp;A. Thanks.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [49]
+--------------------------------------------------------------------------------
+ Sure. Well, I think we would also acknowledge that our history has been a bit mixed, but we've had some great acquisitions as well. I would just point to our Vontu acquisition that brought us DLP that we've created into a flagship productline for Symantec being a prime example. I'd say the key difference is we started with a strategy here, so the Unified Security strategy, which we've laid out in some detail, gives us a very clear roadmap as to where acquisitions can fit in.
+ So while security is such a broad fragmented space, we are not looking at the entire space. We got a question earlier in the call today about network security as an example. So it's not about what do we do to bolt on things in security. It's about how do we accelerate this Unified Security strategy that we've talked about. That really gives us a great deal of focus in terms of what we are looking for and it's very important that, as we look at potential acquisitions, we see the opportunity to accelerate that companies progress as part of our strategy and that it makes financial sense. Assets in this space are quite expensive, so we need to be very careful and make sure that whatever we look at can really deliver return for shareholders.
+--------------------------------------------------------------------------------
+ Daniel Ives,  FBR Capital Markets - Analyst   [50]
+--------------------------------------------------------------------------------
+ That's a great answer and thanks.
+--------------------------------------------------------------------------------
+Operator   [51]
+--------------------------------------------------------------------------------
+ Robert Breza, Wunderlich Securities.
+--------------------------------------------------------------------------------
+ Robert Breza,  Wunderlich Securities - Analyst   [52]
+--------------------------------------------------------------------------------
+ Just quickly, Thomas, as you look out for the next few quarters here before the official separation, obviously, there's added costs. You talked about added CapEx that you're having to use for separations. Is there a way to quantify or think as we move more into the next fiscal year as two independent companies what those added costs are that should, I would assume, go away?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [53]
+--------------------------------------------------------------------------------
+ For next fiscal year, meaning fiscal year 2017, we don't expect any additional costs. If I look at what remains to be done for this fiscal year, we said we are going to expect to stay within the cost guidance we gave on the separation side. We are going to have slightly higher CapEx in the second quarter because we now have certainty on what and how we have to separate the two companies in preparation for executing the sale now. I'm confident now with having the ability that for the remainder of the year we are going to stay slightly below the guidance we previously gave on the CapEx side. So we are not getting to the $400 million we indicated.
+ And beyond that, the separation is going to be completed by the time we end our next fiscal year. So I don't expect any or a lot of trailing costs coming from that to be honest. And as part of us setting guidance for the remainder of the year, we will make sure that both cash flow guidance, as well as CapEx guidance is going to reflect the new structure that Symantec Security is going to have moving forward.
+--------------------------------------------------------------------------------
+ Robert Breza,  Wunderlich Securities - Analyst   [54]
+--------------------------------------------------------------------------------
+ Should we expect cost savings though as we move into the following year following after the separation, or do you think the cost profile will be pretty much as is after the separation?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [55]
+--------------------------------------------------------------------------------
+ We always look at opportunities how we can accelerate and improve our margin profile and that is not going to stop just past the separation. But I think it's also important to realize that moving forward on the Enterprise Security side we want to grow this business. This is where the primary focus is going to be. We said that on our Analyst Day that second half in 2016 and 2017 will be growth-focused especially for the Enterprise Security business. On the Norton side, and we have to -- we are proud of the Norton team performance and how they have been executing so far already in terms of getting this business and the highly attractive profile from an operating margin perspective.
+--------------------------------------------------------------------------------
+ Robert Breza,  Wunderlich Securities - Analyst   [56]
+--------------------------------------------------------------------------------
+ Great. Thank you.
+--------------------------------------------------------------------------------
+Operator   [57]
+--------------------------------------------------------------------------------
+ [Mike Sikos], Macquarie.
+--------------------------------------------------------------------------------
+ Mike Sikos,  Macquarie - Analyst   [58]
+--------------------------------------------------------------------------------
+ Just regarding the three factors you pointed to for the disappointing revenue this quarter, you had the salesforce transition, the separation and then this accelerated due diligence process for Veritas. With respect to the salesforce transition, I was hoping you guys could walk us through some of the changes that were made and how the structure of the new sales organization has changed from what it previously was.
+ And then for the separation, can you guys comment on what your end customers, if they've changed at all their buying behavior or spending patterns based on this move that you guys have made?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [59]
+--------------------------------------------------------------------------------
+ Mike, on the salesforce transition, it's very complex from a standpoint of the number of territories that were changed, but it's pretty straightforward from the standpoint of what actually happened. So you can imagine a salesforce that is globally covering both the Veritas business as well as Symantec security now having to be completely separated into dedicated capability on sales and marketing so that on April 1 folks are either working on the Veritas side on that set of products or on the Symantec security side. So you can imagine the number of territories that changed and of course, the management structure that was involved there. Quotas that needed to be set, pipeline that needed to be transferred, so a lot of transition activity there in this first quarter.
+ Now as we talked about before, that is behind us now, so we are not making any changes. People now have some experience with their pipeline, their productlines that they need to be covering. We did pretty extensive training with our salesforce to make sure that they could run what we call key sales plays in their areas. So if you are on the Symantec security side, you know that you need to be able to sell DLP for cloud-based applications, the ATP modules and so forth. So we think over a longer period of time, we're going to have a more productive focused salesforce, but obviously we didn't see the benefits of that in the first quarter.
+ So I think this is a one-time transition. I think the performance that we saw which reflected some weakness across productlines that had been doing very well, geographies that had been doing well is further indication that it's a short-term bump in the road for us. So as we look to Q2, we believe we will recover and get back to our plan and then as we talked about, there's a great opportunity to be able to see much better performance as we combine the now experienced salesforce in their new configuration combined with the new offerings that are coming.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [60]
+--------------------------------------------------------------------------------
+ The deal pipeline for both businesses looks strong. So you asked for a comment on buying pattern behavior from our customers, we don't see any changes at all. Our customers are more excited working with the two separated entities moving forward.
+--------------------------------------------------------------------------------
+ Mike Sikos,  Macquarie - Analyst   [61]
+--------------------------------------------------------------------------------
+ And I guess the deal pipeline is what gives you guys confidence in the better linearity you've seen so far in Q2?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [62]
+--------------------------------------------------------------------------------
+ Yes.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [63]
+--------------------------------------------------------------------------------
+ Yes, and our outlook for the second half.
+--------------------------------------------------------------------------------
+ Mike Sikos,  Macquarie - Analyst   [64]
+--------------------------------------------------------------------------------
+ Thank you.
+--------------------------------------------------------------------------------
+Operator   [65]
+--------------------------------------------------------------------------------
+ Fatima Boolani, UBS.
+--------------------------------------------------------------------------------
+ Fatima Boolani,  UBS - Analyst   [66]
+--------------------------------------------------------------------------------
+ I'm curious if you can comment on your approach to channel partners in your indirect distribution side of the house as a result of the security portfolio increasingly shifting to a more subscription-oriented sale?
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [67]
+--------------------------------------------------------------------------------
+ Sure, as we talked about before, we introduced a new channel program last year and the key elements of that channel program were to focus on those partners who were able to create high value versus high volume. What we mean by that is those who are actually investing in Symantec or Veritas, they were required to get certified in certain productlines so that we had a channel salesforce that was focused on what are the key benefits that we're bringing to the marketplace versus just focused on value and price. And I think that's something that has resonated with the channel partners that we want to continue with going forward.
+ We have gone through a transition now where those partners are getting aligned across the two different businesses, Symantec and Veritas, and I would say that we have some additional work to do especially on the security side. If I had to look at the channel programs that we've had, I think they favor the higher value transactions that tended to come with our Veritas portfolio. So we have a little more work to do on the Symantec side in terms of recruiting some additional partners and in fact, we are intending to fast-track about 150 additional partners for the Symantec channel as we continue through the rest of this year.
+ So we are keeping the features of what we did with new channel program we introduced last year, this focus on high value, the certifications, working with partners who really want to focus on our productline. But as we go forward, there's going to be some change in the configuration of partners on the Symantec security side to be able to allow us to have the right coverage worldwide with the channel program.
+--------------------------------------------------------------------------------
+ Fatima Boolani,  UBS - Analyst   [68]
+--------------------------------------------------------------------------------
+ And a question for Thomas, if I could. Thomas, with respect to the IT in-sourcing project that was underway as of last year, I'm wondering where that process is, if that's entirely moved onshore, if you will and if there's any color commentary you can provide there?
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [69]
+--------------------------------------------------------------------------------
+ IT in-sourcing, if I understood you correctly, right?
+--------------------------------------------------------------------------------
+ Fatima Boolani,  UBS - Analyst   [70]
+--------------------------------------------------------------------------------
+ Yes, that's correct.
+--------------------------------------------------------------------------------
+ Thomas Seifert,  Symantec Corp. - EVP &amp; CFO   [71]
+--------------------------------------------------------------------------------
+ Yes, we have been making good progress working along our -- the [MI zones] we've outlined. We are not completely done yet. We'll get this done in conjunction with moving what we call into operational separation of the two businesses beginning of October.
+--------------------------------------------------------------------------------
+ Fatima Boolani,  UBS - Analyst   [72]
+--------------------------------------------------------------------------------
+ And the last one from me, if I may. We've seen a lot of consolidation in the cloud access security broker market and that's certainly an area that you have products on the roadmap. And I'm wondering if you can comment on some of the trends you are seeing (inaudible) and how customers are perceiving the combination of DLP and CASB offerings. Thank you.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [73]
+--------------------------------------------------------------------------------
+ You are pointing to what we see as a bright opportunity for us because there's no question as more workloads move into the cloud, we need to make sure that that data is protected and we know who's accessing that information. So the combination of what we offer with identity access management, DLP, encryption and an area that we've also identified, user behavior analytics, really starts to put a full picture together in terms of who's accessing that information, what are they accessing and why are they accessing that. So this space is one that we believe we have the right assets to compete in and it's an area that we will continue to invest in for the future. We see this as an emerging area that customers are getting increasingly interested in and it's because of what we've talked about already, the fact that more and more workloads are moving to the cloud, people are accessing that work from outside a corporate perimeter and using mobile devices to get there. So we believe Symantec has some strong assets to play there.
+--------------------------------------------------------------------------------
+Operator   [74]
+--------------------------------------------------------------------------------
+ And that does conclude today's Q&amp;A session. At this time, I'd like to turn the conference back over to management for any closing remarks.
+--------------------------------------------------------------------------------
+ Mike Brown,  Symantec Corp. - President &amp; CEO   [75]
+--------------------------------------------------------------------------------
+ Thank you very much for joining us.
+--------------------------------------------------------------------------------
+Operator   [76]
+--------------------------------------------------------------------------------
+ And that does conclude today's conference. Again, thank you for your participation.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q1 2016 Symantec Corp Earnings Call]]></eventTitle>
+  <city>MOUNTAIN VIEW</city>
+  <companyName>NortonLifeLock Inc</companyName>
+  <companyTicker>NLOK</companyTicker>
+  <startDate>11-Aug-15 12:30pm GMT</startDate>
+  <companyId>89422</companyId>
+  <CUSIP>668771108</CUSIP>
+  <SEDOL>BJN4XN5</SEDOL>
+  <ISIN>US6687711084</ISIN>
+</Event>

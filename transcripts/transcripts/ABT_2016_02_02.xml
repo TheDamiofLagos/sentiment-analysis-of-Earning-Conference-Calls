@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="5903682" lastUpdate="Tuesday, February 23, 2016 at 5:05:41am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="5903682.F" expirationDate="Tuesday, February 2, 2016 at 10:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of ABT.TO earnings conference call or presentation 2-Feb-16 10:00pm GMT]]></Headline>
+    <Body><![CDATA[Q2 2016 Absolute Software Corp Earnings Call
+
+VANCOUVER Feb 23, 2016 (Thomson StreetEvents) -- Edited Transcript of Absolute Software Corp earnings conference call or presentation Tuesday, February 2, 2016 at 10:00:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Geoff Haydon
+      Absolute Software Corporation - CEO
+   *  Errol Olsen
+      Absolute Software Corporation - CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Thanos Moschopoulos
+      BMO Capital Markets - Analyst
+   *  Doug Taylor
+      Canaccord Genuity - Analyst
+   *  Paul Steep
+      Scotiabank - Analyst
+   *  Blair Abernethy
+      Industrial Alliance Securities - Analyst
+   *  Michael Kim
+      Imperial Capital, LLC - Analyst
+   *  Richard Tse
+      Cormark Securities - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+  Good afternoon, ladies and gentlemen and thank you for standing by. Welcome to Absolute Software Corporation's second-quarter fiscal 2016 conference call.
+ (Operator Instructions)
+ Before beginning its formal remarks Absolute would like to remind listeners that certain portions of today's discussion may contain forward-looking statements that reflect current views with respect to future events. Any such statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in these forward-looking statements. For more information on the Company's risks and uncertainties relating to these forward-looking statements please refer to the section of its quarterly MD&amp;A.
+ (Operator Instructions)
+ I'd like to remind everyone that this conference call is being recorded today Tuesday, February 2 at 5 p.m. Eastern Time. I'd now like to turn the call over to Mr. Geoff Haydon, Chief Executive Officer. Please go ahead, sir.
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [2]
+--------------------------------------------------------------------------------
+  Thank you, operator. Good afternoon everyone.
+ Welcome to our Q2 fiscal 2016 conference call. Joining me today is Errol Olsen, our Chief Financial Officer.
+ Our results in Q2 reflected the positive progress we continued to make against our key strategic initiatives. These include an elevated level of product innovation, the improved performance of our restructured sales organization, a strengthened pipeline of new customer opportunities and a clarified focus on helping customers accomplish their most critical endpoint information security objectives in specific, targeted, geographic and vertical markets.
+ Q2 DDS revenue of $21 million grew 4% from Q2 fiscal 2015. 99% of this revenue is recurring in nature.
+ Commercial ACV increased 1% globally and 2% in North America. This reflected an improved performance in existing customer net ACV retention of 100% globally and 101% in North America. New customer ACV was over $900,000.
+ Q2 EBITDA of $2 million was down year on year. This was due to the removal of the manage and service revenue and repurposing of the associated costs to focus on accelerating the growth of our core DDS business.
+ DDS segment billings in Q2 were $19 million, representing a 15% decrease from Q2 2015. This year-over-year performance aligns with a year-over-year decrease in North American commercial contracts that expired during the quarter.
+ We also returned a significant amount of surplus cash to shareholders in Q2. We paid a dividend of CAD0.08 per share, representing an increase of 14% from the prior quarterly dividend.
+ We also completed our substantial issuer bid, investing CAD50 million to repurchase 6.25 million shares. As we move into our second half I'm extremely confident the changes we've made to the business strategically, operationally and organizationally will impact our objectives more positively. This will include accelerating revenue growth and expanding our ACV base.
+ Our product strategy continues to focus on developing our unique persistence and DDS technology capabilities and applying these to protect endpoints, the data they contain and the entry points these represent to corporate networks and sensitive information. Increasingly we will target the most prominent source of breach vulnerability: the insider threat. This references the security risks associated with employees and other insiders resulting from their malicious or negligent behavior.
+ This also refers to an outsider who has leveraged compromised credentials and is acting as an insider. The insider threat represents a uniquely pervasive risk that is difficult to detect and remediate and has emerged as a primary source of vulnerability. It's estimated that over half of data breaches today result from insider activity.
+ Despite its prominence, the insider threat opportunity is underdeveloped with a competitive landscape that is relatively nascent and fragmented. Through our embedded position on the endpoint, Absolute is uniquely positioned to provide oversight and remediation capabilities that will enable enterprises to more effectively understand and manage this category of risk.
+ In support of this strategy in Q2 we initiated SCCM repair and endpoint data discovery beta programs which we're now in the process of completing. The number of devices that have been activated for SCCM health check and repair now exceeds 1 million and continues to climb. The repair function provides our customers with the means to immediately resolve SCCM software agent issues we discover through our health check capabilities whether a device is on or off a corporate network.
+ We will continue to look for similar opportunities to apply persistence to other endpoint agents by extending our DDS functionality and through professional services engagements. This persistence as a platform initiative will also involve establishing integration partnerships with other endpoint management and security vendors whose agents would benefit from being persisted.
+ The endpoint data discovery beta program has also been enthusiastically received by our customers. The ability to identify the presence of sensitive information residing on an endpoint and to combine this intelligence with other device activity observations uniquely elevates our customers' ability to identify and appropriately respond to a security threat.
+ We also continued our progress to integrate Absolute's rich endpoint intelligence and the industry-leading SIM, security incident and event management, and security analytics platforms. This included most notably the expansion of our partnership with RSA and an announcement of Absolute's certification as an RSA-ready technology partner. We are actively engaged in similar partnership initiatives with several other CM vendors which we expect to announce in future quarters.
+ Additional product innovation occurred in Q2 in support of our education customer base. These capabilities include web monitoring for Chromebook devices, functionality that's releasing in beta with an anticipated launch this fiscal year. With the uptake of Chromebook adoption within the education sector web monitoring capabilities will provide our customers with an important security measure: to safeguard students while accessing the Internet through these devices.
+ The product and development functions within Absolute have benefited greatly from the new leadership team that's in place. We are enriching our roadmap, shortening development cycles, executing more predictably and delivering marketable features and functions that are driving increased customer adoption and renewal. Our sales strategy will continue to focus on two primary objectives: the retention and expansion of existing customers and the acquisition of new customers.
+ The North American reorganization we executed to accomplish these objectives is now operationalized, stabilized and fully staffed. Our results in Q2 reflected the increasing effectiveness of this new model. For the second consecutive quarter our inside sales teams performed strongly, eliminating ACV churn and expanding our ACV base within our SMB and enterprise accounts.
+ Our strategic accounts team, which we introduced in July of this year, also performed strongly. The objective of this team is to renew and expand our largest accounts and to drive new business within state and local government and the education segments.
+ Although the team was in transition during Q1, in Q2 they delivered on all of their objectives. Overall, the increasing strength of our renewal and expansion efforts is reflected in a 2% ACV increase in North America.
+ The new customer acquisition team's performance also continues to improve. Their sales pipeline grew by 98% quarter over quarter with all of our targeted market segments reflected in the increase. Most importantly, they contributed to almost $1 million in new customer ACV during the quarter.
+ In Q2 the number of sales representatives achieving or exceeding their quotas increased by 16% sequentially. This reflects the progress we're making in onboarding our newest sales team members. In Q3 we will continue to focus on broadening the base of new customer acquisition performance and accelerating growth in this critical area of our business.
+ Finally, we recently announced the appointment of Sean Maxwell as Chief Commercial Officer. Sean is an accomplished global executive with deep domain experience in Absolute's key areas of strategic focus. These include information security, software as a service, enterprise accounts, and international markets.
+ Sean has also demonstrated strong achievements in building and leading top-performing field organizations and successfully executing against new product categories for early-stage companies as well as established market leaders. These include EMC, Virtual Instruments and most recently Symantec. Sean's charter as the leader of all our field functions will be to optimize the performance of our newly defined go-to-market structure and to drive a more consistent and accelerated level of growth.
+ We continue to concentrate our efforts in investment on a set of geographic and vertical markets that represent the greatest return on investment for Absolute. Our strongest Q2 international year-on-year growth performance occurred in EMEA where we began our international transformation.
+ Progress in Europe included an expanded partnership with Lenovo to provide factory activation of Absolute DDS on Lenovo devices. This will allow our customers to activate persistence technology on their Lenovo endpoints before they are shipped from the factory, providing out-of-the-box security capabilities.
+ From a vertical perspective, we saw progress in Q2 around our efforts to expand Absolute's share of the corporate and healthcare markets. 74% of our new customer ACV came from corporate and healthcare customers, up from 36% in Q1.
+ In support of these market development efforts, we continue to invest in building the Absolute brand. In Q2 our lead generation volume increased by 134% year on year. This contributed directly to the pipeline growth I referenced earlier and will enable a higher level of customer acquisition performance in future quarters.
+ In summary, we enter fiscal Q3 with momentum and optimism. We have an increasingly productive field organization, a substantially strengthened leadership team, a materially improved capacity to execute against both our product development and go-to-market initiatives and a clarified commitment to helping our customers understand and manage a primary source of information risk, the insider threat.
+ I expect to see strong results in the second half, driven by continued progress against our key growth initiatives and a larger expiring contract renewal opportunity. I firmly believe Absolute is on a path to realizing our longer-term objectives of accelerated growth, improved profitability and ultimately enhanced total shareholder returns.
+ Now I'd like to turn the call over to Errol to discuss our financials in more detail. Errol?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [3]
+--------------------------------------------------------------------------------
+  Thank you, Geoff. Good afternoon everyone.
+ Q2 DDS revenue was $21 million, a 4% increase year over year. For the 2016 fiscal year-to-date period DDS segment revenue was $42.2 million, also a 4% increase year over year.
+ Total revenue, which includes revenue from assets divested at the beginning of Q2 fiscal 2016, was $21.1 million in the second quarter, an 8% decrease from Q2 fiscal 2015. Year-to-date total revenue of $45.1 million decreased 2% year over year.
+ Within our Absolute DDS segment, our commercial ACV base increased 1% globally and increased 2% in North America. Breaking down that growth, net ACV retention from existing customers was 100% globally and 101% in North America. In terms of new customer performance, we added $900,000 of incremental ACV from new customers globally.
+ We are pleased with the quarter-over-quarter improvement in existing customer and net ACV retention which we believe is an indicator of the increasing maturity of our North American customer retention and strategic account teams. In terms of new customer ACV, while performance has improved quarter over quarter, Q2 results are reflective of the relatively short tenure of our North American acquisition team which was formalized at the beginning of Q1. As we look forward to the second half of fiscal 2016, we expect continuing growth in new customer acquisition as our teams continue to mature and progress pipeline activity.
+ Our adjusted EBITDA for the second quarter was $2 million which was down from $4 million in the prior year. The decrease was reflective of the removal of endpoint and service management revenue while adjusted operating expenses remained flat compared to Q2 of last year.
+ Our adjusted operating expenses for the quarter, which are defined in our press release and MD&amp;A, were $19.1 million, down from $19.7 million in Q1 and flat compared to Q2 of last year. The sequential decrease reflects the divestment of the endpoint and service management segment which was partially offset by increased R&amp;D headcount and investment in marketing awareness programs. Our total headcount at December 31 was 411 which was down from 432 at September 30 and was flat with December 31 of last year.
+ Turning now to cash flow, our reported cash from operating activities was $1.4 million in Q2. However, this figure is net of $1.3 million of transaction costs related to the endpoint and service management divestiture.
+ Excluding these transaction-related outlays, our cash from operating activities would have been $2.6 million. This is down from $6.3 million in Q2 of last fiscal year with the difference being due to lower billings in the current fiscal year.
+ DDS segment billings in Q2 were $19 million, a 15% decrease from Q2 of fiscal 2015. The year-over-year decrease was correlated with a year-over-year decrease in North American commercial contracts expiring during the quarter.
+ Commercial billings for North America were $15.8 million, representing 88% of commercial billings and down 18% from $19.2 million in the prior year. International commercial billings were $2.2 million, up 5% from $2.1 million in Q2 of last year. Our consumer business represented 5% of total billings and was up 7% year over year in Q2. From a vertical market perspective, billings from the combined corporate and healthcare verticals represented 51% of our total commercial billings for the quarter.
+ Looking now to our outlook for fiscal 2016, moving into the second half of the fiscal year we believe our North American commercial sale structure is now stabilized and we remain confident in our long-term strategic plan. Our expectation for 2016 fiscal year is unchanged.
+ We expect fiscal 2016 revenue for the Absolute DDS and consumer businesses to increase over fiscal 2015 levels. However, we expect total reported revenue for fiscal 2016 to decrease year over year, reflecting the divestiture of the endpoint and service management product segment.
+ We expect adjusted EBITDA for fiscal 2016 to decrease from fiscal 2015, reflecting lower total revenue and a slight increase in adjusted operating expenses over fiscal 2015. We expect cash from operating activities to decrease from fiscal 2015 levels as a result of the slight increase in adjusted operating expenses and relatively flat year-over-year Absolute DDS billings. Our expectation on billings reflects continuing sales productivity improvements as well as a year-over-year increase in our expiring contract renewal opportunity during the second half of fiscal 2016.
+ This concludes our prepared remarks for today. Operator, please open up the call for questions.
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+  (Operator Instructions) Thanos Moschopoulos, BMO Capital Markets.
+--------------------------------------------------------------------------------
+ Thanos Moschopoulos,  BMO Capital Markets - Analyst   [2]
+--------------------------------------------------------------------------------
+  Hi, good afternoon. Maybe starting off on OpEx, I think last quarter you'd guided for a mid-single-digit increase this year. Is that still the case or has the Canadian dollar affected that dynamic at all?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [3]
+--------------------------------------------------------------------------------
+  No, our expectation on OpEx has not changed too much from what we expected a quarter ago. I did guide toward a mid-single-digit increase a quarter ago. It will probably increase a little bit less than that, but foreign-exchange rates are not too far off of what we had expected in our previous forecast.
+--------------------------------------------------------------------------------
+ Thanos Moschopoulos,  BMO Capital Markets - Analyst   [4]
+--------------------------------------------------------------------------------
+  Okay. And as far as the deals that you're signing most recently, is the average contract duration right now still sort of three years or is that starting to shorten given your focus towards driving ACV rather than the absolute billings number?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [5]
+--------------------------------------------------------------------------------
+  Sure. There's nothing to suggest at the moment a lower average contract term. We did see a slightly less -- shorter average contract term in the second quarter. It was just over 35 months compared to a historical average of 36 months.
+ But having said that that's not unusual. From quarter to quarter our average contract will fluctuate typically between 35 and 37 months. So we have no reason to believe at this point that the contracts will be shorter going forward.
+--------------------------------------------------------------------------------
+ Thanos Moschopoulos,  BMO Capital Markets - Analyst   [6]
+--------------------------------------------------------------------------------
+  Great, and Geoff can you maybe give us an update in terms of your progress in building out the international business and the team there now that North America is locked down?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [7]
+--------------------------------------------------------------------------------
+  Yes, it's a great question, Thanos. I mean our objective as I mentioned during last quarter's call is to replicate the blueprint that we've developed and refined in North America. The most mature version of that is in Europe where we've appointed a theater lead.
+ We've established coverage of the OEM partnerships. We've got somebody covering the distribution and VAR community. We've expanded and top graded our direct sales capacity and we've introduced an inside sales capability.
+ We're in the process of doing that similarly in Asia. We have our theater lead in place now. We're in the process of building out a similar structure which we intend to complete over the next six months.
+ As I've said, we don't expect to see material increases in the performance of the international markets until 2017. But we were encouraged by some early indicators of progress in Europe this quarter.
+--------------------------------------------------------------------------------
+ Thanos Moschopoulos,  BMO Capital Markets - Analyst   [8]
+--------------------------------------------------------------------------------
+  And finally, you've obviously made a lot of executive hires in recent months. Any key positions left to recruit or is the executive team for the most part in place now?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [9]
+--------------------------------------------------------------------------------
+  It is for the most part. I mean I had indicated during another recent call that we will look to enrich our leadership capabilities around people and culture as well as the appointment of a Chief Information Officer/Chief Security Officer. But in terms of key innovation and execution leadership roles they are filled and completed now and I couldn't be more pleased with the outcome, Thanos.
+--------------------------------------------------------------------------------
+ Thanos Moschopoulos,  BMO Capital Markets - Analyst   [10]
+--------------------------------------------------------------------------------
+  It certainly seems like a strong team that you've assembled. Thank you. I will pass the line.
+--------------------------------------------------------------------------------
+Operator   [11]
+--------------------------------------------------------------------------------
+  Doug Taylor, Canaccord Genuity.
+--------------------------------------------------------------------------------
+ Doug Taylor,  Canaccord Genuity - Analyst   [12]
+--------------------------------------------------------------------------------
+  Thanks, good evening. You referenced the billings from three years ago a couple of times as one of the hurdles you had to get through this quarter.
+ As I look to a couple of years ago it seems to me like the seasonality of billings in Q3 versus Q2 in that quarter was slightly negative. Are you expecting the same dynamic and just a bigger increase in Q4 or am I missing something there?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [13]
+--------------------------------------------------------------------------------
+  Hi, Doug. No, we are expecting, I guess the biggest change this year will be the movement. We mentioned last quarter that there's a large customer deal that was shifted from Q2 into Q3. So that will affect the seasonal trend this year.
+ Q3 typically is our lowest billings quarter of the year and I think that going forward we should expect that. But it will not be quite as exaggerated this year because of the shift in that particular contract.
+--------------------------------------------------------------------------------
+ Doug Taylor,  Canaccord Genuity - Analyst   [14]
+--------------------------------------------------------------------------------
+  Okay, fair enough. We talked about the average, Thanos asked about the average contract length. Can you talk a bit about the pricing dynamic as you're hitting these renewals relative to the ACV base?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [15]
+--------------------------------------------------------------------------------
+  Sure. We're not seeing any changes in pricing.
+ We've certainly a few years ago we did see some pricing compression in the education segment as device prices started going downwards. Over the last year and a half, two years we haven't seen any changes in our average pricing.
+--------------------------------------------------------------------------------
+ Doug Taylor,  Canaccord Genuity - Analyst   [16]
+--------------------------------------------------------------------------------
+  And perhaps last question for me, your new Chief Commercial Officer, Sean Maxwell, I know he's only been in the seat for a month and you're pretty far into a pretty substantial change in your go-to-market strategy. But has there been anything that he's identified since joining Absolute that you might change in your strategy going forward?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [17]
+--------------------------------------------------------------------------------
+  Doug, just to clarify he started yesterday. So he hasn't shared with me anything definitive. But let me just make a couple of statements about Sean.
+ That was a very eventful appointment, in our view. And the objective was to really enrich our leadership team with DNA and experience that aligns with our next generation of growth and Sean clearly has those attributes. So it's early days in terms of his discovery but what he's focused on primarily as I mentioned earlier is really understanding, executing and monetizing the structure that we've spent the last year and a half building.
+--------------------------------------------------------------------------------
+ Doug Taylor,  Canaccord Genuity - Analyst   [18]
+--------------------------------------------------------------------------------
+  All right. I apologize, I got my dates mixed up there.
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [19]
+--------------------------------------------------------------------------------
+  No, no, not at all. Thanks, Doug.
+--------------------------------------------------------------------------------
+Operator   [20]
+--------------------------------------------------------------------------------
+  Paul Steep, Scotia Capital.
+--------------------------------------------------------------------------------
+ Paul Steep,  Scotiabank - Analyst   [21]
+--------------------------------------------------------------------------------
+  Thanks. In terms of the product that's set to ship, what's caused the sort of slideout in the schedule that you highlighted? I guess in Q1 we talked about it being early 2016 it had launched, now it's calendar 2016. Are you just being more cautious or has something come up that you want to sort of slide it out a little bit?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [22]
+--------------------------------------------------------------------------------
+  No, just to clarify there haven't been any changes in the product roadmap which is a very positive development from my perspective for the last several quarters. So we are on track with both what we've released and what's currently in beta.
+--------------------------------------------------------------------------------
+ Paul Steep,  Scotiabank - Analyst   [23]
+--------------------------------------------------------------------------------
+  Okay. Second, other one that was a bit of a reconciliation issue between looking at the documents was there was a comment about the sales disruption that continued in the early part of this year. Is that -- has it gotten worse or is that just you reflecting the delta we talked about already?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [24]
+--------------------------------------------------------------------------------
+  No, the reference I made, we are done with the disruption. The new organization is fully operationalized, staffed and stabilized as I mentioned. The disruption I referenced was the Q1 disruption in the strategic accounts team.
+ That's the team that we created on July 1. It's a team that manages a lot of our largest accounts and many of those accounts were manage and service customers.
+ So the disruption in that account base was a function, A, of the new organization but also the divestiture. And so we did reference that in Q1 as an impediment to growth but we did not in Q2 and will not moving forward.
+--------------------------------------------------------------------------------
+ Paul Steep,  Scotiabank - Analyst   [25]
+--------------------------------------------------------------------------------
+  Okay, great. Then the last one is just was the new customer billings in the quarter about $2.7 million, Errol?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [26]
+--------------------------------------------------------------------------------
+  From a billings standpoint it was just under that.
+--------------------------------------------------------------------------------
+ Paul Steep,  Scotiabank - Analyst   [27]
+--------------------------------------------------------------------------------
+  Okay, perfect. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [28]
+--------------------------------------------------------------------------------
+  Blair Abernethy, Industrial Alliance.
+--------------------------------------------------------------------------------
+ Blair Abernethy,  Industrial Alliance Securities - Analyst   [29]
+--------------------------------------------------------------------------------
+  Thanks. Geoff, I was just wondering if you could take a bit of a higher-level view on some of these new partnership initiatives that you're going through.
+ Just give us a sense of where if you were to pick one or two what would be the biggest opportunities for you over the next two or three years, firstly? And secondly, can you give us some sense of how we should think about how you're going to price or the average selling price of these types of opportunities? Will it be the same as your existing product or will it be different?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [30]
+--------------------------------------------------------------------------------
+  Yes, good question, Blair. So high-level, the core OEM community that currently embed persistence in their endpoint devices continues to be a top priority. So strengthening, expanding those partnerships to new and more devices will continue to remain our primary focus just in terms of partnering opportunities.
+ Secondly, we will look for opportunities to expand that embedded relationship beyond the traditional OEM community to include companies like AMD, getting involved in the OEM community and the chipset as a means of accessing a broader community of OEM partnerships and devices. So that is all part of our strategy to make persistence ubiquitously embedded if you will.
+ Some of the other partnerships that we're focused on include what we refer to as information security ecosystem partnerships where we connect DDS functionality to other technologies that we can enhance the performance of or that enhance the performance of our solution. The SIM partnerships are a good example, by enabling an enterprise to consumer our endpoint intelligence through an analytics platform to correlate that data against other security feeds really enriches the intelligence that they can glean from that data set. So connecting DDS to other similar type technologies will also be a focus.
+ And the last category of partnerships that I referenced that is emerging in terms of its importance is what we refer to as the persistence as a platform partnering opportunities. And essentially what we're describing there are situations where an endpoint management or security firm has an endpoint agent technology that would benefit from being persisted. And what we would look to do is work with that organization to enable them to offer a persistent version of their solution.
+--------------------------------------------------------------------------------
+ Blair Abernethy,  Industrial Alliance Securities - Analyst   [31]
+--------------------------------------------------------------------------------
+  That's really helpful, Geoff. And in terms of pricing or value, how would you look at -- where is the biggest bang for your buck in these areas?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [32]
+--------------------------------------------------------------------------------
+  Well, I mean I think all important the persistence ubiquity initiative ensuring that we continue to embed persistence in endpoint devices is foundational in terms of our competitive advantage and our growth strategy. So I would submit that that is fundamentally important but we view all of the categories as representing accretive growth opportunities for the Company.
+--------------------------------------------------------------------------------
+ Blair Abernethy,  Industrial Alliance Securities - Analyst   [33]
+--------------------------------------------------------------------------------
+  Okay, great. And just another quick question if I could. Errol, on the balance sheet, your cash, I just want to confirm the investments, the long-term investments $24 million is that all cash or US debt, what is that?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [34]
+--------------------------------------------------------------------------------
+  Yes, the investments are in largely high grade corporate bonds and with an average maturity of under two years, about a year and a half.
+--------------------------------------------------------------------------------
+ Blair Abernethy,  Industrial Alliance Securities - Analyst   [35]
+--------------------------------------------------------------------------------
+  Okay. And given that you still have sizable total cash balance here, where is the Company leaning at this point? And what is the status of the NCIB now?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [36]
+--------------------------------------------------------------------------------
+  So it's active. We are staying the course in terms of our capital allocation strategy which accommodates for a dividend, for NCIB activity really from a defensive perspective and enriching our war chest with an eye towards increasing our investment in accelerating growth, Blair. So no fundamental changes in how we're viewing capital allocation.
+--------------------------------------------------------------------------------
+ Blair Abernethy,  Industrial Alliance Securities - Analyst   [37]
+--------------------------------------------------------------------------------
+  Okay great. Thanks, guys.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+  (Operator Instructions) Michael Kim, Imperial Capital.
+--------------------------------------------------------------------------------
+ Michael Kim,  Imperial Capital, LLC - Analyst   [39]
+--------------------------------------------------------------------------------
+  Hi, good afternoon guys. Geoff, you talked about the opportunity to capitalize on the insider threat use case and also some opportunities to expand the ecosystem for DDS partnerships. Do you see sort of a need to partner with some of the user behavior analytics or data governance vendors or how do you see the best opportunity to capitalize on insiders?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [40]
+--------------------------------------------------------------------------------
+  Michael, it's a really great question. So yes is the answer. The reality is that DDS today is being largely used by corporate and healthcare customers as an insider threat solution.
+ And the functionality that they're centered on includes the ability of DDS to observe the activity of a device whether it's on or off the corporate network, to be able to assess the risk of that endpoint and to be able to remediate that risk. So categories like UAB really represent an enriched version of that. And if I take a look at our product roadmap and some of the features and functions that we just introduced in Q2, they align with a couple of objectives.
+ First of all, continuing to expand the quantity and quality of data that we collect from an endpoint, data discovery being a good example of that. So we want to enrich the capacity of an enterprise to observe an endpoint.
+ We also want to ideally inform that data, apply some type of analytic capability to it so that we can present that data to an enterprise in a more intelligent form. And the SIM partnerships are largely designed to enable enterprises to do that on their own.
+ In the third area that we're focused on is enriching our remediation capabilities, offering customers different option to immediately remediate a potential developing threat. So we do see a relationship between what our technology does today and technologies like UBA. And we certainly are focused on enriching the capabilities of our solution to provide that type of insider threat value.
+--------------------------------------------------------------------------------
+ Michael Kim,  Imperial Capital, LLC - Analyst   [41]
+--------------------------------------------------------------------------------
+  And just to carry that a little further, how should we think about opportunities for joint go-to-market activities? And maybe you could talk about any early partnerships or progress.
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [42]
+--------------------------------------------------------------------------------
+  Yes, well the SIM category is the most obvious one because it's been materialized in the form of the relationship with RSA. But we think about any endpoint agent that is susceptible to being attacked, compromised, corrupted, disabled our ability to persist other complementary endpoint agents we view as a monetization opportunity.
+ We also think there's an opportunity just to collaborate with other companies that have security technologies that could benefit from persistence or from the intelligence that we collect from an endpoint. So defense and depth is the way that enterprises are viewing information security and how they approach it. So what we want to do is connect our technology to as many complementary technologies as possible in the spirit of enhancing the value that Absolute DDS bring to our enterprise customers.
+--------------------------------------------------------------------------------
+ Michael Kim,  Imperial Capital, LLC - Analyst   [43]
+--------------------------------------------------------------------------------
+  Great. And then just one quick question on ACV from new DDS customers. Was that driven by the strategic accounts team or I don't know if you can provide more color on what was driving the growth in ACV base?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [44]
+--------------------------------------------------------------------------------
+  It is a great question. It's a combination. The customer acquisition team most notably, but the strategic accounts team do have an acquisition charter specifically within SLED, state and local and education.
+ We also continue to see new customer acquisition opportunity from international markets. In fact, largely our performance in international markets is a function of new customer acquisition just given the nascence of our presence in Europe and Asia. But the customer acquisition team certainly played a central role but it was a broad-based contribution.
+--------------------------------------------------------------------------------
+ Michael Kim,  Imperial Capital, LLC - Analyst   [45]
+--------------------------------------------------------------------------------
+  Great, terrific. Good to hear. Thank you much.
+--------------------------------------------------------------------------------
+Operator   [46]
+--------------------------------------------------------------------------------
+  Richard Tse, Cormark Securities.
+--------------------------------------------------------------------------------
+ Richard Tse,  Cormark Securities - Analyst   [47]
+--------------------------------------------------------------------------------
+  Yes, thanks. Geoff, you talked about the pipeline building up here. I was wondering if you can give us some color in terms of what markets that you're seeing strength in from the pipeline.
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [48]
+--------------------------------------------------------------------------------
+  Yes, it's a good question. So there are two comments I'll make and one is in the quality of the new customer acquisitions, performance and the pipeline. We were very pleased to see that corporate and healthcare were so substantially represented in our new customer ACV performance.
+ 74% of that business was from healthcare and corporate customers. When we take a look at the pipeline we see those verticals disproportionately represented also because we've targeted a lot of our customer acquisition activity at corporate and healthcare customers.
+ The other thing that we're seeing within the pipeline is an increased quality of activity. Very often when we're selling to a large enterprise customer there are a number of things that precede an actual order. They want to evaluate the technology, they want a demonstration, they want a proof of concept and the volume of activity that's occurring within that pipeline around enterprise customers is substantially elevated.
+ So there's a lot of momentum within that pipeline. But having said that I want to call out the fact that we continue to see and expect a new customer acquisition contribution from our strategic account team as well.
+--------------------------------------------------------------------------------
+ Richard Tse,  Cormark Securities - Analyst   [49]
+--------------------------------------------------------------------------------
+  Okay, that's helpful. You talked about OpEx there on the call. I'm actually just curious looking forward to 2017 under the current cost structure, let's say for the single-digit increase this year, is that going to be similar next year or should we expect it to increase a bit or decrease a bit?
+--------------------------------------------------------------------------------
+ Errol Olsen,  Absolute Software Corporation - CFO   [50]
+--------------------------------------------------------------------------------
+  We're still building out our plan for fiscal 2017. And obviously we will be calibrating that against our progress in the back of the year. So it's too early to say right now.
+ I can tell you that we currently believe that we do have capacity to growth in our existing go-to-market structure. So the question is really around how much do we and when do we layer on additional investment to drive growth going into the back half of 2017 and following years. So unfortunately I don't have a hard answer for you right now, Richard.
+--------------------------------------------------------------------------------
+ Richard Tse,  Cormark Securities - Analyst   [51]
+--------------------------------------------------------------------------------
+  Okay. And then Geoff, I think your filings speak a little bit to M&amp;A, maybe you can give us some perspective on what you're thinking on that right now, whether this year is going to be focused primarily on organic growth or whether that M&amp;A will come in next year?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [52]
+--------------------------------------------------------------------------------
+  It is predominantly focused on organic growth but we continue to focus a great deal on determining the best way to deliver the kind of functionality that we aspire to around this insider threat category. So we're really thinking now much more richly in the context of that insider threat and observing how our largest and most sophisticated customers are using our technology today to observe and identify and remediate risk around the insider vector and how we can enrich that through both the organic and inorganic investment.
+ And as I mentioned earlier, the focus is on looking for ways to enrich the data collection capabilities, the number of data points that we can use to observe an endpoint, the ability to translate that data into something that's more intelligent for an enterprise and finally for ways to more effectively remediate emerging risks. So there are some very interesting, innovative companies within the industry that offer technologies in these various areas. And those are the technologies that we would be focused on.
+--------------------------------------------------------------------------------
+ Richard Tse,  Cormark Securities - Analyst   [53]
+--------------------------------------------------------------------------------
+  Okay. And as far as the dividend goes, I think the yield is actually over 5% now if I'm not mistaken. What's your thinking on that? You are pretty comfortable at that level or do you plan to change the dividend in any way?
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [54]
+--------------------------------------------------------------------------------
+  No, we're not planning on changing the dividend in any way.
+--------------------------------------------------------------------------------
+ Richard Tse,  Cormark Securities - Analyst   [55]
+--------------------------------------------------------------------------------
+  Okay, great, thank you.
+--------------------------------------------------------------------------------
+Operator   [56]
+--------------------------------------------------------------------------------
+  There are no further questions at this time. I will turn the call back over to the presenters.
+--------------------------------------------------------------------------------
+ Geoff Haydon,  Absolute Software Corporation - CEO   [57]
+--------------------------------------------------------------------------------
+  Well, listen, let me close by saying thank you for everybody's time today, for your interest in Absolute. And we'll look forward to speaking with many of you soon. Thanks again.
+--------------------------------------------------------------------------------
+Operator   [58]
+--------------------------------------------------------------------------------
+  This concludes today's conference call. You may now disconnect.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q2 2016 Absolute Software Corp Earnings Call]]></eventTitle>
+  <city>VANCOUVER</city>
+  <companyName>Absolute Software Corp</companyName>
+  <companyTicker>ABT.TO</companyTicker>
+  <startDate>2-Feb-16 10:00pm GMT</startDate>
+  <companyId>144945</companyId>
+  <CUSIP>00386B109</CUSIP>
+  <SEDOL>2570761</SEDOL>
+  <ISIN>CA00386B1094</ISIN>
+</Event>

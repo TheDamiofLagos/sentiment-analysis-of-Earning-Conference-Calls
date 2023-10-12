@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="14942217" lastUpdate="Friday, August 27, 2021 at 12:58:23am GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="14942217.F" expirationDate="Thursday, August 26, 2021 at 8:45:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of MRVL.OQ earnings conference call or presentation 26-Aug-21 8:45pm GMT]]></Headline>
+    <Body><![CDATA[Q2 2022 Marvell Technology Inc Earnings Call
+
+ Aug 27, 2021 (Thomson StreetEvents) -- Edited Transcript of Marvell Technology Inc earnings conference call or presentation Thursday, August 26, 2021 at 8:45:00pm GMT
+
+TEXT version of Transcript
+
+================================================================================
+Corporate Participants
+================================================================================
+   *  Ashish Saran
+      Marvell Technology, Inc. - VP of IR
+   *  Jean X. Hu
+      Marvell Technology, Inc. - CFO
+   *  Matthew J. Murphy
+      Marvell Technology, Inc. - President, CEO &amp; Director
+
+================================================================================
+Conference Call Participants
+================================================================================
+   *  Ambrish Srivastava
+      BMO Capital Markets Equity Research - MD of Semiconductor Research &amp; Senior Research Analyst
+   *  Blayne Peter Curtis
+      Barclays Bank PLC, Research Division - Director &amp; Senior Research Analyst
+   *  Christopher Caso
+      Raymond James &amp; Associates, Inc., Research Division - Research Analyst
+   *  Gary Wade Mobley
+      Wells Fargo Securities, LLC, Research Division - Senior Analyst
+   *  Harlan Sur
+      JPMorgan Chase &amp; Co, Research Division - Senior Analyst
+   *  John William Pitzer
+      Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+   *  Joseph Lawrence Moore
+      Morgan Stanley, Research Division - Executive Director
+   *  Nathaniel Quinn Bolton
+      Needham &amp; Company, LLC, Research Division - Senior Analyst
+   *  Ross Clark Seymore
+      Deutsche Bank AG, Research Division - MD
+   *  Srinivas Reddy Pajjuri
+      SMBC Nikko Securities America, Inc., Research Division - Research Analyst
+   *  Tore Egil Svanberg
+      Stifel, Nicolaus &amp; Company, Incorporated, Research Division - MD
+   *  Toshiya Hari
+      Goldman Sachs Group, Inc., Research Division - MD
+   *  Vivek Arya
+      BofA Securities, Research Division - Director
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ Good afternoon, and welcome to the Marvell Technology's Fiscal Second Quarter 2022 Earnings Conference Call. (Operator Instructions) Please note, this event is being recorded. I would now like to turn the conference over to Mr. Ashish Saran, Vice President of Investor Relations. Please go ahead.
+--------------------------------------------------------------------------------
+ Ashish Saran,  Marvell Technology, Inc. - VP of IR   [2]
+--------------------------------------------------------------------------------
+ Thank you, and good afternoon, everyone. Welcome to Marvell's Second Quarter Fiscal Year 2022 Earnings Call. Joining me today are Matt Murphy, Marvell's President and CEO; and Jean Hu, our CFO.
+ I would like to remind everyone that certain comments made today may include forward-looking statements which are subject to significant risks and uncertainties that could cause our actual results to differ materially from management's current expectations. Please review the cautionary statements and risk factors contained in our earnings press release, which we filed with the SEC today and posted on our website as well as our most recent 10-K and 10-Q filings. We do not intend to update our forward-looking statements.
+ During our call today, we will refer to certain non-GAAP financial measures. A reconciliation between our GAAP and non-GAAP financial measures is available in the Investor Relations section of our website.
+ As discussed during the prior quarter's earnings call, we have implemented a change in how we report revenue. Starting with the second quarter of fiscal 2022, we have started to report revenue by our 5 end markets. In our earnings press release we issued earlier today, we have provided historical end market revenue data by quarter, starting with the second quarter of fiscal 2020. In this press release, we have also provided revenue results by product group. Going forward, we intend to only report revenue by end market.
+ In today's call, Matt will comment briefly on our revenue performance by product group for the second quarter, before transitioning most of his discussion to our results and expectations for each of our 5 end markets.
+ With that, I will turn the call over to Matt for his comments on our performance. Matt?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [3]
+--------------------------------------------------------------------------------
+ Thanks, Ashish, and good afternoon, everyone. I'll start with a summary of our second quarter GAAP results. Revenue was $1.076 billion. GAAP gross margin was 34.6%. GAAP operating loss was $267 million. And loss per diluted share was $0.34.
+ Building on the strong results we delivered in Q1, our second quarter results, which include a full quarter of Inphi, were equally robust driven by strength in our diversified end markets and continued focus on operational excellence. Revenue for the second quarter exceeded the midpoint of our guidance and grew 29% sequentially and 48% year-over-year.
+ I'm now going to review our non-GAAP results for the quarter. Non-GAAP gross margin was 64.8%, 80 basis points better than expectations. Non-GAAP operating expenses were lower than expected, and we delivered $331 million in non-GAAP operating income. Revenue, non-GAAP gross margin and non-GAAP operating income were all record achievements for Marvell.
+ Higher revenue, coupled with stronger non-GAAP gross margin and lower OpEx, drove non-GAAP earnings per share to $0.34, $0.03 above the midpoint of guidance. Non-GAAP EPS grew 62% year-over-year. Our non-GAAP operating margin climbed above 30%, demonstrating significant operating leverage in our business model.
+ In the second quarter, the stand-alone Marvell business delivered solid year-over-year revenue growth in the high teens on a percentage basis, similar to the growth rate we saw in Q1. I'm also pleased with the strength of our Inphi business, which delivered revenue above expectations and was accretive to our non-GAAP earnings in its first full quarter within Marvell.
+ On a product group basis, networking revenue was $702 million, above the midpoint of expectations, and grew 41% sequentially and 73% year-over-year. Storage revenue was $342 million, also above the midpoint of expectations, and grew 13% sequentially and 18% year-over-year. Our storage business, which I would note does not include any contributions from Inphi, is now running at an annualized revenue run rate of approximately $1.4 billion. This business has been growing double digits year-over-year in recent quarters, reflecting its remarkable transformation, from significant PC exposure, to now being focused largely on the data center.
+ Based on the significant improvement in the mix of end markets, combined with design wins we have secured for our SSD controllers, HDD controllers and preamps, we expect our storage business to continue to grow strongly over the next several years. Let me now move on to discussing our 5 end markets.
+ I'll start with the recap of the substantial improvements we have driven over the last few years in focusing the company on data infrastructure, which is evident in the historical data we have provided today. As a result of our strategic multiyear transformation, we have significantly increased our exposure to the data center and carrier end markets, which are characterized by long product life cycles, sticky design wins and multigenerational engagements. At the same time, we have substantially reduced our dependence on the consumer market, which tends to be more volatile, with shorter product life cycles.
+ The consumer market is now only 15% of our total revenue. Factors contributing to this change include significantly higher growth we have driven from the other end markets, our deemphasis on PC, HDD and SSD controllers, and the sale of our Wi-Fi business. In sharp contrast, data center is now our largest end market and at 40% of total revenue, is about twice as large as any of our other end markets. We believe that data center is positioned to become an even bigger part of Marvell over time when we combine our growing market share with the numerous secular growth drivers in this end market.
+ Over the last few years, data center has become our most diversified end market, with revenue contribution from nearly every Marvell product line. Cloud is the primary growth driver in this end market, and it's exciting to note that cloud now represents more than half of our data center revenue, making cloud, on its own, larger than any of our other 4 end markets.
+ We have grown our data center business through organic investment in our nearline HDD controllers and preamps, SSD controllers as well as significant M&amp;A. We added Cavium's LiquidIO and LiquidSecurity DPUs, which have been adopted by multiple cloud customers. The Avera acquisition added a custom ASIC platform, which we coupled with Marvell's leading standard product IP. This has proven to be extremely compelling to hyperscale customers who are building custom hardware to deploy incredibly efficient and optimized infrastructure. We recently added Inphi's market-leading electro-optics portfolio for high-speed connectivity, both within and between cloud data centers. Finally, the proposed acquisition of Innovium will add their cloud-optimized Ethernet switches to our data center portfolio of products.
+ With the broadest technology platform in the industry, we believe Marvell is well positioned to become a semiconductor leader in data center and expect this end market will be the most important growth opportunity for the company over the next several years.
+ In carrier infrastructure, we have been significantly growing our dollar content in base stations, winning new customers and growing our overall market share in the 5G market. Just over the last 2 years, our carrier revenue has nearly tripled, representing approximately 20% of our total revenue. We expect a sustained period of strong revenue growth from this end market driven by an increase in 5G deployments, which are still on the early stage of worldwide adoption and the ramp of our full platform of 5G products at multiple customers in their current generation of base stations.
+ We have also won additional sockets in 5 nanometer, which will go into production next -- in next-generation base station launches over the next several years, extending the growth from our carrier end market over a long time period.
+ The enterprise networking end market comprises approximately 20% of our total revenue. The revenue contribution from this end market has grown rapidly and kept pace with the strong growth in Marvell's total revenue over the last few years. This is a solid accomplishment against the backdrop of challenging end market dynamics.
+ In fact, over the last 2 years, our enterprise revenue has grown at a 23% annual CAGR, with the majority of the growth coming from stand-alone Marvell Ethernet switch and PHY products. These refreshed platforms have been instrumental in driving outsized revenue growth, a testament to the competitiveness of our products and technology. We believe that we are well positioned to continue outperforming the market and are looking forward to a recovery in enterprise spending that would serve as an incremental tailwind to this business.
+ Our revenue from the automotive and industrial end market has begun to accelerate in recent quarters, benefiting from the ramp in our auto Ethernet connectivity business. Our automotive business is in its early stages of growth, but given our design win traction and the growth expected in the adoption of Ethernet technology in cars, we expect the revenue contribution from this end market will become a larger portion of our total revenue over time.
+ Let me now move on to discussing our second quarter results and third quarter expectations for each of our end markets, starting with data center. In our data center end market, revenue for the second quarter was $434 million, growing 57% sequentially and 62% year-over-year. Strong growth was driven by contributions from the acquired Inphi business and ongoing growth from the stand-alone Marvell business. Cloud customers drove the vast majority of the growth in our data center end market.
+ Our electro-optics products continue to benefit from the adoption of PAM-based connectivity inside cloud data centers as well as the adoption of DCI or data center interconnect between regional locations. Marvell's DPUs and storage products also contributed to growth in this end market.
+ Last quarter, we discussed a number of significant design wins, leveraging our advanced technology platform with multiple cloud customers across a variety of applications and business models. These are expected to drive a substantial step-up in our cloud revenue in the calendar 2024 to 2025 time frame. Development is in full swing on these projects, and I am pleased to report that our cloud design win momentum continues this quarter, with an additional custom ASIC design secured for a cloud networking application.
+ We expect to continue to win sockets and gain share in this market, leveraging the strength of our portfolio and growing engagements with key cloud customers.
+ In our third fiscal quarter, we are expecting another strong performance from data center, projecting robust sequential revenue growth in the double digits on a percentage basis. We expect year-over-year growth will be considerably higher and project data center revenue to just over double from a year ago. We expect the sequential growth to be driven by cloud, with virtually all of our product lines contributing to growth.
+ I am also pleased to note that in the third quarter, we expect to start ramping our second generation of COLORZ DCI products, 400-gig ZR, into volume production.
+ With our proposed acquisition of Innovium, we are looking forward to adding their cloud-optimized switches to Marvell's broad data center portfolio. We received very positive feedback from multiple key customers following our announcement of the planned combination. We are excited about the prospect of collaborating more closely with us once the acquisition closes, to address their need for high-performance switches going forward.
+ Turning to our carrier infrastructure end market. Revenue for the second quarter was $197 million, growing 17% sequentially and 38% year-over-year. In addition to the contribution from Inphi, year-on-year growth was enabled by a stand-alone Marvell's wireless business. Our wireless revenue growth was driven by ongoing deployments of 5G as well as product ramps at Samsung and Nokia, partially offset by an expected decline in custom ASICs shipping into China.
+ Design win progress continues in 5G, and I'm pleased to report that we have won a next-generation ASIC design, leveraging our 5 nanometer technology platform within the radio unit at a key base station customer. With this win, we have now secured 5 nanometer designs at 3 Tier 1 base station customers. Our ORAN and DRAM platform, which includes our card-based layer 1 accelerator, also continues to be adopted by multiple cloud customers in wireless base station OEMs.
+ In the third fiscal quarter, we expect sequential revenue growth from the carrier end market driven by strong growth from wireless, partially offset by a decline from wired. We project the strong growth in wireless in the double digits sequentially and on a percentage basis to come from an increase in 5G deployments in multiple regions. In addition, we expect growth from 5G to significantly accelerate in the fourth quarter.
+ On a year-over-year basis for our carrier end market, we project strong revenue growth to continue above 20% in the third quarter.
+ Moving on to our enterprise networking end market. Revenue for the second quarter was $223 million, growing 27% sequentially and 41% year-over-year, with the majority of the growth coming from stand-alone Marvell products. This remarkable level of organic growth in the enterprise end market was made possible in part by a strong effort from our operations team to address pent-up customer demand. While we expect strong demand to continue for the foreseeable future, we expect supply constraints will impact our ability to sustain this level of revenue attainment in the third quarter.
+ From a product perspective, growth in the second quarter was driven by our Ethernet networking portfolio, benefiting from ongoing share gains and the beginning of multi-gig adoption. We are also encouraged by strong demand for our products from customers that we believe indicate a recovery is underway in this end market.
+ Looking ahead to the third quarter, while we expect a sequential decline in revenue due to supply constraints, we anticipate strong year-over-year growth, approaching 30%.
+ Turning to our automotive and industrial end markets. Revenue for the second quarter was $57 million, growing 24% sequentially and 125% year-over-year driven by the ongoing ramps in our auto business. Marvell continues to gain recognition from customers for its commitment to automotive-grade quality and reliability. During the quarter, we received a prestigious Global Supplier Award from the Bosch Group in recognition of Marvell's outstanding performance in quality in the manufacture and supply of leading-edge data infrastructure semiconductors. We are looking forward to our continued partnership and long-term collaboration with Bosch on our broad and growing group of automotive customers and partners.
+ Turning to the third fiscal quarter. We expect our revenue from the auto and industrial end market to grow sequentially. Year-over-year, we project growth will continue to be very strong and expect revenue to nearly double in the third quarter. We also expect to attain an important milestone in the third quarter. Our automotive business is projected to cross over $100 million annualized revenue run rate earlier than prior expectations.
+ Moving on to our consumer end market. Revenue for the second quarter was $165 million, declining 1% sequentially and growing 23% year-over-year. Most of the revenue in this end market is from stand-alone Marvell, and the strong annual growth was driven primarily by our custom DIY SSD controllers. Looking ahead to the third quarter, we expect revenue to grow sequentially, while year-over-year revenue growth will remain strong, in the double digits, on a percentage basis.
+ In closing, we expect our business momentum to gather strength in the second half of fiscal year 2022. Our recent results and near-term expectations for revenue growth continue to trend above the high end of our target model. Demand for our products continues to significantly outpace supply, and our global operations team is aggressively securing more capacity. We are working closely with our supply partners, leveraging our scale and balance sheet to improve our ability to meet the strong secular growth in demand we expect for our data infrastructure products, both in the short and the long term.
+ For our third fiscal quarter, at the midpoint of guidance, we expect revenue to grow 6% sequentially and 53% year-over-year. We expect growth from the stand-alone Marvell business to accelerate to over 20% year-over-year in the third quarter compared to the high teens we achieved in the first half. Additionally, we expect the Inphi business to continue to perform well and grow faster than stand-alone Marvell.
+ Our integration of Inphi is proceeding very well, and we successfully achieved our one ERP milestone ahead of schedule. Leveraging the larger scale and broader set of key technologies, the combined teams are working closely together on winning new opportunities at multiple Tier 1 customers. We are also looking forward to completing the proposed acquisition of Innovium, which will broaden our Ethernet Switch platform and further increase our exposure to the fast-growing cloud data center market.
+ I'm also pleased to announce that we will be hosting our Investor Day this year on Wednesday, October 6, 2021, at 8 a.m. Pacific. Similar to last year, this will be a virtual event, webcasted live on our website. We will provide more event details in a press release shortly.
+ With that, I'll turn the call over to Jean for more detail on our recent results and outlook.
+--------------------------------------------------------------------------------
+ Jean X. Hu,  Marvell Technology, Inc. - CFO   [4]
+--------------------------------------------------------------------------------
+ Thanks, Matt, and good afternoon, everyone. I'll start with a review of our financial results for the second quarter and then provide our current outlook for the third quarter of fiscal 2022.
+ Revenue in the second quarter was $1.076 billion, $11 million above the midpoint of guidance. Networking represented 65% of our revenue, with storage contributing 32%. Revenue from other accounted for 3% of our revenue.
+ As Ashish mentioned earlier, starting with the third quarter, we'll only report revenue by our 5 end markets to provide more transparency about the key growth drivers of our business.
+ GAAP gross margin was 34.6%, which included amortization of Inphi inventory step-up costs. Non-GAAP gross margin was 64.8% of revenue, 80 basis points above the midpoint of guidance, primarily due to a better mix. GAAP operating expenses were $638 million. Non-GAAP operating expenses were $366 million, approximately $6 million below the midpoint of guidance, primarily due to faster-than-expected Inphi synergy achievement and a disciplined OpEx management. I'm confident that our team will achieve the remaining Inphi integration synergies based on the plan we discussed last quarter.
+ Given the significant growth opportunities ahead of us, we are turning our focus to ensuring continued investment to support our long-term profitable growth. As a reminder, our operating expenses can vary quarter-to-quarter, affected by factors such as the number of the tape-outs within a particular quarter. And these tape-outs are becoming more expensive in newer process geometry. The cadence of an NRE payment, which we treat as contra-OpEx, can also add variability.
+ Our GAAP operating loss was $267 million. Non-GAAP operating profit was $331 million or 30.8% of revenue. For the second quarter, GAAP loss per diluted share was $0.34. Non-GAAP income per diluted share was $0.34.
+ Now turning to our balance sheet. During the quarter, cash flow from operations was $222 million. We returned $49 million to shareholders through dividend-paying. Our long-term debt was $4.7 billion. Our gross debt-to-EBITDA ratio was 3.4x, and net debt-to-EBITDA ratio was 3x. Inventory at the end of second quarter was $460 million. We amortized $156 million of the Inphi inventory step-up costs in the second quarter due to purchase price accounting. And we anticipate amortizing the remaining balance of $17 million by the end of the third quarter of fiscal 2022.
+ Now turning to our guidance for the third quarter of fiscal 2022. Please note, this guidance does not include any contributions from the pending acquisition of Innovium. We are forecasting revenue to be in the range of $1.145 billion, plus or minus 3%. We expect our GAAP gross margin in the range of 46.3% to 48.3%. We project our non-GAAP gross margin will be in the range of 64% to 65%. We project our GAAP operating expenses to be in the range of $584 million to $594 million. We anticipate our non-GAAP operating expenses to be in the range of $365 million to $370 million. We expect non-GAAP tax rate of 5%. We expect our basic weighted average shares outstanding will be 824 million. And our diluted weighted average shares outstanding will be $841 million. As a result, we anticipate GAAP loss per share in the range of $0.10, plus or minus $0.04. We expect non-GAAP income per diluted share in the range of $0.38, plus or minus $0.03.
+ Operator, please open the line and announce Q&amp;A instructions. Thank you.
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator   [1]
+--------------------------------------------------------------------------------
+ (Operator Instructions) Our first question will come from John Pitzer with CrÃ©dit Suisse.
+--------------------------------------------------------------------------------
+ John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head   [2]
+--------------------------------------------------------------------------------
+ And congratulations on the solid results. Matt, relative to your enterprise commentary, you talked about supply constraints impacting the October quarter. I'm wondering, when you look at the overall business holistically, where are things relative to the supply side of the equation. Are you still unable to ship to full demand by sort of what amount?
+ And earlier this week, there were some rumors in the popular press of the foundry guys raising pricing. I'm just kind of curious if you guys have embedded that into your gross margin guidance and how you're thinking about kind of the current inflationary pricing environment. Can you pass that on? Or is that something that you can't pass on?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [3]
+--------------------------------------------------------------------------------
+ Yes. Great. Thanks, John. So with respect to enterprise, let me just frame it at the whole company level. We are still carrying pretty meaningful levels of delinquency across all of the end markets as our business has accelerated in terms of top line growth, which we've been very pleased at. I guess the downside is that the demand has continued to grow. Well, I guess it's a good thing the demand is growing faster than supply, but we need to catch up. So enterprise is impacted, but so are the other end markets.
+ Although I would say, given the complex nature of our networking products, there's -- we're carrying relatively more. We're relatively farther behind there. We were pleased that we were able to have a strong performance in Q2 and catch up because as you can see, there was a fairly meaningful step-up in revenue. Most of that is coming from organic stand-alone Marvell. There is some contribution from Inphi, but it's not as -- it wasn't large for Inphi. So this is all Marvell.
+ In fact, when you look into Q3, in our guidance, it still implies a 30% year-over-year growth rate in enterprise. So we could ship a lot more for you to get the products. And I think you could also view this as another sign that the enterprise business, which we had been saying a quarter or 2 ago, could be a real tailwind for the company.
+ It's -- this business is definitely picking up, both at the end market and demand level as well as our own design wins, layering in. So we're going to be working hard to increase our revenues here and catch up on the delinquency.
+ On the foundry side, and just in general, with the pricing environment, I mean, as you recall, there was a lot of commentary at the end of last year and early this year from all the major semiconductor companies relative to the supply chain cost increases that have been occurring on an ongoing basis, and that's everything from foundry, to back end, to substrates. We said earlier this year, we were able to work with our customers on that. And so as you can see in our margin performance, we've been able to work with them to pass that on. We've done that pretty fairly and in a neutral manner.
+ I anticipate, as we head into calendar '22, that there will be additional increases across the industry and input cost. And I'm confident, as part of Marvell, we're able to work with our customers to again neutralize that impact. But the key focus we have right now, John, is planning our business together, focusing on long-term supply and making sure that not only can we meet the short term, but also engage in multiple long-term agreements where we really have much stronger visibility to long-term supply. So that's been the priority for us. That's been the priority for our customers. And I think the pricing has been second at this point.
+--------------------------------------------------------------------------------
+Operator   [4]
+--------------------------------------------------------------------------------
+ Our next question will come from Ross Seymore with Deutsche Bank.
+--------------------------------------------------------------------------------
+ Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD   [5]
+--------------------------------------------------------------------------------
+ And I echo the congrats on the results. Matt, I want to go a little bit into the carrier business. You talked in your press release about the 5G business accelerating in the third quarter and then taking -- I think you called it a significant step-up again in the fourth quarter. Can you give us just a little bit of a ballpark how much of your carrier business is that? What's driving that 5G step-up? And I guess, as kind of the deductive logic, what's driving the step-down on the wired side implicit in your fiscal third quarter guide?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [6]
+--------------------------------------------------------------------------------
+ Yes. Great. Thanks, Ross. Yes. So wireless has performed very well for us historically. As you recall, we had 7 straight quarters of sequential growth in our 5G business. That took a pause this past quarter, which we had signaled, with the China 5G digestion. And then on the positive side, we see that business reaccelerating and growing in Q3 and then even more in Q4. That's primarily on the back of new design wins that we had achieved several years ago ramping into production, and those geographies that are being serviced through those are primarily non-China. So that's really part of the -- now the global rollout, which we're well positioned with, with our key customers there. So it's a combination of global rollout plus new content kicking in, which we had been signaling for some time. So that's all going well.
+ The balance, as you mentioned, is wired. That business historically wasn't terribly large for Marvell. We picked up some wired revenue from Inphi really in the Coherent franchise, which does link, in some ways, to the growth of global data traffic. So we feel good going forward about the wired portion, that's the Inphi piece. But in general, that business is lumpier. That business also has pretty significant supply constraints around it as well. And so I would say the traditional Marvell wired business isn't necessarily a growth business. The carrier business, over time, will be driven by the wireless portion as well as some of the Inphi business.
+ And just big round numbers, the wireless portion is roughly half the carrier number, and that will grow over time, obviously, as wired probably stays flattish without Inphi. Inphi will grow. And then, obviously, the 5G rollouts will really be what's going to drive the carrier growth over the next few years.
+--------------------------------------------------------------------------------
+Operator   [7]
+--------------------------------------------------------------------------------
+ Our next question will come from Vivek Arya with Bank of America.
+--------------------------------------------------------------------------------
+ Vivek Arya,  BofA Securities, Research Division - Director   [8]
+--------------------------------------------------------------------------------
+ Matt, you're guiding Q3 sales up by, I think, $69 million, $70 million, 6% or so. Is that really the absolute dollars of supply equivalent that is becoming available? And if that is the case, is that the range of supply dollars that could be available for the next several quarters? So I know you're not guiding more than a quarter out. I'm just trying to get a better sense for how many supply dollars are kind of becoming available for the next handful of quarters because it seems like that is really what's going to gate what we assume from a growth perspective for you over the next several quarters.
+ And I think part B of that, on the 5G side, you alluded to that 5G ramp in Q4. Would that be incremental to that kind of supply available? Or do you think that is kind of captured in those dollars? So I'm just trying to get a better sense for what the flex is on the supply side over the next handful of quarters.
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [9]
+--------------------------------------------------------------------------------
+ Sure. Yes. I mean I think it's fairly straightforward in terms of how we think about the guidance and just the broader commentary that we gave, which very much comprehends the supply that we see available, and were obviously been pushing hard to increase that. And I would note, we have increased that. If you look, even going back to a year ago or more, even at the beginning of calendar 2020, we started growing the company double digits, and that growth rate for the stand-alone Marvell has actually accelerated, right? It was in the double-digit range.
+ Now you get to the first half of this year. We had 17% kind of growth, both in Q1 and Q2, in the stand-alone Marvell business. We said that that's going to pick up in Q3, right, more like 20% year-over-year. And we expect that we can continue going at that kind of rate. So we've been actually accelerating our ability to get supply. And then on top of that, we've got Inphi kicking in, which has also been able to grow their business meaningfully.
+ So that's -- we've been signaling for quite some time to our supply chain that -- and our suppliers that we have needs, and here they are. And so you should expect we're going to keep working on that and we're going to keep driving the supply higher as available. We've had, I think, a lot of productive discussions and negotiations with our key suppliers, not only for this quarter, next quarter, but next year and even beyond in terms of really lining up where we see our business heading.
+ The advantage, I think, we have over some of the other industry peers, perhaps, is that our product life cycles, Vivek, in the data -- in data infrastructure are very long. These are typically 5, sometimes 7-year life cycles. So we've got very good visibility. And so we're in those discussions right now, both this quarter, next quarter, blocking and tackling as well as planning our calendar '22 and then even planning out even farther with some long-term agreements we're putting in place.
+ But just to circle back to your -- to the main question, yes, everything we give you is centered around what we can actually supply. There's -- like I said, every one of our end markets, we could ship more right now if we could get the parts.
+--------------------------------------------------------------------------------
+Operator   [10]
+--------------------------------------------------------------------------------
+ Our next question will come from Blayne Curtis with Barclays.
+--------------------------------------------------------------------------------
+ Blayne Peter Curtis,  Barclays Bank PLC, Research Division - Director &amp; Senior Research Analyst   [11]
+--------------------------------------------------------------------------------
+ Just curious on -- you mentioned another cloud ASIC win and that, that can span a lot, storage or DPUs, CPUs, networking and now, maybe opticals. I was wondering if you could give any color on that one or maybe just in general, all these wins that you've had, where you're seeing the most traction across that whole ASIC capability, would be helpful.
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [12]
+--------------------------------------------------------------------------------
+ Yes. Sure, Blayne. Thanks. Yes, I would say, just if I frame it more broadly, as you mentioned, the dynamic is that the ASIC and semi-custom wins that we're getting are across a broad range of applications. So it's all of the above. They're everything from compute, ML, AI, networking, storage. And I'm pleased with the breadth, and it's across multiple customers, multiple applications. I believe, in my prepared remarks, on the one that we just secured, was actually in the networking area. So it's in a bunch of different applications. But it's all leveraging fundamentally, Blayne, the 5 nanometer technology platform that we introduced in the summer of 2020, which is leveraging all of the high-performance standard Marvell IPs. That's all going very well.
+ And just as a side note on our 5 nanometer programs, our -- we have multiple products now that have taped out this year. We actually have first silicon on 5 nanometer coming back now imminently. And we're very happy with all the benchmarking performance, et cetera.
+ I would also say that we're in a strong period of design win momentum, primarily because we introduced the platform in 2020. There's a whole range now of RFQs that we've been successful on closing on. And that's not just in the cloud, by the way. We also noted we won an important 5G ASIC just recently. And even across some of our other end markets, we've also secured some very important programs on 5 nanometer. So yes, so I think the -- over time, what you'll see is a very diverse offering of cloud, of custom and semi-custom sockets across multiple end markets and multiple applications.
+--------------------------------------------------------------------------------
+Operator   [13]
+--------------------------------------------------------------------------------
+ Our next question will come from Tore Svanberg with Stifel.
+--------------------------------------------------------------------------------
+ Tore Egil Svanberg,  Stifel, Nicolaus &amp; Company, Incorporated, Research Division - MD   [14]
+--------------------------------------------------------------------------------
+ And congrats on the record results. Matt, you mentioned that 400ZR is going to be ramping now. Is that with sort of Inphi's anchor customer? Or are you starting to see ramps with multiple hyperscalers for that particular product?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [15]
+--------------------------------------------------------------------------------
+ Yes. What I would say, Tore, is on 400ZR, unlike the initial COLORZ product, which was primarily at one hyperscaler, the engagements are much more broad with 400ZR. And so there, I would say, there are a number of different design opportunities and wins that are at various stages of trials, qualifications and production ramps. But we anticipate that 400ZR will be multicustomer, multiyear and a very important product cycle for Marvell. But there's probably -- there's one primary customer ramping now, but it's going to continue beyond that.
+--------------------------------------------------------------------------------
+Operator   [16]
+--------------------------------------------------------------------------------
+ Our next question will come from Harlan Sur with JPMorgan.
+--------------------------------------------------------------------------------
+ Harlan Sur,  JPMorgan Chase &amp; Co, Research Division - Senior Analyst   [17]
+--------------------------------------------------------------------------------
+ And congratulations on the strong result and execution. As I look beyond Q3 and the growing demand profile for your products, right, combined with strong product upgrade cycles, you've got 400-gig in your PAM for optical business. As you just mentioned, you're ramping a new data center interconnect business on 400ZR, 5G wireless, as you mentioned, and continued strong demand for your nearline HDD and enterprise SSD controllers.
+ This would suggest then a high-level sequential growth into Q4. Does the team have the supply commitments, both wafers and packaging substrates, to drive quarter-on-quarter growth in Q4 if the backlog supports it?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [18]
+--------------------------------------------------------------------------------
+ Yes. Thanks for the question, Harlan. We do. We see increasing supply each quarter. Our backlog today and firm purchase orders firmly supports that, plus the supply that comes with it. So we do expect sequential growth in Q4. And as you mentioned, you outlined a number of growth opportunities. This isn't just going to be a Q3, Q4 type of phenomena. Each one of these really carries into calendar '22 and in many cases, accelerates.
+ So that's why I said earlier, in one of the prior questions, it's -- there's blocking and tackling in Q3 and Q4, but we've been really working for the last 6 months, in detail even longer, on how do we line up continued strong growth in calendar '22, '23, '24 because this is going to be multiyear. And many of these engagements, by the way, are also multigenerational. So we tend to transition from one platform to another, and we're going to see that in our 5G business as an example. So yes, bottom line is we do have supply lined up, and we're going to keep working hard to make sure we can chunk away at that delinquency.
+ And we're very focused on customer sat at this point. I think that's the main driving force of what we do right now, Harlan, is just make sure that we're not the long pole in the tent, that we're meeting what our customers need and that we're also planning our business together. And I'm quite pleased with how that cooperation is going. And I think we have a very, very clear outlook for what we need to go get done in the next few quarters and through next year.
+--------------------------------------------------------------------------------
+Operator   [19]
+--------------------------------------------------------------------------------
+ Our next question will come from Srini Pajjuri with SMBC Nikko Securities.
+--------------------------------------------------------------------------------
+ Srinivas Reddy Pajjuri,  SMBC Nikko Securities America, Inc., Research Division - Research Analyst   [20]
+--------------------------------------------------------------------------------
+ Matt, I have a question on the hyperscale business. Obviously, you have several product cycles in the 400-gig, 400ZR, and you also mentioned DPUs. What I'm trying to figure out is that many of your peers are also reporting very strong demand from hyperscale. So trying to understand to what extent your business is mostly structural versus also benefiting from some of the spending increase and the cyclical factors.
+ So as we go through the next few quarters as, I guess, some of the cyclical factors slow down, I'm just trying to figure out how we should think about your core business that goes into the hyperscale customers?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [21]
+--------------------------------------------------------------------------------
+ Yes. I think, Srini, it's both. So clearly, the peer companies are -- I mean there's probably one notable exception. But in general, the peer companies are reporting very strong growth in hyperscale. So I think that is secular, and I think that's very much happening. If you just look at our organic growth, and you can do the math because you know sort of where Inphi was a year ago, it's very, very strong. And in fact, as I look to Q3, it's both growth from Inphi. But as you pointed out, that it's not just DPUs from Marvell, it's also our networking products, it's our storage products.
+ I mean we sell a number of product lines, let's call it, 10, maybe 10-plus product lines. Just going into cloud alone, almost each one of those is up even sequentially in Q3, almost all of them are up. And then if you look at year-over-year, the growth in our data center business, actually in cloud business from Marvell stand-alone, would actually be even growing faster than the Inphi business. So -- and that's all on the basis of new designs and new ramps contributing to that.
+ So I think we've got both. We've got strong secular demand happening in the hyperscale, but it's our own unique cycles. As you mentioned, the transition from NRZ to PAM and 400-gig and 200-gig intra data center, the ramp now of 400ZR, the attach rate of DPUs, attaching more and more as a percentage to CPUs. And then you've got our own product cycles, whether they're new design wins in DIY storage for Flash. I mean I could go through the whole list, but it's -- I think that's the exciting thing about our portfolio, that's very differentiated in the semiconductor industry relative to the hyperscale accounts, is we have so many product lines very unique and very differentiated both in the silicon and the software and firmware we provide.
+ And we're just at the early stages in some of these, quite frankly, in terms of the ramp cycle. So when you look at the guide, we're going to be -- obviously, our guide for data center is about 2x the rate of growth for the whole company, just from Q2 to Q3. And certainly, we have very strong expectations heading into next year on the data center.
+--------------------------------------------------------------------------------
+Operator   [22]
+--------------------------------------------------------------------------------
+ Our next question will come from Ambrish Srivastava with BMO.
+--------------------------------------------------------------------------------
+ Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research &amp; Senior Research Analyst   [23]
+--------------------------------------------------------------------------------
+ Matt and Jean, on gross margin, despite all the input costs, you have been able to keep it to the higher end of the long term. And Matt, you made a comment about next year kind of expecting additional input -- not additional, ongoing input cost increase. So should we expect gross margin to kind of stay in the higher end of the range like you're guiding to? Or is there an offset? And I do realize that there is a product mix impact as well. So just please help us understand how we should think about the overall gross margin.
+--------------------------------------------------------------------------------
+ Jean X. Hu,  Marvell Technology, Inc. - CFO   [24]
+--------------------------------------------------------------------------------
+ Hey, Ambrish, this is Jean. Yes. So first, we're very pleased with our strong Q2 gross margin performance. And I think one of the things we discussed in the past is the primary driver of our gross margin is really product mix. And what we have been doing with the customers, as Matt mentioned, is we're working with the customers really to try to minimize the impact from all the input cost increase. But overall, if you think about the product portfolio we have in data center, as Matt just mentioned earlier, and also enterprise in Q2, we see our enterprise business, networking business growing 27% sequentially.
+ All those significant performance on the product portfolio and the revenue side actually are very favorable to our gross margin. Fundamentally, it's a reflection of our investment and IP. So I don't think that will change because we continue to innovate, continue to invest, to drive the portfolio and the top line revenue growth. So we're going to be in the range, and we'll continue to work with the customers to set priorities and to make sure we meet the customer's need first, and then definitely, we want to make sure our operating model continues to leverage to expand operating profit going forward.
+--------------------------------------------------------------------------------
+ Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research &amp; Senior Research Analyst   [25]
+--------------------------------------------------------------------------------
+ Got it, Jean. So we should assume at the higher end of the long-term range then, right? Given how the product mix is shifting more towards...
+--------------------------------------------------------------------------------
+ Jean X. Hu,  Marvell Technology, Inc. - CFO   [26]
+--------------------------------------------------------------------------------
+ The range is the product mix because we have 5 end markets. Quarter-over-quarter, you're going to see the variability of the mix change. Frankly, it's what we discussed, the 64% to 65%, that range is potentially you are going to see in the long term.
+--------------------------------------------------------------------------------
+Operator   [27]
+--------------------------------------------------------------------------------
+ Our next question will come from Joe Moore with Morgan Stanley.
+--------------------------------------------------------------------------------
+ Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director   [28]
+--------------------------------------------------------------------------------
+ I appreciate the additional revenue classifications and the color there. I'm curious how you're thinking about building the development team. Are you going to focus on these end markets more? Or I noticed their are storage controllers, I think, going into 4 of the 5 segments. So are you going to maintain vertical market focus on storage and then have kind of a go-to-market with needs? Just how should we think about this impacting not just the way we see your business, but how you're seeing it internally?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [29]
+--------------------------------------------------------------------------------
+ Yes. Thanks for the question, Joe. Actually, it's pretty insightful. So we're a product company. We're a technology company. We're organized by business units. We have divisions, business units and product lines. And each of those is really responsible for driving technical excellence in everything they do, product differentiation, road map, and that's going to continue.
+ What I would say though is when I look at my level and when we look at -- when I -- and this has been consistent for 5 years. I had a philosophy when I became CEO, which was that the semiconductor companies that adopted a market-based approach relative to looking at the R&amp;D investment profile across its portfolio, those companies that made that shift were going to have the biggest lever going forward.
+ I mean I'm just -- I preach it internally all the time, which is the market always wins. And so we had an era, when I started in the industry, which was you just did parts, as many parts as you can, put them out in the data books, so you provide the parts, the best part wins.
+ There was a shift to, hey, go focus on customers, find a customer, sell a basket of products. But in the end, it's really the end market orientation and concentration which ultimately drives your business. And those -- the shifting that mix is like one of the hardest things to do in business, okay? You can sort of shift your product line, you can move some investment around. But to get it to flow through to the P&amp;L is really tough.
+ And so I think one of the things, when you just take a 30,000-foot view, Joe, of what we've accomplished in the last 5 years, consumer, when I joined, was probably 70% to 80% of the revenue, right? It's 15. I think the total contribution from cloud and 5G and auto was -- if it was $75 million a year, we would be lucky, okay? It's like doing -- it's in the billions range today. So that's really where I've been taking the firm over the last 5 years, through the M&amp;A, through all the investments, through the R&amp;D changes we've made, so that we can achieve an end market mix that really meets our long-term strategy.
+ And we're not there yet. I think we're pleased. We've sort of unveiled this thing. We're 40% in data center. We're 20% in carrier. We're 20% in enterprise. We've got this automotive thing that's growing really fast. So that concentration now in where we want to be is very high. But the key focus areas, like cloud, 5G and auto, those are going to continue to increase as a percentage of our total.
+ So maybe a longer answer, Joe. We organize by business unit, but we run the company and ultimately, the capital allocation framework ultimately around the end market and even where is the R&amp;D going, and it's a very rigorous process we have internally. And you could see the results over the last 5 years of what we've been able to accomplish with that framework.
+--------------------------------------------------------------------------------
+Operator   [30]
+--------------------------------------------------------------------------------
+ Our next question will come from Toshiya Hari with Goldman Sachs.
+--------------------------------------------------------------------------------
+ Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD   [31]
+--------------------------------------------------------------------------------
+ Hello?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [32]
+--------------------------------------------------------------------------------
+ Yes. We're here.
+--------------------------------------------------------------------------------
+ Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD   [33]
+--------------------------------------------------------------------------------
+ Congrats on the solid results. Matt, I realize it's still a relatively small portion of your business, but you talked about your automotive business exceeding $100 million in annualized run rate in Q3. I was hoping you could speak to the breadth of that business today in terms of product, technology, customer mix. And I guess, more importantly, based on the design win pipeline you have in front of you today, how are you thinking about the growth rate going forward in that business?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [34]
+--------------------------------------------------------------------------------
+ Yes. Great. Thanks for the question. So the business today has been squarely focused in this pretty radical change that's happened over the last few years with the internal networks of the car moving to Ethernet-based products and packet-based networking. And that's for a number of reasons. The design wins we have today are extremely broad, and we've got something like 24 -- 20 to 24 car OEMs, not models, not individual products, but the actual OEMs themselves who are adopting Marvell Ethernet technology.
+ In many cases, they have elected to go sole-source with us in those engagements primarily to ensure interoperability because as you add more and more ECUs and modules inside the car, that you want to hook up via Ethernet, you actually want to make sure that the link is highly reliable.
+ We have wins both with the established-leading Tier 1, call it, top 10 car OEMs, but also a very strong position in the emerging challengers, all the EV start-ups, which when you add it all up, and of course, Tesla is a big portion -- a big part of the number but there's like $700 billion, $800 billion worth of market cap tied up, and new emerging EV entrants. So we've got sort of the new guys that are designing our stuff in. That's a call option on growth, and then we have the established players as well.
+ Relative to the financial -- the potential, we've said that we believe it's going to be about a $1 billion market over the next few years. And at our Analyst Day, we gave line of sight to this being a multi-hundred million-dollar type of business. That -- the business has accelerated. We had signaled last year that we were hoping to get to $25 million a quarter exiting the year. We guided now that we're going to get there in Q3. And this business has got tremendous momentum, and you can look at the data we provided now to see how far that business has come over the last 7, 8 quarters. Most of that growth that you see has been driven by the automotive contribution.
+ So it's a big opportunity. And I think that, ultimately, that $1 billion market, you go out 10 years, it will be probably $2 billion. And we obviously hope we can get a big share of that. So it's a big opportunity. And I think the last point I would make is that it's really an entry now because it's such a key part of the car architecture, that we're very, very focused now on applications outside of Ethernet, so compute applications, additional networking products, security and storage. And we've really proven ourselves.
+ A final point. We've shipped millions and millions of units now into cars. They are on the road. We're running at an astonishing 1 DPPM type of quality rate or actually less. In fact, the most recent update I got is we were in the 800, 900 PPB, which I can tell you having a lot of experience in the automotive market, it's really hard to get under 1. And so these products have been engineered extremely well. We put in place like a world-class automotive flow. So we can leverage that, Toshi, for many other Marvell technologies and products outside of Ethernet. And you should expect to hear more from us on this in the future.
+--------------------------------------------------------------------------------
+Operator   [35]
+--------------------------------------------------------------------------------
+ Our next question will come from Gary Mobley with Wells Fargo Securities.
+--------------------------------------------------------------------------------
+ Gary Wade Mobley,  Wells Fargo Securities, LLC, Research Division - Senior Analyst   [36]
+--------------------------------------------------------------------------------
+ I had a couple of questions for Jean. Jean, I would assume that you're in sort of the sweet spot of the OpEx synergy realization from the Inphi acquisition. You're guiding for roughly $1 million sequential growth in non-GAAP OpEx for the third quarter. And so just given all the different moving pieces in your investments and the synergies to be realized from Inphi, is it realistic to think that you could see fourth quarter OpEx drop sequentially and then eventually tick back up in the first quarter per your usual first year increases?
+ And then for the non-GAAP tax rate, if I'm not mistaken, your expectation is for it to increase going forward. Should we think about that maybe 100 to 200 basis point annual increases going forward?
+--------------------------------------------------------------------------------
+ Jean X. Hu,  Marvell Technology, Inc. - CFO   [37]
+--------------------------------------------------------------------------------
+ Maybe the easy one first here. On the non-GAAP tax rate for next year, you probably can just model about 6% because we do have a lot of tax deductions as part of our merger with Inphi. So that's the assumption you can model.
+ On the OpEx, right, is our team did a great job to integrate the one ERP 1 quarter ahead of time. So if you look at the synergy achievement we outlined last quarter, we basically achieved the one ERP 1 quarter earlier. So the OpEx came off in Q2. And then Q3 guidance, frankly, as I said earlier, we do see the pattern of synergy achievement just exactly the same as we outlined last quarter. So Q4, typically, there are variabilities of OpEx. I think I will leave it to you to model it. But from our perspective, we are quite confident to achieve the Inphi synergy. At the same time, the seasonality of OpEx in Q1, you're absolutely right. Typically, Q1, because of the payroll tax, the OpEx will step up.
+ I just want to make sure, right? The team at Marvell is very thoughtful in managing OpEx, but at the same time, increases investment to drive the long-term revenue growth. Especially given the tremendous opportunities we have ahead of us, we are going to make sure we invest. But at the same time, we're always going to drive revenue growth significantly higher than the OpEx growth.
+--------------------------------------------------------------------------------
+Operator   [38]
+--------------------------------------------------------------------------------
+ Our next question will come from Chris Caso with Raymond James.
+--------------------------------------------------------------------------------
+ Christopher Caso,  Raymond James &amp; Associates, Inc., Research Division - Research Analyst   [39]
+--------------------------------------------------------------------------------
+ The question is just a clarification of what's included in the new segmentation, specifically for data center. And I think your comment is that half of -- more than half of that business was cloud-based. What's the other half? Is that more in the area of campus networking? If you can clarify that. And maybe you could talk to the relative growth rates of cloud versus the noncloud that you're expecting within the data center segment going forward.
+--------------------------------------------------------------------------------
+ Jean X. Hu,  Marvell Technology, Inc. - CFO   [40]
+--------------------------------------------------------------------------------
+ Maybe I'll try to give -- yes, I'll give you the definition, then Matt can add. On the on-premise data center, that's part of the data center. It's really, frankly, it's our -- some of the HDD business, the fiber channel business and the networking business. It's on-premise data center. But more than half is actually cloud data center. Matt can add more.
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [41]
+--------------------------------------------------------------------------------
+ Yes. Sure. So think of this as our traditional industry standard servers, host bus adapter cards, enterprise mix, things like that. So that business historically has been pretty flat. And just to clarify, the campus networking products, that's in enterprise networking. So that moves to the enterprise line.
+ So we've gone through pretty carefully and just figured out which -- what our revenue concentration is, specifically in the enterprise on-prem side. So that, we assume, is going to be a flattish business. It's been a flattish business. It will have its ups and downs here and there. All the growth is going to come from cloud.
+ And so this is -- we mentioned it's over half of the revenue today. And even if you look to Q3, the acceleration in growth you see is coming from that portion. And we expect the cloud to be probably one of the biggest growth drivers of the whole company over the next few years. I mean cloud alone is larger than carrier, larger than enterprise, larger than consumer. It's larger than anything else, just on its own, if you had it as its own line item, and that should continue to see very outsized growth for the foreseeable future.
+--------------------------------------------------------------------------------
+Operator   [42]
+--------------------------------------------------------------------------------
+ Our final question will come from Quinn Bolton with Needham &amp; Company. (Operator Instructions)
+--------------------------------------------------------------------------------
+ Nathaniel Quinn Bolton,  Needham &amp; Company, LLC, Research Division - Senior Analyst   [43]
+--------------------------------------------------------------------------------
+ Can you hear me?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [44]
+--------------------------------------------------------------------------------
+ Barely, Quinn.
+--------------------------------------------------------------------------------
+ Nathaniel Quinn Bolton,  Needham &amp; Company, LLC, Research Division - Senior Analyst   [45]
+--------------------------------------------------------------------------------
+ Sorry. Can you hear me now?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [46]
+--------------------------------------------------------------------------------
+ Yes, there you go.
+--------------------------------------------------------------------------------
+ Nathaniel Quinn Bolton,  Needham &amp; Company, LLC, Research Division - Senior Analyst   [47]
+--------------------------------------------------------------------------------
+ Okay. Sorry about that. Matt, I was just going to ask on the 400ZR ramp, how much of that business from Marvell would be optical modules, complete modules versus just selling DSPs to other module vendors? And the reason I ask is if you look at your market share sort of by DSP, what share do you think you may ultimately achieve in the ZR market if you're just kind of counting DSPs?
+--------------------------------------------------------------------------------
+ Matthew J. Murphy,  Marvell Technology, Inc. - President, CEO &amp; Director   [48]
+--------------------------------------------------------------------------------
+ Yes. And I think you're asking some great questions. Like let me give you maybe a higher-level view. And then we've got, as we mentioned, our Analyst Day coming up in October, where you're going to be able to hear actually from the various executives running these groups. And we'll talk in a lot more detail about sort of the questions you're asking because that's fairly specific.
+ But at the highest level, 400ZR is going to be a combination, okay, of both modules as well as stand-alone DSPs. We've -- the team has lined up a number of partners, both for the ZR application, ZR+. There's an open version of that. And then there's also applications for this that are not DCI, right, that are actually in the carrier market.
+ And so there's a broad opportunity here, Quinn, besides just, hey, we take the one hyperscaler we had, we move into 400ZR, and then it's done. It's not that at all. It's -- and the initial ramp, we are seeing, is based on modules. We're continuing to be committed to that. That's a good business for us. But the Inphi team, I think, have done a great job of lining up a broader ecosystem set of partners to drive DSP sales as well. So we can -- we'll give more color on those dynamics when we get into the Investor Day and we start talking more about our products and our technologies.
+--------------------------------------------------------------------------------
+Operator   [49]
+--------------------------------------------------------------------------------
+ This concludes our question-and-answer session. Thank you for attending today's presentation. You may now disconnect.
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q2 2022 Marvell Technology Inc Earnings Call]]></eventTitle>
+  <city>
+  </city>
+  <companyName>Marvell Technology Inc</companyName>
+  <companyTicker>MRVL.OQ</companyTicker>
+  <startDate>26-Aug-21 8:45pm GMT</startDate>
+  <companyId>406335</companyId>
+  <CUSIP>573874104</CUSIP>
+  <SEDOL>BNKJSM5</SEDOL>
+  <ISIN>US5738741041</ISIN>
+</Event>
